@@ -13,4 +13,4 @@ Learn and  Document tools, links, and methods in functional genomics
 
 6. For R and RStudio installation, I used this: https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/ . I used biostar's doctor.py script to verify that I had all the tools, inclusive of R, for bioinformatics, as per biostar. Note: The author of doctor.py recommends a local version of entrez-direct. 
 
-7. Editor: Biostar recommends Sublime Text 2. Now,it is version 3. use the apt steps here: http://www.sublimetext.com/docs/3/linux_repositories.html 
+7. Editor: Biostar recommends Sublime Text 2. Now,it is version 3. use the apt steps here: http://www.sublimetext.com/docs/3/linux_repositories.html . I also downloaded and installed PyCharm (community edition), useful for both text editing and programming in Python. 
