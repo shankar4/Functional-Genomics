@@ -11,4 +11,4 @@ Learn and  Document tools, links, and methods in functional genomics
 
 5. use 'file <full file name>' to find out what type of file a document is. 
 
-6. For R and RStudio installation, I used this: https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/ . 
+6. For R and RStudio installation, I used this: https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/ . I used biostar's doctor.py script to verify that I had all the tools, inclusive of R, for bioinformatics, as per biostar. Note: The author of doctor.py recommends a local version of entrez-direct. 
