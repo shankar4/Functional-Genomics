@@ -10,3 +10,5 @@ Learn and  Document tools, links, and methods in functional genomics
 4. Setting up my PC for the biostar course: Directions are given in the online book. They work. First initialize terminal configuration (section 1.1) and then install conda for creating 'bioinfo' environment (section 1.2). It uses python3. I installed doctor.py as per the online version of the handbook. It indicated that R is missing, along with a few optional program and an error. First, i will install R and then run doctor.py --fixme. Installing R on Linux requires update of /etc/apt/sources.list. See also: https://help.ubuntu.com/lts/serverguide/configuration.html . It cannot be done through LibreOffice Writer as it requires sudo. Here is the method: https://askubuntu.com/questions/197564/how-do-i-add-a-line-to-my-etc-apt-sources-list
 
 5. use 'file <full file name>' to find out what type of file a document is. 
+
+6. For R and RStudio installation, I used this: https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/ . 
