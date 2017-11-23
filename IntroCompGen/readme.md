@@ -30,4 +30,25 @@ then go into R and do
 install.packages("RCurl")
 ** This worked. Now back to RStudio **
 
+ This time the source and biocLite("BSgenome") worked. 
+ Ready to continue with the Exercise. However, there are still error messages related to codetools, lattice, Matrix, spatial. 'Installation path not writeable'. Will try that again. 
+ 
+ There was another message about: non-zero exit status. Explanation: The non-zero exit status simply indicates that there was an error during the installation of the "package". 
+ 
+ May not be of concern. However, I want to know how to take care of this.
+ Here is a link: https://stackoverflow.com/questions/41839214/installation-path-not-writable-r-unable-to-update-packages
+ 
+ This is the suggested solution:
+ It was a permission issue for me. First, I identified where the packages were installed using installed.packages() %>% .[, c("Package", "LibPath")]. You need to have the package magrittr installed to use the "%>%" pipe operator. This outputs a long 2 column matrix with the names and locations of the packages. Then you will see where the offending packages are. In my case, they were at /usr/lib/R/site-library and /usr/lib/R/library. Then I changed the permission of these folders by chmod (I used chmod -R 777 on the main R folder ...)
+ 
+To install margrittr, a CRAN package, start R and use the install.packages command. it installed. No problems. My usage gave the message as 'out of bounds' - then, I just used the File Explorer - could not find a couple of these R files. Perhaps these packages were not installed earlier. There was an implication of this at another response elsewhere.
+
+I will try to install them first. Installed: lattice, Matrix, spatial, and codetools. two more to install: XML and rtracklayer
+
+The final solution was simple: use in admin mode. That is, do sudo R or sudo rstudio. That would allow proper updating of the files. here is the link: https://stackoverflow.com/questions/28546382/installed-directory-not-writable-cannot-update-packages-boot-class-kerns 
+
+
+
+ 
+ 
  
