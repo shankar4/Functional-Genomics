@@ -20,3 +20,14 @@ I did a search on the file explorer and found it to be loaded here: ///home/shan
 Now, I have to associate one of these paths with PKg_CONFIG_PATh and then try to install again. 
 From https://askubuntu.com/questions/210210/pkg-config-path-environment-variable
 export PKG_CONFIG_PATH= one of the above paths -- tried /home/shankar/miniconda3/pkgs/curl-7.54.1-0/lib/pkgconfig
+This did not work either.
+I went back online and found this reference: https://askubuntu.com/questions/359267/cannot-find-curl-config-in-ubuntu-13-04
+to install RCurl: 
+sudo apt-get install libcurl4-gnutls-dev
+
+then go into R and do
+
+install.packages("RCurl")
+** This worked. Now back to RStudio **
+
+ 
