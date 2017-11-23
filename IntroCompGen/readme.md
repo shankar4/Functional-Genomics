@@ -47,6 +47,17 @@ I will try to install them first. Installed: lattice, Matrix, spatial, and codet
 
 The final solution was simple: use in admin mode. That is, do sudo R or sudo rstudio. That would allow proper updating of the files. here is the link: https://stackoverflow.com/questions/28546382/installed-directory-not-writable-cannot-update-packages-boot-class-kerns 
 
+However, XML still did not install under rstudio, even with sudo. Here is another link for that:
+https://stackoverflow.com/questions/7765429/unable-to-install-r-package-in-ubuntu-11-04 
+Solution:
+You need to install the ubuntu package libxml2-dev So in a shell prompt type:
+
+sudo apt-get update
+sudo apt-get install libxml2-dev
+
+Now XML installed from rstudio (invoked with sudo). 
+
+Final note: Look at the BiostringsLab.R code. I included lines for source and biocLite there itself. 
 
 
  
