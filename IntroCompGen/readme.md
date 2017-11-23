@@ -18,5 +18,5 @@ I checked the pkg-congig and found 1 and 2 directories to be non-empty. The 3rd 
 I did a search on the file explorer and found it to be loaded here: ///home/shankar/miniconda3/envs/bioinfo/lib/pkgconfig/libcurl.pc and also here: ///home/shankar/miniconda3/pkgs/curl-7.54.1-0/lib/pkgconfig/libcurl.pc.
 
 Now, I have to associate one of these paths with PKg_CONFIG_PATh and then try to install again. 
-From 
-export PKG_CONFIG_PATH= <<one of the above paths>>. 
+From https://askubuntu.com/questions/210210/pkg-config-path-environment-variable
+export PKG_CONFIG_PATH= one of the above paths -- tried /home/shankar/miniconda3/pkgs/curl-7.54.1-0/lib/pkgconfig
