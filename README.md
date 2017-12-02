@@ -29,5 +29,7 @@ I do see an installer ("BiocInstaller") in the Home/R in a subdirectory. Perhaps
 
 12. Still trying to navigate around the Unix tree. The "/" is the root - relabeled as 'shankardell' (my PC name) in the File Explorer. It is easy to get to it in an terminal window with cd / , but click on the Pc name to find this root in the File Explorer. Clicking on Home will lead to user directories. Re-study all the sub folders you see there.
 
-13. I will use this tutorial: https://web.stanford.edu/class/bios221/labs/biostrings/lab_1_biostrings.html to learn about biostrings.
+13. I will use this tutorial: https://web.stanford.edu/class/bios221/labs/biostrings/lab_1_biostrings.html to learn about biostrings. Uploaded the completed tutorial R file to Github (here).
+14. I will now use BioStrings for exercises in "Introduction to Computational Genomics" By Cristianini and Hahn. R files
+will be uploaded to the corresponding subdirectory at Github. 
 
