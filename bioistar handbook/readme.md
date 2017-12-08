@@ -4,4 +4,8 @@ completed.
 Three quizzes completed. Read through the section on "reproducibility" and downloaded the papers and files associated with recent
 papers on Ebola and Zika viruses. Also downloaded data from GenBank for the first one. The data will be analyzed later with BLAST etc.
 
-Starting work on "What do words mean." Downloaded HGC data for Chromosome 7 in Json format from here: https://www.genenames.org/cgi-bin/statistics?c=7. Onto.R will document my work here. Installed rsjon. 
+Starting work on "What do words mean." Downloaded HGC data for Chromosome 7 in Json format from here: https://www.genenames.org/cgi-bin/statistics?c=7. Onto.R will document my work here. 
+
+12/8/17 First, I wanted to understand how to explore nested list structure of JSON files. Installed jsonlite (seems better compared to other packages). Redid a tutorial on the use of R to download and parse JSON data from NY city. Included here as JSONTutorial.R
+
+Getting back to downloading a JSON file and an ontology file for processing. 
