@@ -5,3 +5,14 @@ still has much useful info. Outdated:  there is implication that there are 100,0
 Prokaryote - Bacterial cells, simplest living cells. Have a single chromosome, and no separate nucleus and cytoplasm as with higher
 organisms (Eukaryotes). DNA is inside the nucleus in Eukaryotes. Bacterial cell is 1 micron long and 0.5 micron wide (typ). Bacteria 
 have two names, both printed in italics: Genus (a group of closely related species) and species (the individual name). Eg., *E.coli*
+
+Some highlighting examples, for later use (need language spec):
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
