@@ -6,6 +6,7 @@ Prokaryote - Bacterial cells, simplest living cells. Have a single chromosome, a
 organisms (Eukaryotes). DNA is inside the nucleus in Eukaryotes. Bacterial cell is 1 micron long and 0.5 micron wide (typ). Bacteria 
 have two names, both printed in italics: Genus (a group of closely related species) and species (the individual name). Eg., *E.coli*
 
+**** Some markdown hints ****
 Some highlighting examples, for later use (need language spec):
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -16,3 +17,4 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
+Inline `code` has `back-ticks around` it.
