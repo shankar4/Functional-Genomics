@@ -1,8 +1,8 @@
 Please see https://www.biostarhandbook.com/. The online version is more up-to-date vs the download (as expected).
 They also have a course that you can sign up for a low price and get a a certificate in. There are quizzes to be
-completed. 
-Three quizzes completed. Read through the section on "reproducibility" and downloaded the papers and files associated with recent
-papers on Ebola and Zika viruses. Also downloaded data from GenBank for the first one. The data will be analyzed later with BLAST etc.
+completed. All the work is supposed to be done in a command shell window, not using RStudio. A Good Bash tutorial is here: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/ . I will use both. 
+
+Three quizzes completed. Read through the section on "reproducibility" and downloaded the papers and files associated with recent papers on Ebola and Zika viruses. Also downloaded data from GenBank for the first one. The data will be analyzed later with BLAST etc.
 
 Starting work on lecture 4:  "What do words mean." Downloaded HGC data for Chromosome 7 in Json format from here: https://www.genenames.org/cgi-bin/statistics?c=7. Onto.R will document my work here. 
 
@@ -16,3 +16,4 @@ association file. Key concepts from lecture notes: SO - helps conceptualize feat
 relationship. GO - helps understand what a feature does, how, and where. 
 
 Homework (HW04) is to be documented here as a R file (DataMeaning.R). It will use SO and GO ontologies. First, I will focus on getting to those two through R with the HW problem as the end goal.
+
