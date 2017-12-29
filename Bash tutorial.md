@@ -36,6 +36,34 @@ $ echo $-
 $ echo $[4*12]
 >48
 
+Chapter 4 is on regex:
+
+$ grep root /etc/passwd
+>root:x:0:0:root:/root:/bin/bash
+
+$ grep ^root /etc/passwd
+>root:x:0:0:root:/root:/bin/bash
+
+$ grep -n root /etc/passwd
+>1:root:x:0:0:root:/root:/bin/bash
+
+$ grep export ~/.bashrc
+>export NVM_DIR="/home/shankar/.nvm"
+export PATH=~/bin:$PATH
+export PS1='\[\e]0;\w\a\]\n\[\e[32m\]\u@\h \[\e[33m\]\w\[\e[0m\]\n\$ '
+export PERL_LWP_SSL_VERIFY_HOSTNAME=0
+export LC_ALL=C
+export PATH="/home/shankar/miniconda3/bin:$PATH"
+export PATH=~/src/edirect:$PATH
+
+$ grep export ~/.bashrc | grep '\PATH'
+>export PATH=~/bin:$PATH
+export PATH="/home/shankar/miniconda3/bin:$PATH"
+export PATH=~/src/edirect:$PATH
+
+
+
+
 
 
 
