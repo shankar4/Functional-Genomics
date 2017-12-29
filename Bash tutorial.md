@@ -36,7 +36,7 @@ $ echo $-
 $ echo $[4*12]
 >48
 
-Chapter 4 is on regex (md reinterprets the :x: and :~  in the outputs; so, outputs not shown, just commented on)
+Chapter 4 is on regex (md reinterprets certain characters in the outputs; so, outputs not shown, just commented on)
 
 $ grep root /etc/passwd  - display lines with the string 'root' in the file: /etc/passwd
 
@@ -50,7 +50,12 @@ $ grep export ~/.bashrc | grep '\PATH' -- display further only lines with word s
 
 $ grep export ~/.bashrc | grep -w bin -- display further only lines with a separate word of 'bin' - effect same as for PATH
 
- 
+$ grep [yf] /etc/group -- displays any line with either y or f
+
+grep '\<c...h\>' /usr/share/dict/words  -- displays 5 letter words in dictionary that start with c and end in h 
+
+grep '\<c.*h\>' /usr/share/dict/words  - * implies any number of letters in-between
+
 
 
 
