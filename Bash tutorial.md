@@ -69,6 +69,16 @@ Blockquote - start with the symbol: > and continue with no space
 To create an unordered list: start with an * and a space. Each item gets its own line. An ordered list is prefaced with numbers, instead of *. If sublists, indent the asterik one space more than the preceding one.  
 Add a line for a hardbreak between paragraphs. Also, achieve the same effect, more elegantly, with two spaces after each line.  
 
+**Perl on Linux**
+checked if installed with   
+perl -v
+>This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
+(with 60 registered patches, see perl -V for more detail).....
+
+
+
+
+
 
 
 
