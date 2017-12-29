@@ -68,7 +68,6 @@ grep '\<c.*h\>' /usr/share/dict/words  - * implies any number of letters in-betw
 
 
 The latest news from the 
-
 [BBC]: # (www.bbc.com)  
 
 
