@@ -36,31 +36,21 @@ $ echo $-
 $ echo $[4*12]
 >48
 
-Chapter 4 is on regex
+Chapter 4 is on regex (md reinterprets the :x: and :~  in the outputs; so, outputs not shown, just commented on)
 
-$ grep root /etc/passwd
+$ grep root /etc/passwd  - display lines with the string 'root' in the file: /etc/passwd
 
-"root:x:0:0:root:/root:/bin/bash"
+$ grep ^root /etc/passwd  - display lines that start with 'root'
+ 
+$ grep -n root /etc/passwd - display line number also
+ 
+$ grep export ~/.bashrc - display lines with 'export' in the home directory's bashrc file
+ 
+$ grep export ~/.bashrc | grep '\PATH' -- display further only lines with word starting with 'PATH'. use \> for ending with.
 
-$ grep ^root /etc/passwd
->"root:x:0:0:root:/root:/bin/bash"
+$ grep export ~/.bashrc | grep -w bin -- display further only lines with a separate word of 'bin' - effect same as for PATH
 
-$ grep -n root /etc/passwd
->"1:root:x:0:0:root:/root:/bin/bash"
-
-$ grep export ~/.bashrc
->"export NVM_DIR="/home/shankar/.nvm"
-export PATH=~/bin:$PATH
-export PS1='\[\e]0;\w\a\]\n\[\e[32m\]\u@\h \[\e[33m\]\w\[\e[0m\]\n\$ '
-export PERL_LWP_SSL_VERIFY_HOSTNAME=0
-export LC_ALL=C
-export PATH="/home/shankar/miniconda3/bin:$PATH"
-export PATH=~/src/edirect:$PATH"
-
-$ grep export ~/.bashrc | grep '\PATH'
->"export PATH=~/bin:$PATH
-export PATH="/home/shankar/miniconda3/bin:$PATH"
-export PATH=~/src/edirect:$PATH"
+ 
 
 
 
