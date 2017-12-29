@@ -96,8 +96,13 @@ Hello, Ravi
  ... you will soon be Perl Perfect!  
  
 How to read and write in Perl-- Ref: http://learn.perl.org/examples/read_write_file.html   
-Another good ref: https://perlmaven.com/use-path-tiny-to-read-and-write-file 
-Also install Path::Tiny from here:  
+Another good ref: https://perlmaven.com/use-path-tiny-to-read-and-write-file   
+There are 108K Perl modules that can be downloaded and installed from CPAN (Comprehensive Perl Archival network).
+Need do these two things to install Path::Tiny  
+cpan App::cpanminus  
+cpanm Module::Name  
+
+
 First create a file, say with gedit with 3 names - say Larry, Mary, and Harry one per line (data.txt)  
 create and save a read.pl file: 
 
