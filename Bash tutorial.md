@@ -68,7 +68,7 @@ with []:() did not work here.
 Blockquote - start with the symbol: > and continue with no space  
 To create an unordered list: start with an * and a space. Each item gets its own line. An ordered list is prefaced with numbers, instead of *. If sublists, indent the asterik one space more than the preceding one.  
 Add a line for a hardbreak between paragraphs. Also, achieve the same effect, more elegantly, with two spaces after each line.    
-Looks like a ! following a hashtag negates the effect of the header bolding. See the example of read.pl below. Not true. Need to explore this further. 
+Adding hashtag later in the line negagtes the bolding of header lines with #. See the example of read.pl below.  
 
 **Perl on Linux**  Ref: https://www.thoughtco.com/how-to-install-and-run-perl-2641103  (this ref seems outdated; see the Perl links below)     
 It is a good data mining and scripting tool    
@@ -115,12 +115,9 @@ use Path::Tiny;
 use autodie; #die if problem reading or writing a file  
 my $dir = path("~/PerlHelp/tmp");  
 my $file = $dir->child("data.txt");  
-<!---# Read in the entire contents of a file --->
-my $content = $file -> slurp_utf8();  
-<!---# Openr_utf8() returns an IO file object to read from -->
-my $file_handle = $file -> openr_utf8();    
-<!--- # Read one line at a time   --->
-while (my $line = $file_handle -> getline()) {    
+my $content = $file -> slurp_utf8();  # Read in the entire contents of a file 
+my $file_handle = $file -> openr_utf8();  # Openr_utf8() returns an IO file object to read from    
+while (my $line = $file_handle -> getline()) {  # Read one line at a time  
 	print $line;  
 }  
 
