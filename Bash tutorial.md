@@ -116,13 +116,13 @@ use autodie; #die if problem reading or writing a file
 my $dir = path("~/PerlHelp/tmp");  
 my $file = $dir->child("data.txt");  
 
-# Read in the entire contents of a file  
+<!---# Read in the entire contents of a file  --->
 my $content = $file -> slurp_utf8();  
 
-# Openr_utf8() returns an IO file object to read from  
+<!---# Openr_utf8() returns an IO file object to read from ---> 
 my $file_handle = $file -> openr_utf8();    
 
-# Read one line at a time    
+<!---# Read one line at a time   ---> 
 while (my $line = $file_handle -> getline()) {    
 	print $line;  
 }  
