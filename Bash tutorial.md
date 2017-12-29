@@ -56,13 +56,7 @@ grep '\<c...h\>' /usr/share/dict/words  -- displays 5 letter words in dictionary
 
 grep '\<c.*h\>' /usr/share/dict/words  - * implies any number of letters in-between
 
-
-
-
-
-
-
-
+<!--- Continue with Chapter 5 on sed and Chapter 6 on AWK --->
 
 **Some .md 'how to's from the md tutorial site referenced above (in the edit mode at Github):**
 
