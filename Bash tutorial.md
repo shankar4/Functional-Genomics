@@ -66,7 +66,8 @@ grep '\<c.*h\>' /usr/share/dict/words  - * implies any number of letters in-betw
 
 **Some .md lessons from the md tutorial site referenced above (in the edit mode at Github):**
 
-The latest news from the [BBC]: <> (www.bbc.com)
+The latest news from the [BBC]: # (www.bbc.com)
+
 Blockquote - start with the symbol: > and continue with no space
 
 
