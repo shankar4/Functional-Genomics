@@ -110,13 +110,11 @@ This is the code in read.pl:
 >#!/usr/bin/perl  
 use strict;  
 use warnings;  
-
 use Path::Tiny;  
 use autodie; #die if problem reading or writing a file  
 my $dir = path("~/PerlHelp/tmp");  
 my $file = $dir->child("data.txt");  
-
-<!---# Read in the entire contents of a file  --->
+># Read in the entire contents of a file
 my $content = $file -> slurp_utf8();  
 
 <!---# Openr_utf8() returns an IO file object to read from ---> 
