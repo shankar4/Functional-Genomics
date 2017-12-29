@@ -20,5 +20,5 @@ $ cat /etc/shells
 /bin/bash
 /bin/rbash
 
-[visit GitHub](www.google.com}
+The latest new from the [BBC] (www.bbc.com)
 
