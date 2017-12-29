@@ -6,8 +6,7 @@ All the activities below are in a terminal window
 
 #### Find Ubuntu version
 $ lsb_release -a   gives:
->
-No LSB modules are available.
+>No LSB modules are available.
 Distributor ID:	Ubuntu
 Description:	Ubuntu 16.04.3 LTS
 Release:	16.04
@@ -15,9 +14,7 @@ Codename:	xenial
 
 #### Find various shells on your system
 $ cat /etc/shells  gives:
->
-/etc/shells: valid login shells - 
-
+>/etc/shells: valid login shells - 
 /bin/sh
 /bin/dash
 /bin/bash
