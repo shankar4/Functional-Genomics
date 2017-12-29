@@ -69,7 +69,8 @@ grep '\<c.*h\>' /usr/share/dict/words  - * implies any number of letters in-betw
 <!---
 The latest news from the [BBC]: # (www.bbc.com)  
 --->
-
+Use html comment tags -- with ! and three dashes, etc. -- if you wish to include comments visible only to you, and  not the reader. Other suggestions
+with []:() did not work here. 
 
 Blockquote - start with the symbol: > and continue with no space
 
