@@ -99,14 +99,41 @@ How to read and write in Perl-- Ref: http://learn.perl.org/examples/read_write_f
 Another good ref: https://perlmaven.com/use-path-tiny-to-read-and-write-file   
 There are 108K Perl modules that can be downloaded and installed from CPAN (Comprehensive Perl Archival network).
 Need do these two things to install Path::Tiny  
-cpan App::cpanminus  
-cpanm Module::Name  
-
+cpan App::cpanminus  --nI chose the option to load into my homedirectory. I had to redo with sudo this command
+to install the Path module with cpanm Module::Name ..specifically cpanm Path::Tiny. 
 
 First create a file, say with gedit with 3 names - say Larry, Mary, and Harry one per line (data.txt)  
+
 create and save a read.pl file: 
 
+This is the code in read.pl:  
+>#!/usr/bin/perl  
+use strict;  
+use warnings;  
+
+use Path::Tiny;  
+use autodie; #die if problem reading or writing a file  
+my $dir = path("~/PerlHelp/tmp");  
+my $file = $dir->child("data.txt");  
+
+# Read in the entire contents of a file  
+my $content = $file -> slurp_utf8();  
+
+# Openr_utf8() returns an IO file object to read from  
+my $file_handle = $file -> openr_utf8();    
+
+# Read one line at a time    
+while (my $line = $file_handle -> getline()) {    
+	print $line;  
+}  
+
+
 Run it with perl read.pl to see the list of names  
+$ perl read.pl
+>Larry  
+Mary  
+Harry  
+
 
 
 
