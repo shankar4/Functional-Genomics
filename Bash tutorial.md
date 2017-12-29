@@ -74,11 +74,17 @@ It is a good data mining and scripting tool
 checked if installed with:   
 perl -v
 >This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
-(with 60 registered patches, see perl -V for more detail).....
+(with 60 registered patches, see perl -V for more detail).....  
+I used the following to locate where it is loaded:
+ 
+$ locate perl|grep '/bin/perl$' -- found 3 sites  
+>/home/shankar/miniconda3/envs/bioinfo/bin/perl  
+/home/shankar/miniconda3/pkgs/perl-5.22.0.1-0/bin/perl  
+/usr/bin/perl  
 
 First script:    
 use gedit to build hello.pl
->#!use/bin/perl  
+>#!/usr/bin/perl  
 print "Enter your name:";  
 $name = <STDIN>;  
 print "Hello, ${name} ... you will soon be Perl Perfect!";  
@@ -88,9 +94,14 @@ $ perl hello.pl
 >Enter your name:Ravi  
 Hello, Ravi  
  ... you will soon be Perl Perfect!  
-How to read and write in Perl-- Ref: https://www.thoughtco.com/read-and-write-files-in-perl-2641155    
-First create a file, say with gedit with 3 names (just following the ref's example) - say Larry, Mary, and Harry one per line (data.txt)  
+ 
+How to read and write in Perl-- Ref: http://learn.perl.org/examples/read_write_file.html   
+First create a file, say with gedit with 3 names - say Larry, Mary, and Harry one per line (data.txt)  
 create and save a read.pl file: 
+
+Run it with perl read.pl to see the list of names  
+
+
 
 
 
