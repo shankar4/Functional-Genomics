@@ -15,17 +15,34 @@ Codename:	xenial
 
 #### Find various shells on your system
 $ cat /etc/shells
-##### /etc/shells: valid login shells
+###### /etc/shells: valid login shells - 
 
 /bin/sh
 /bin/dash
 /bin/bash
 /bin/rbash
 
-To switch from the default (sh in my case) to bash, execute or enter 'bash' in the terminal window
+A shell is an executable file and is listed in PATH
+$ echo $PATH
+/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/.nvm/versions/node/v4.2.6/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/fis-gtm/V6.0-003_x86_64:/usr/lib/fis-gtm/V6.0-003_x86_64
+
+$ pwd
+/home/shankar
+
+To switch from the default (sh in my case) to bash, execute or enter 'bash'. It stands for Bourne Again SHell
+
+Check if in interactive mode:
+$ echo $-
+himBH
+
+$ echo $[4*12]
+48
 
 
-#####Some .md lessons from the md tutorial site referenced above:
+
+
+
+#####Some .md lessons from the md tutorial site referenced above (in the edit mode at Github):
 
 The latest new from the [BBC] (www.bbc.com)
 
