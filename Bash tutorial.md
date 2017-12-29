@@ -68,4 +68,7 @@ with []:() did not work here.
 
 Blockquote - start with the symbol: > and continue with no space
 
+To create an unordered list: start with an * and a space. Each item gets its own line. An ordered list is prefaced with numbers, instead of *. 
+
+
 
