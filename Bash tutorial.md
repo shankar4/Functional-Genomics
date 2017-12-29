@@ -69,8 +69,8 @@ Blockquote - start with the symbol: > and continue with no space
 To create an unordered list: start with an * and a space. Each item gets its own line. An ordered list is prefaced with numbers, instead of *. If sublists, indent the asterik one space more than the preceding one.  
 Add a line for a hardbreak between paragraphs. Also, achieve the same effect, more elegantly, with two spaces after each line.  
 
-**Perl on Linux**  Ref: https://www.thoughtco.com/how-to-install-and-run-perl-2641103
-It is a good data mining and scripting tool  
+**Perl on Linux**  Ref: https://www.thoughtco.com/how-to-install-and-run-perl-2641103  
+It is a good data mining and scripting tool    
 checked if installed with:   
 perl -v
 >This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
@@ -88,7 +88,9 @@ $ perl hello.pl
 >Enter your name:Ravi  
 Hello, Ravi  
  ... you will soon be Perl Perfect!  
-
+How to read and write in Perl-- Ref: https://www.thoughtco.com/read-and-write-files-in-perl-2641155    
+First create a file, say with gedit with 3 names (just following the ref's example) - say Larry, Mary, and Harry one per line (data.txt)  
+create and save a read.pl file: 
 
 
 
