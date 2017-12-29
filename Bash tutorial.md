@@ -77,16 +77,16 @@ perl -v
 
 First script:    
 use gedit to build hello.pl
->#!use/bin/perl
-print "Enter your name:";
-$name = <STDIN>;
-print "Hello, ${name} ... you will soon be Perl Perfect!";
+>#!use/bin/perl  
+print "Enter your name:";  
+$name = <STDIN>;  
+print "Hello, ${name} ... you will soon be Perl Perfect!";  
 
-Run it:  
-$ perl hello.pl
->Enter your name:Ravi
-Hello, Ravi
- ... you will soon be Perl Perfect!
+Run it:    
+$ perl hello.pl  
+>Enter your name:Ravi  
+Hello, Ravi  
+ ... you will soon be Perl Perfect!  
 
 
 
