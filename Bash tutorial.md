@@ -36,10 +36,11 @@ $ echo $-
 $ echo $[4*12]
 >48
 
-Chapter 4 is on regex: (double quotes added below so md does not mis-interpret shell outputs)
+Chapter 4 is on regex
 
 $ grep root /etc/passwd
->"root:x:0:0:root:/root:/bin/bash"
+
+"root:x:0:0:root:/root:/bin/bash"
 
 $ grep ^root /etc/passwd
 >"root:x:0:0:root:/root:/bin/bash"
