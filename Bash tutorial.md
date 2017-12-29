@@ -2,6 +2,8 @@ I will try various Bash commands as documented here: http://www.tldp.org/LDP/Bas
 Also install grep ('global regular expression print') with sudo apt-get install grep.
 Also, here is a good md tutorial (md is the text editing language used at Github): https://www.markdowntutorial.com/
 
+All the activities below are in a terminal window
+
 #### Find Ubuntu version
 $ lsb_release -a
 
@@ -19,6 +21,11 @@ $ cat /etc/shells
 /bin/dash
 /bin/bash
 /bin/rbash
+
+To switch from the default (sh in my case) to bash, execute or enter 'bash' in the terminal window
+
+
+#####Some .md lessons from the md tutorial site referenced above:
 
 The latest new from the [BBC] (www.bbc.com)
 
