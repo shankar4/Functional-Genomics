@@ -28,3 +28,8 @@ box (not 'gene')  for the first item, and it gave the correction NM # at https:/
 Application 2: Converting accession numbers to data
 >$ perl App2.pl >App2.fasta
 The output is fasta formatted data for four Acc nums. Attached. 
+
+Application 3: Retrieve large datasets. 50K+ sequencesof chimpanzee mRNA in .fna format (multiple FASTA data):
+>perl App3.pl #This takes a substantial amount of time (>10 mins in my case, through university WiFi system)
+
+Application 4: Finding unique sets of linked records for each member of a larger dataset. Not attempted.
