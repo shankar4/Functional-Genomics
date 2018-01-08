@@ -65,7 +65,7 @@ The latest news from the [BBC]: # (www.bbc.com)
 --->
 Use html comment tags -- with ! and three dashes, etc. -- if you wish to include comments visible only to you, and  not the reader. Other suggestions
 with []:() did not work here.   
-Blockquote - start with the symbol: > and continue with no space  
+Blockquote - start with the symbol: > and continue with no space. Comments can be included with # - does not result in headers.  
 To create an unordered list: start with an * and a space. Each item gets its own line. An ordered list is prefaced with numbers, instead of *. If sublists, indent the asterik one space more than the preceding one.  
 Add a line for a hardbreak between paragraphs. Also, achieve the same effect, more elegantly, with two spaces after each line.    
 Adding hashtag later in the line negagtes the bolding of header lines with #. See the example of read.pl below.  
