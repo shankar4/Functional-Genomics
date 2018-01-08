@@ -132,7 +132,8 @@ I also installed Entrez Direct (EDirect) perl scripts from NCBI's EDirect site (
 $ echo $PATH
 >/home/shankar/perl5/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/.nvm/versions/node/v4.2.6/bin:/home/shankar/perl5/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/fis-gtm/V6.0-003_x86_64:/usr/lib/fis-gtm/V6.0-003_x86_64
 
-
+.bashrc in the home directory is hidden. Use this to find and list:
+>
 
 
 
