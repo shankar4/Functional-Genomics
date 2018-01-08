@@ -147,6 +147,10 @@ drwxr-xr-x   3 root    root       4096 Mar 23  2016 ..
 drwx------  32 shankar shankar    4096 Nov 10 13:05 .cache
 ...
 
+To see what is in the .bashrc file:
+>$ more /home/shankar/.bashrc
+
+
 
 
 
