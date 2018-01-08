@@ -9,8 +9,8 @@ EDirect runs on Unix and needs Perl installed. I installed Perl module infrastru
 Comprehensive Perl Archive Network (CPAN). 
 Do this: 
 >sudo apt install cpanminus 
- # it is "is a script to get, unpack, build and install modules from CPAN and does nothing else."
- # It was installed in perl5 folder in my home directory
+  #it is "is a script to get, unpack, build and install modules from CPAN and does nothing else."
+  #It was installed in perl5 folder in my home directory
 Cpanm Path::Tiny # this installs Tiny to subfolder Path in perl5
 
 Now, the next step from EDirect link given above. This downloaded several scripts into an "edirect" folder into my home directory:
