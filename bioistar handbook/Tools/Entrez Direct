@@ -1,0 +1,7 @@
+Entrez Direct (EDirect), per Dr. Pevsner, is far easier to use than Entrez Utilities (EUtil), but is command shell based.  EDirect runs 
+on Unix and needs Perl installed. I installed Perl module infrastructure from metacpan.org. It is an open source engine for the
+Comprehensive Perl Archive Network (CPAN). 
+Do this: 
+sudo apt install cpanminus # it is "is a script to get, unpack, build and install modules from CPAN and does nothing else."
+# It was installed in perl5 folder in my home directory
+Cpanm Path::Tiny # this installs Tiny to subfolder Path in perl5
