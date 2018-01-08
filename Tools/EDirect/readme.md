@@ -1,9 +1,10 @@
-EDirect (aka Entrez Direct) and E-utilities (Entrez utilities) are NCBI tools to access 38 genetics related databases. My
-documentation here is based on perl scripts that they use. I will document later info on R packages, once I have learned more.
+EDirect (aka Entrez Direct) and E-utilities (Entrez utilities) are NCBI tools to access 38 genetics related databases. EDirectr is command shell based. After woriking with E-utilities scripts in Perl, over the past few days, it is clear that command shell interface will be easier to use and understand (both need Perl). This matches with the recommendation of Dr. Pevsner in his book: Bioinformatics and Functional Genomics. 
+
+My documentation of E-utilities here is based on perl scripts that they use. 
 
 Links: https://www.ncbi.nlm.nih.gov/books/NBK25497/ and https://www.ncbi.nlm.nih.gov/books/NBK179288/
 
-EDirect, per Dr. Pevsner (author of Bioinformatics and Functional Genomics), is far easier to use than Entrez Utilities (EUtil), but is command shell based. 
+For **EDirect**: 
 
 EDirect runs on Unix and needs Perl installed. I installed Perl module infrastructure from metacpan.org. It is an open source engine for the
 Comprehensive Perl Archive Network (CPAN). 
@@ -38,6 +39,12 @@ Now, the next step from EDirect link given above. This downloaded several script
     einfo obtains information on indexed fields in an Entrez database.
     epost uploads unique identifiers (UIDs) or sequence accession numbers.
     nquire sends a URL request to a web page or CGI service.
-    
-Install UserAgent, a perl module, required for E-utilities:
->sudo cpanm LWP::UserAgent    
+
+
+
+**For E-utilties**:
+
+Install also UserAgent, a perl module:
+>sudo cpanm LWP::UserAgent   
+
+I tried out most of the sample examples and applications that NCBI provides online for E-utilities. The code and some of the results are attached under the Samples directory. 
