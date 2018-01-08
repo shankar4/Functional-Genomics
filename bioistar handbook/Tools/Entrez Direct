@@ -1,10 +1,38 @@
-Entrez Direct (EDirect), per Dr. Pevsner, is far easier to use than Entrez Utilities (EUtil), but is command shell based.  EDirect runs 
-on Unix and needs Perl installed. I installed Perl module infrastructure from metacpan.org. It is an open source engine for the
+Entrez Direct (EDirect), per Dr. Pevsner, is far easier to use than Entrez Utilities (EUtil), but is command shell based. 
+Link: https://www.ncbi.nlm.nih.gov/books/NBK179288/
+
+EDirect runs on Unix and needs Perl installed. I installed Perl module infrastructure from metacpan.org. It is an open source engine for the
 Comprehensive Perl Archive Network (CPAN). 
 Do this: 
 >sudo apt install cpanminus 
  # it is "is a script to get, unpack, build and install modules from CPAN and does nothing else."
  # It was installed in perl5 folder in my home directory
 Cpanm Path::Tiny # this installs Tiny to subfolder Path in perl5
+
+Now, the next step from EDirect link given above. This downloaded several scripts into an "edirect" folder into my home directory:
+>cd ~
+  /bin/bash
+  perl -MNet::FTP -e \
+    '$ftp = new Net::FTP("ftp.ncbi.nlm.nih.gov", Passive => 1);
+     $ftp->login; $ftp->binary;
+     $ftp->get("/entrez/entrezdirect/edirect.tar.gz");'
+  gunzip -c edirect.tar.gz | tar xf -
+  rm edirect.tar.gz
+  builtin exit
+  export PATH=$PATH:$HOME/edirect >& /dev/null || setenv PATH "${PATH}:$HOME/edirect"
+  ./edirect/setup.sh
+  
+  EDirect functions:
+  > esearch performs a new Entrez search using terms in indexed fields.
+    elink looks up neighbors (within a database) or links (between databases).
+    efilter filters or restricts the results of a previous query.
+    efetch downloads records or reports in a designated format.
+    xtract converts XML into a table of data values.
+
+    More:
+    einfo obtains information on indexed fields in an Entrez database.
+    epost uploads unique identifiers (UIDs) or sequence accession numbers.
+    nquire sends a URL request to a web page or CGI service.
+
 
 
