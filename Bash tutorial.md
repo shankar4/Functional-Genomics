@@ -1,6 +1,7 @@
 I will try various Bash commands as documented here: http://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html . 
 Also install grep ('global regular expression print') with sudo apt-get install grep.
-Also, here is a good md tutorial (md is the text editing language used at Github): https://www.markdowntutorial.com/ . Some md hints are included at the end. 
+Also, here is a good md tutorial (md is the text editing language used at Github): https://www.markdowntutorial.com/ . 
+**Some md hints are included at the end.** 
 
 All the activities below are in a terminal window
 
