@@ -12,7 +12,7 @@ Do this:
   #it is "is a script to get, unpack, build and install modules from CPAN and does nothing else."
   #It was installed in perl5 folder in my home directory
   
->cpanm Path::Tiny # this installs Tiny to subfolder Path in perl5
+>sudo cpanm Path::Tiny # this installs Tiny to subfolder Path in perl5
 
 Now, the next step from EDirect link given above. This downloaded several scripts into an "edirect" folder into my home directory:
 >cd ~
@@ -40,4 +40,4 @@ Now, the next step from EDirect link given above. This downloaded several script
     nquire sends a URL request to a web page or CGI service.
     
 Install UserAgent, a perl module, required for E-utilities:
->cpanm LWP::UserAgent    
+>sudo cpanm LWP::UserAgent    
