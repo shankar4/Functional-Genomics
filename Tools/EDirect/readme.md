@@ -38,4 +38,5 @@ Now, the next step from EDirect link given above. This downloaded several script
     epost uploads unique identifiers (UIDs) or sequence accession numbers.
     nquire sends a URL request to a web page or CGI service.
     
+    Install UserAgent, a perl module:
     
