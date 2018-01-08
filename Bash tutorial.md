@@ -153,7 +153,22 @@ To see what is in the .bashrc file:
 $ more /home/shankar/.bashrc
 
 
+**Some markdown hints**
+md ref: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Highlighting examples, for later use (need language spec):
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+Inline `code` has `back-ticks around` it.
 
+Math symbols: https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima, available on Chrome.
+LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf
 
 
 
