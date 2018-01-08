@@ -25,3 +25,6 @@ Application 1: Converting GI numbers to accession numbers
 #I went to this site: https://www.ncbi.nlm.nih.gov/genbank/sequenceids/ and used the 'Nucleotide' option in the search
 box (not 'gene')  for the first item, and it gave the correction NM # at https://www.ncbi.nlm.nih.gov/nuccore/24475906
 
+Application 2: Converting accession numbers to data
+>$ perl App2.pl >App2.fasta
+The output is fasta formatted data for four Acc nums. Attached. 
