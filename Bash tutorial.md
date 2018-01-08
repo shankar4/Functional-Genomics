@@ -133,10 +133,13 @@ $ echo $PATH
 >/home/shankar/perl5/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/.nvm/versions/node/v4.2.6/bin:/home/shankar/perl5/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/fis-gtm/V6.0-003_x86_64:/usr/lib/fis-gtm/V6.0-003_x86_64
 
 .bashrc in the home directory is hidden. Use this in your home directory to find and list (some files deleted in the list below):
+
 $ ls -la  | more
+
 >total 2180
 drwxr-xr-x  53 shankar shankar    4096 Jan  8 10:33 .
 drwxr-xr-x   3 root    root       4096 Mar 23  2016 ..
+...
 -rw-------   1 shankar shankar   32669 Jan  5 17:41 .bash_history
 -rw-r--r--   1 shankar shankar     220 Mar 23  2016 .bash_logout
 -rw-rw-r--   1 shankar shankar      89 Oct 27 14:47 .bash_profile
@@ -144,7 +147,7 @@ drwxr-xr-x   3 root    root       4096 Mar 23  2016 ..
 -rw-r--r--   1 shankar shankar    4525 Oct 27 15:07 .bashrc-miniconda3.bak
 -rw-r--r--   1 shankar shankar    3766 Mar 23  2016 .bashrc~
 drwx------  32 shankar shankar    4096 Nov 10 13:05 .cache
-
+...
 
 To see what is in the .bashrc file:
 $ more /home/shankar/.bashrc
