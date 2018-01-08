@@ -22,7 +22,7 @@ Now, the next step from EDirect link given above. This downloaded several script
   export PATH=$PATH:$HOME/edirect >& /dev/null || setenv PATH "${PATH}:$HOME/edirect"
   ./edirect/setup.sh
   
-  EDirect functions:
+  EDirect functions (quoted from the EDirect link):
   > esearch performs a new Entrez search using terms in indexed fields.
     elink looks up neighbors (within a database) or links (between databases).
     efilter filters or restricts the results of a previous query.
