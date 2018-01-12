@@ -10,4 +10,4 @@ EDirect functions: Note: the **lower case** designation here Vs Eutitilities.
 
 Some of the options (such as -target and -related) do not seem to be documented. Are there other options that are not shown in examples? not sure. 
 
-I just found Rentrez that seems to be good. Link: https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html
+I just found Rentrez that seems to be good. Link: https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html. The installation in rstudio gave error messages indicating that openssl and httr could not be installed ('had non-zero exit status'). I went to this link: https://help.ubuntu.com/community/OpenSSL and followed their instructions for installation. It is the reason behind https vs http; and Entrez urls start with https. First install openssl with: sudo apt-get install openssl . 
