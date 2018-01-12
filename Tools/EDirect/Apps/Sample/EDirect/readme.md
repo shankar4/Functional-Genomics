@@ -8,3 +8,6 @@ EDirect functions: Note: the **lower case** designation here Vs Eutitilities.
 2. Retrieval: efetch and xtract
 3. Other: einfo, epost, and nquire
 
+Some of the options (such as -target and -related) do not seem to be documented. Are there other options that are not shown in examples? not sure. 
+
+I just found Rentrez that seems to be good. Link: https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html
