@@ -13,9 +13,10 @@ Some of the options (such as -target and -related) do not seem to be documented.
 I just found rentrez that seems to be good. Link: https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html. The installation in rstudio gave error messages indicating that openssl and httr could not be installed ('had non-zero exit status'). I went to this link: https://help.ubuntu.com/community/OpenSSL and followed their instructions for installation. It is the reason behind https vs http; and Entrez urls start with https. First install openssl with: 
 >sudo apt-get install openssl
 ....
-$ openssl version
+>$ openssl version
 OpenSSL 1.0.2l  25 May 2017
-$ apt-cache search libssl | grep SSL
+
+>$ apt-cache search libssl | grep SSL
 cl-plus-ssl - Common Lisp interface to OpenSSL
 libssl-ocaml - OCaml bindings for OpenSSL (runtime)
 libssl-ocaml-dev - OCaml bindings for OpenSSL
