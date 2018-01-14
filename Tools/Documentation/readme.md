@@ -29,7 +29,7 @@ Go to RStudio – Tools - Global Options -  Sweave and make the following two ch
 
 
 2. Try the example here: https://stat.ethz.ch/R-manual/R-devel/library/utils/doc/Sweave.pdf\
-under the tab with the .Rnw file open, click on 'Complile PDF'. Results included. \
+under the tab with the .Rnw file open, click on 'Complile PDF'. Files included here: input(.Rnw), intermediate (.tex), and output (.pdf). \
 #copying and pasting the author's pdf formatted file causes extra spaces that lead to errors. Remove those spaces.
 #In the global options, the first step requires sweave2knitr. So, I switched to Sweave instead of knitr and R Studio viewer and validated the process quickly. 
 
@@ -38,11 +38,11 @@ under the tab with the .Rnw file open, click on 'Complile PDF'. Results included
 library("knitr")
 Sweave2knitr("Example-1.Rnw") #This saves the new file in:Example-1-knitr.Rnw\
 
-Now repeating with the global options under step 1 with this file open in R. Click on 'Compile PDF'. Results included.\
+Now repeating with the global options under step 1 with this file open in R. Click on 'Compile PDF'. Input (.Rnw), intermediate (.tex) and output (.pdf) files included.\
 The plot is missing in this. The Github documentation of this function indicates that the conversion may be partial. Probably better to stay with Sweave; 
 
 4. But as per a book on knitr, it is possible to use knitr for full documentation. Ref: https://github.com/yihui/knitr-book . I am trying a minimal example from the book, just to see the differences.
 
 5. Trying another sweave example from here: https://rpubs.com/YaRrr/SweaveIntro
 
-6. Tried the notebook option under File of Rstudio. "This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code." File in Rmd and Result in html format for a car example included. 
+6. Tried the notebook option under File of Rstudio. "This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code." Input file in .Rmd and Result in .html format for a car example included (Rstudio's demo example). 
