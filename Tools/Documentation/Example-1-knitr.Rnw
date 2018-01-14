@@ -1,0 +1,35 @@
+\documentclass[a4paper ]{ article}
+\title{Sweave  Example  1 - from Sweave user manual}
+\author{Ravi Shankar}
+\begin{document}
+
+<<include=FALSE>>=
+library(knitr)
+opts_chunk$set(
+concordance=TRUE
+)
+@
+
+\maketitle
+In this  example  we embed  parts of the  examples  from  the
+\texttt{kruskal.test} help  page  into a \LaTeX {}  document:
+<<>>=
+library("datasets")
+data(airquality)
+library ("stats")
+kruskal.test(Ozone ~ Month , data = airquality)
+@
+which  shows  that  the  location  parameter  of the  Ozone
+distribution  varies  significantly  from  month to month. Finally , we
+include a boxplot  of the data , using
+%% want an eval=FALSE  case  and  referencing a previous  chunk:
+<<boxp , eval=FALSE >>=
+boxplot(Ozone ~ Month , data = airquality)
+@
+\begin{center}
+<<echo=FALSE >>=
+library ("graphics")
+<<boxp>>
+@
+\end{center}
+\end{document}
