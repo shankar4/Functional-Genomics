@@ -5,6 +5,8 @@ Sweave: See: https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweav
 
 
 These installation directions do not address installation of LaTex on Linux. Here is a link for that: http://milq.github.io/install-latex-ubuntu-debian/ .  Here are the steps:
->sudo apt-get install texlive-full #TeX document production system-large file; installation takes 10+ mins\
-sudo apt-get install texmaker #Tex editor\
+>$sudo apt-get install texlive-full #TeX document production system-large file; installation takes 10+ mins\
+$sudo apt-get install texmaker #Tex editor\
+$texmaker # enter in a command sheell - opens Texmaker\
+#Enter the following\
 
