@@ -1,1 +1,19 @@
+Goal: Dynamic reports, reproducible results, and mixing of R code, text, and selective display of code execution results.\
+KnitR and Sweave are R tools for this purpose (based, respectively, on Rmd and LaTeX), but Sweave also works with KnitR. I have tried using Sweave on Win7, but not successfully as yet. Will try both KnitR and Sweave on my Linux system today. Based on the exchanges on StackOverflow and others, I have installed knitr, xtable and devtools via the Rstudio cran installer. 
+
+Sweave: See: https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr . On RStudio: File | New -> R Sweave gives a basic template. Installation: https://rpubs.com/YaRrr/SweaveIntro . Here is a recent tutorial: 
+
+
+These installation directions do not address installation of LaTex on Linux. Here is a link for that: http://milq.github.io/install-latex-ubuntu-debian/ .  Here are the steps:
+>$sudo apt-get install texlive-full #TeX document production system-large file; installation takes 10+ mins\
+$sudo apt-get install texmaker #Tex editor\
+$texmaker # enter in a command sheell - opens Texmaker\
+#File -> New. Enter the following in the texmaker window\
+\documentclass{article}  \
+\begin{document}  \
+    Hello, world!  \
+\end{document}  \
+#File -> Save; Tools -> PDFLatex to compile; \
+#File ->SaveAs .Rnw; Tools -> R Sweave; open in RStudio and compile as PDF. \
+#With this second option, you should be able to include R chunks
 
