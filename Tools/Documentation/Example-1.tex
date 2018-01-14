@@ -1,0 +1,36 @@
+\documentclass[a4paper ]{ article}
+\title{Sweave  Example  1 - from Sweave user manual}
+\author{Ravi Shankar}
+\usepackage{Sweave}
+\begin{document}
+\input{Example-1-concordance}
+\maketitle
+In this  example  we embed  parts of the  examples  from  the
+\texttt{kruskal.test} help  page  into a \LaTeX {}  document:
+\begin{Schunk}
+\begin{Sinput}
+> library("datasets")
+> data(airquality)
+> library ("stats")
+> kruskal.test(Ozone ~ Month , data = airquality)
+\end{Sinput}
+\begin{Soutput}
+	Kruskal-Wallis rank sum test
+
+data:  Ozone by Month
+Kruskal-Wallis chi-squared = 29.267, df = 4, p-value = 6.901e-06
+\end{Soutput}
+\end{Schunk}
+which  shows  that  the  location  parameter  of the  Ozone
+distribution  varies  significantly  from  month to month. Finally , we
+include a boxplot  of the data , using
+%% want an eval=FALSE  case  and  referencing a previous  chunk:
+\begin{Schunk}
+\begin{Sinput}
+> boxplot(Ozone ~ Month , data = airquality)
+\end{Sinput}
+\end{Schunk}
+\begin{center}
+\includegraphics{Example-1-003}
+\end{center}
+\end{document}
