@@ -1,0 +1,68 @@
+\documentclass[jou]{apa}
+\title{Sweave in APA - use of Prestige data set, original author: Ista Zahn}
+\twoauthors{Ravi Shankar}{R. Shankar}
+\twoaffiliations{XYZ Company}{ABC University}
+\headinglevels{four}
+\usepackage{Sweave}
+\begin{document}
+\input{zahnexample-concordance}
+
+The Prestige data set from the car R package consists of six variables: education, income, women (percentage), prestige (Pineo-Porter prestige score), census (occupation code), and type (of occupation)
+
+\begin{Schunk}
+\begin{Sinput}
+> library(car)
+> library(xtable)
+> prestige <- car::Prestige
+\end{Sinput}
+\end{Schunk}
+
+The average income was
+6797.90196078431, with a standard deviation of 4245.92222663694.
+The average education was
+10.7380392156863, with a standard deviation of 2.72844424506841.
+The correlation between income and education was 0.577580227518608.
+
+
+
+\centering
+% latex table generated in R 3.4.2 by xtable 1.8-2 package
+% Sun Jan 14 16:35:36 2018
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrr}
+  \hline
+ & Mean & SD & Min & Max \\ 
+  \hline
+Income & 6797.90 & 4245.92 & 611.00 & 25879.00 \\ 
+  Education & 10.74 & 2.73 & 6.38 & 15.97 \\ 
+   \hline
+\end{tabular}
+\caption{Descriptive Statistics} 
+\label{tab:descriptive2}
+\end{table}
+
+% latex table generated in R 3.4.2 by xtable 1.8-2 package
+% Sun Jan 14 16:35:36 2018
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrrrrr}
+  \hline
+ & Df & Sum Sq & Mean Sq & F value & Pr($>$F) \\ 
+  \hline
+prestige\$education & 1 & 607421386.02 & 607421386.02 & 50.06 & 0.0000 \\ 
+  Residuals & 100 & 1213392025.00 & 12133920.25 &  &  \\ 
+   \hline
+\end{tabular}
+\caption{ANOVA TABLE} 
+\label{tab:anovatable1}
+\end{table}
+
+\begin{figure}
+\centering
+\includegraphics[width=6in, height=5in]{splot12.pdf}
+\caption{A scatterplot displaying the relationships among income, education, prestige, occupation, and Percentage of women in the field.}
+\label{fig: fig12}
+\end{figure}
+
+\end{document}

@@ -1,0 +1,58 @@
+\documentclass[jou]{apa}
+\title{Sweave in APA - use of Prestige data set, original author: Ista Zahn}
+\twoauthors{Ravi Shankar}{R. Shankar}
+\twoaffiliations{XYZ Company}{ABC University}
+\headinglevels{four}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+The Prestige data set from the car R package consists of six variables: education, income, women (percentage), prestige (Pineo-Porter prestige score), census (occupation code), and type (of occupation)
+
+<<>>=
+library(car)
+library(xtable)
+prestige <- car::Prestige
+@
+
+The average income was
+\Sexpr{mean(prestige$income)}, with a standard deviation of \Sexpr{sd(prestige$income)}.
+The average education was
+\Sexpr{mean(prestige$education)}, with a standard deviation of \Sexpr{sd(prestige$education)}.
+The correlation between income and education was \Sexpr{cor(prestige$income, prestige$education)}.
+
+<<echo=FALSE, results=tex>>=
+means <- c(mean(prestige$income), mean(prestige$education))
+sds <- c(sd(prestige$income), sd(prestige$education)) 
+mins <-c(min(prestige$income), min(prestige$education))
+maxs <-c(max(prestige$income), max(prestige$education))
+descriptives <- data.frame(means, sds, mins, maxs, row.names = c("Income", "Education"))
+names(descriptives) <-c("Mean", "SD", "Min", "Max")
+@
+
+
+\centering
+<<echo=false, results=tex>>=
+descriptives.table <- xtable(descriptives, caption= "Descriptive Statistics", label = "tab:descriptive2")
+print(descriptives.table, include.rownames=TRUE)
+@
+
+
+<<echo=FALSE, results=tex>>=
+xtable(anova(lm(prestige$income~prestige$education)), caption="ANOVA TABLE", label="tab:anovatable1")
+@
+
+<<echo=false, results=hide>>=
+pdf(file="splot12.pdf", width=6, height=5)
+library(ggplot2)
+plot(prestige$education, prestige$income, shape=prestige$type, size=prestige$women, color=prestige$prestige, xlab="Education", ylab="Income")
+dev.off()
+@
+
+\begin{figure}
+\centering
+\includegraphics[width=6in, height=5in]{splot12.pdf}
+\caption{A scatterplot displaying the relationships among income, education, prestige, occupation, and Percentage of women in the field.}
+\label{fig: fig12}
+\end{figure}
+
+\end{document}
