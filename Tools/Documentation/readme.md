@@ -1,5 +1,5 @@
 Goal: Dynamic reports, reproducible results, and mixing of R code, text, and selective display of code execution results.\
-KnitR and Sweave are R tools for this purpose (based, respectively, on Rmd and LaTeX), but Sweave also works with KnitR. I have tried using Sweave on Win7, but not successfully as yet. Have successfully tried both KnitR and Sweave on my Linux system. Based on the exchanges on StackOverflow and others, I have installed knitr, xtable and devtools via the Rstudio cran installer. 
+Notebook (.Rmd to .html), knitr and Sweave (.Rnw to .tex to .pdf) are R tools for this purpose. knitr targets .rmd, while sweave targets LaTeX documentation standard.  But Sweave also works with KnitR. I have tried using Sweave on Win7, but not successfully as yet. Have successfully tried all three on my Linux system. Based on the exchanges on StackOverflow and others, I have installed knitr, xtable and devtools via the Rstudio cran installer. 
 
 Sweave: See: https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr . On RStudio: File | New -> R Sweave gives a basic template.  Here is a recent tutorial: https://stat.ethz.ch/R-manual/R-devel/library/utils/doc/Sweave.pdf
 
