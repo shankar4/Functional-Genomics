@@ -20,7 +20,11 @@ $texmaker # enter in a command sheell - opens Texmaker\
 
 Back to installation directions at https://rpubs.com/YaRrr/SweaveIntro\
 
+Install knitR and xtable (if not installed already) \
 Go to RStudio – Tools - Global Options -  Sweave and make the following two changes:
 
     Select “Sweave Rnw files using Knitr”
     Set “Preview PDF” with “System Viewer”
+
+Step 2. Try the example here: https://stat.ethz.ch/R-manual/R-devel/library/utils/doc/Sweave.pdf\
+Results included #copying and pasting the author's pdf formatted file causes extra spaces that lead to errors. Remove those spaces.
