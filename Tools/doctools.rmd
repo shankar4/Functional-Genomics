@@ -13,3 +13,6 @@ $texmaker # enter in a command sheell - opens Texmaker\
 \begin{document}  \
     Hello, world!  \
 \end{document}  \
+#File -> Save; Tools -> PDFLatex to compile; \
+#File ->SaveAs .Rnw; Tools -> R Sweave; open in RStudio and compile as PDF. \
+#With this second option, you should be able to include R chunks
