@@ -43,7 +43,7 @@ The plot is missing in this. The Github documentation of this function indicates
 
 4. But as per a book on knitr, it is possible to use knitr for full documentation. Ref: https://github.com/yihui/knitr-book . I am trying a minimal example from the book, just to see the differences. Within RStudio, File|New -> R Sweave which opens a template based .Rnw file. The template is useful even for knitr. I copied one of the author's examples and saved it (048-cars-demo.Rnw). Use the 'Run' option to locally execute and validate. 'Compile to PDF' with a click on that option in the .Rnw window on Rstudio. Both (.Rnw and .pdf) files are enclosed. Key thing is that plot comes through and that the formatting is simpler and more straightforward. No fine tuning/ customization, as is possible with Sweave. As one author pointed out, this way, we can focus on content rather than the style. 
 
-5. Trying other sweave examples from here: https://rpubs.com/YaRrr/SweaveIntro
+5. Trying other sweave examples from here: https://rpubs.com/YaRrr/SweaveIntro . The author's link to an APA style template does not work. However, there is a PDF with more here: http://www.tug.org/pracjourn/2008-1/zahn/zahn.pdf . 
 
 6. Tried the notebook option under File of Rstudio. "This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code." Input file in .Rmd and Result in .html format for a car example included (Rstudio's demo example). 
 
