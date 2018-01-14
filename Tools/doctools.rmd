@@ -8,5 +8,8 @@ These installation directions do not address installation of LaTex on Linux. Her
 >$sudo apt-get install texlive-full #TeX document production system-large file; installation takes 10+ mins\
 $sudo apt-get install texmaker #Tex editor\
 $texmaker # enter in a command sheell - opens Texmaker\
-#Enter the following\
-
+#File -> New. Enter the following in the texmaker window\
+\documentclass{article}  \
+\begin{document}  \
+    Hello, world!  \
+\end{document}  \
