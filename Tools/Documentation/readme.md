@@ -1,10 +1,11 @@
 Goal: Dynamic reports, reproducible results, and mixing of R code, text, and selective display of code execution results.\
 KnitR and Sweave are R tools for this purpose (based, respectively, on Rmd and LaTeX), but Sweave also works with KnitR. I have tried using Sweave on Win7, but not successfully as yet. Will try both KnitR and Sweave on my Linux system today. Based on the exchanges on StackOverflow and others, I have installed knitr, xtable and devtools via the Rstudio cran installer. 
 
-Sweave: See: https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr . On RStudio: File | New -> R Sweave gives a basic template. Installation: https://rpubs.com/YaRrr/SweaveIntro . Here is a recent tutorial: 
+Sweave: See: https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr . On RStudio: File | New -> R Sweave gives a basic template.  Here is a recent tutorial: 
 
+Step 1. Installation: https://rpubs.com/YaRrr/SweaveIntro .
 
-These installation directions do not address installation of LaTex on Linux. Here is a link for that: http://milq.github.io/install-latex-ubuntu-debian/ .  Here are the steps:
+These steps do not address installation of LaTex on Linux. Here is a link for that: http://milq.github.io/install-latex-ubuntu-debian/ .  Here are the steps:
 >$sudo apt-get install texlive-full #TeX document production system-large file; installation takes 10+ mins\
 $sudo apt-get install texmaker #Tex editor\
 $texmaker # enter in a command sheell - opens Texmaker\
@@ -15,5 +16,11 @@ $texmaker # enter in a command sheell - opens Texmaker\
 \end{document}  \
 #File -> Save; Tools -> PDFLatex to compile; \
 #File ->SaveAs .Rnw; Tools -> R Sweave; open in RStudio and compile as PDF. \
-#With this second option, you should be able to include R chunks
+#With this second option, you should be able to include R chunks. Rnw is R version of noweb which supports literate programming
 
+Back to installation directions at https://rpubs.com/YaRrr/SweaveIntro\
+
+Go to RStudio – Tools - Global Options -  Sweave and make the following two changes:
+
+    Select “Sweave Rnw files using Knitr”
+    Set “Preview PDF” with “System Viewer”
