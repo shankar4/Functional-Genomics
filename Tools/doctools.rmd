@@ -1,4 +1,5 @@
 KnitR and Sweave seem to be the two better established tools, based, respectively, on Rmd and LaTeX. I have tried using Sweave on Win7, 
-but not successfully as yet. Will try both KnitR and Sweave on my Linux system today. Based on the exchanges on StackOverflow and others,
-I have installed knitr and devtools via the Rstudio cran installer. Could not find installr, required for installing sweave on Win. Not 
-sure how to install sweave on ubuntu yet. But knitR is installed. Will use it first. 
+but not successfully as yet. Will try both KnitR and Sweave on my Linux system today. Based on the exchanges on StackOverflow and others, I have installed knitr, xtable and devtools via the Rstudio cran installer. 
+
+Sweave: See: https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr . On RStudio: File | New -> R Sweave gives a basic template. Installation: https://rpubs.com/YaRrr/SweaveIntro . Here is a recent tutorial: 
+The installation directions do not give directions for installation of LaTex on Linux. Here is a link for that:http://milq.github.io/install-latex-ubuntu-debian/ .  
