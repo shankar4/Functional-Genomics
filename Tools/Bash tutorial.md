@@ -1,2 +1,2 @@
-Here is the [link] (https://github.com/shankar4/Functional-Genomics/blob/master/Bash%20tutorial.md) 
+Here is the [link] (/blob/master/Bash%20tutorial.md) 
 
