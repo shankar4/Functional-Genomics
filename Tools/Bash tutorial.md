@@ -1,1 +1,2 @@
-Here is the link for the earlier work:  Functional-Genomics/Bash tutorial.md. updates will be included here.
+Here is the [link] (https://github.com/shankar4/Functional-Genomics/blob/master/Bash%20tutorial.md) 
+
