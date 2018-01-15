@@ -21,13 +21,13 @@ $ openssl version
 ```
 $ apt-cache search libssl | grep SSL
 ```
->cl-plus-ssl - Common Lisp interface to OpenSSL
-libssl-ocaml - OCaml bindings for OpenSSL (runtime)
-libssl-ocaml-dev - OCaml bindings for OpenSSL
-libsslcommon2 - enterprise messaging system - common SSL libraries
+>cl-plus-ssl - Common Lisp interface to OpenSSL\
+libssl-ocaml - OCaml bindings for OpenSSL (runtime)\
+libssl-ocaml-dev - OCaml bindings for OpenSSL\
+libsslcommon2 - enterprise messaging system - common SSL libraries\
 libsslcommon2-dev - enterprise messaging system - common SSL development files
 
-#This does not match the link's info, in terms of version #s
+#This does not match the link's info, in terms of version #s\
 #installed the -ocaml versions (not enterprise versions). 
 
 Reintstalling rentrez had no errors this time.
