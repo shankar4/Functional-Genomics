@@ -8,16 +8,19 @@ EDirect functions: Note: the **lower case** designation here Vs Eutitilities.
 2. Retrieval: efetch and xtract
 3. Other: einfo, epost, and nquire
 
-Some of the options (such as -target and -related) do not seem to be documented. Are there other options that are not shown in examples? not sure. 
+Some of the options (such as -target and -related) do not seem to be documented. Are there other options that are not shown in examples? As per documentation of rentrez (see below), go to NCBI's website and use the 'advanced search' tool for a given database. Click on "Show index list" to see all possible filtering terms. 
 
-I just found rentrez that seems to be good. Link: https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html. The installation in rstudio gave error messages indicating that openssl and httr could not be installed ('had non-zero exit status'). I went to this link: https://help.ubuntu.com/community/OpenSSL and followed their instructions for installation. It is the reason behind https vs http; and Entrez urls start with https. First install openssl with: 
-sudo apt-get install openssl
+rentrez seems to be good. Link: https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html. The installation in rstudio gave error messages indicating that openssl and httr could not be installed ('had non-zero exit status'). I went to this link: https://help.ubuntu.com/community/OpenSSL and followed their instructions for installation. It is the reason behind https vs http; and Entrez urls start with https. First install openssl with: 
+```
+$sudo apt-get install openssl
 ....
-
 $ openssl version
+```
 >OpenSSL 1.0.2l  25 May 2017
 
+```
 $ apt-cache search libssl | grep SSL
+```
 >cl-plus-ssl - Common Lisp interface to OpenSSL
 libssl-ocaml - OCaml bindings for OpenSSL (runtime)
 libssl-ocaml-dev - OCaml bindings for OpenSSL
@@ -25,7 +28,7 @@ libsslcommon2 - enterprise messaging system - common SSL libraries
 libsslcommon2-dev - enterprise messaging system - common SSL development files
 
 #This does not match the link's info, in terms of version #s
-#Will install the -ocaml versions (not enterprise versions). 
+#installed the -ocaml versions (not enterprise versions). 
 
 Reintstalling rentrez had no errors this time.
 
