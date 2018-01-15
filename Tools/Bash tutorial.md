@@ -1,2 +1,2 @@
-Here is the [link](/Bash%20tutorial.md) 
+Please click on this [link](/Bash%20tutorial.md) 
 
