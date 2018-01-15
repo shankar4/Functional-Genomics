@@ -1,2 +1,2 @@
-Here is the [link] (/blob/master/Bash%20tutorial.md) 
+Here is the [link](/Bash%20tutorial.md) 
 
