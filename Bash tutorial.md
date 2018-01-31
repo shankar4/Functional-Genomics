@@ -176,6 +176,8 @@ Math symbols: https://chrome.google.com/webstore/detail/github-with-mathjax/ioem
 LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf   
 
 To add a blank line after a given line, add two blank spaces at the end 
-
+This is a line /r/n/
+/r/n
+This is another line.
 
 
