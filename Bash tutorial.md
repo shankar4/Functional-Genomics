@@ -109,6 +109,7 @@ First create a file, say with gedit with 3 names - say Larry, Mary, and Harry on
 create and save a read.pl file: 
 
 This is the code in read.pl:  
+``` perl
 >#!/usr/bin/perl  
 use strict;  
 use warnings;  
@@ -122,8 +123,8 @@ use autodie; #die if problem reading or writing a file <br />
 my $file = $dir->child("data.txt"); <br />
 my $content = $file -> slurp_utf8(); <br />  
 my $file_handle = $file -> openr_utf8();<br />  
-while (my $line = $file_handle -> getline()) { print $line; }<br />   
-
+while (my $line = $file_handle -> getline()) {print $line;}<br />   
+```
 
 Run it with perl read.pl to see the list of names  
 $ perl read.pl
