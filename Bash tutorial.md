@@ -86,11 +86,13 @@ $ locate perl|grep '/bin/perl$' -- found 3 sites
 
 First script:    
 use gedit to build hello.pl
+
+```perl
 >#!/usr/bin/perl  
 print "Enter your name:";  
 $name = <STDIN>;  
 print "Hello, ${name} ... you will soon be Perl Perfect!";  
-
+```
 Run it:    
 $ perl hello.pl  
 >Enter your name:Ravi  
@@ -118,8 +120,7 @@ use autodie; #die if problem reading or writing a file <br />
 #read in the entire contents of a file <br />
 #return an IO file object to read from <br /> 
 #read one line at a time <br />  
-
->my $dir = path("~/PerlHelp/tmp");<br />   
+my $dir = path("~/PerlHelp/tmp");<br />   
 my $file = $dir->child("data.txt"); <br />
 my $content = $file -> slurp_utf8(); <br />  
 my $file_handle = $file -> openr_utf8();<br />  
