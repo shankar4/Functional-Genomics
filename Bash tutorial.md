@@ -117,10 +117,10 @@ use autodie; #die if problem reading or writing a file
 my $dir = path("~/PerlHelp/tmp");  
 my $file = $dir->child("data.txt");  
 my $content = $file -> slurp_utf8();  
-#Read in the entire contents of a file    
+# Read in the entire contents of a file    
 my $file_handle = $file -> openr_utf8();  
-#Openr_utf8() returns an IO file object to read from 
-#Read one line at a time 
+# returns an IO file object to read from 
+# Read one line at a time 
 while (my $line = $file_handle -> getline()) {     
 	print $line;  
 }  
