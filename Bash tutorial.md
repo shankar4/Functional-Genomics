@@ -173,11 +173,7 @@ print s
 Inline `code` has `back-ticks around` it.
 
 Math symbols: https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima, available on Chrome.
-LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf   
-
-To add a blank line after a given line, add two blank spaces at the end 
-This is a line /r/n/
-/r/n
-This is another line.
+LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf  <br><br> 
+To add a blank line after a given line, add
 
 
