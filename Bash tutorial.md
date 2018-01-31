@@ -121,9 +121,7 @@ my $content = $file -> slurp_utf8();
 my $file_handle = $file -> openr_utf8();  
 #returns an IO file object to read from 
 #Read one line at a time 
-while (my $line = $file_handle -> getline()) {     
-	print $line;  
-}  
+while (my $line = $file_handle -> getline()) { print $line; }  
 
 
 Run it with perl read.pl to see the list of names  
