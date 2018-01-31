@@ -174,6 +174,6 @@ Inline `code` has `back-ticks around` it.
 
 Math symbols: https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima, available on Chrome.
 LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf  <br><br> 
-To add a blank line after a given line, add two html breaks as with the previous line: ``` html <br><br> ```
+To add a blank line after a given line, add two html breaks as with the previous line: ```<br><br> ```
 
 
