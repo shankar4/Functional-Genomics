@@ -116,15 +116,15 @@ This is the code in read.pl:
 use strict;  
 use warnings;  
 use Path::Tiny;  
-use autodie; #die if problem reading or writing a file <br /> 
-#read in the entire contents of a file <br />
-#return an IO file object to read from <br /> 
-#read one line at a time <br />  
-my $dir = path("~/PerlHelp/tmp");<br />   
-my $file = $dir->child("data.txt"); <br />
-my $content = $file -> slurp_utf8(); <br />  
-my $file_handle = $file -> openr_utf8();<br />  
-while (my $line = $file_handle -> getline()) {print $line;}<br />   
+use autodie; #die if problem reading or writing a file 
+#read in the entire contents of a file 
+#return an IO file object to read from 
+#read one line at a time 
+my $dir = path("~/PerlHelp/tmp");
+my $file = $dir->child("data.txt"); 
+my $content = $file -> slurp_utf8(); 
+my $file_handle = $file -> openr_utf8(); 
+while (my $line = $file_handle -> getline()) {print $line;} 
 ```
 
 Run it with perl read.pl to see the list of names  
@@ -173,10 +173,9 @@ print s
 Inline `code` has `back-ticks around` it.
 
 Math symbols: https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima, available on Chrome.
-LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf
-
-To add a blank line after a given line, add either two blank spaces at the end or "<br />" (with the quotes removed). See example
-above. 
+LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf <br />
+To add a blank line after a given line, add either two blank spaces at the end or 
+><br /> (with the quotes removed).  See the above line example in edit mode. 
 
 
 
