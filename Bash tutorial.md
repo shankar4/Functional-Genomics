@@ -113,15 +113,15 @@ This is the code in read.pl:
 use strict;  
 use warnings;  
 use Path::Tiny;  
-use autodie; #die if problem reading or writing a file\  
-my $dir = path("~/PerlHelp/tmp");\  
-my $file = $dir->child("data.txt");\  
-my $content = $file -> slurp_utf8();\  
-#Read in the entire contents of a file\    
-my $file_handle = $file -> openr_utf8();\  
-#returns an IO file object to read from\ 
-#Read one line at a time\ 
-while (my $line = $file_handle -> getline()) { print $line; }\  
+use autodie; #die if problem reading or writing a file <br /> 
+my $dir = path("~/PerlHelp/tmp");<br />   
+my $file = $dir->child("data.txt"); <br />
+my $content = $file -> slurp_utf8(); <br />  
+#Read in the entire contents of a file <br />    
+my $file_handle = $file -> openr_utf8();<br />  
+#returns an IO file object to read from <br /> 
+#Read one line at a time <br />  
+while (my $line = $file_handle -> getline()) { print $line; }<br />   
 
 
 Run it with perl read.pl to see the list of names  
@@ -172,7 +172,7 @@ Inline `code` has `back-ticks around` it.
 Math symbols: https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima, available on Chrome.
 LATEX tutorial for a writing project: http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf
 
-
+To add a blank line after a given line, add either two blank spaces at the end or <br />
 
 
 
