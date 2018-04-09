@@ -34,6 +34,7 @@ Most antibiotics are synthesized by a kind of fungus known as mold. Viruses (bac
 10. Glossary: 
     * Alu - They are SINES (short interspersed elements) present in multiple copies in human and other primate genomes; about 300 bp in length, found in introns, 3' UTR, and intergenic genomic regions; mobile elements and has most abundant copy number (0.5 M). It is used as a universal PCR primer as it binds in both directions. 
     * domain - a discrete portion of a protein assumed to fold independently and has its own function
+    * Enhancer - enhance the rate of transcription; typically they are far away (1000s of bp away) from the sequence. 
     * GeneID - unique ID in Entrez Gene; an integer which is species specific. Reported in RefSeq as a 'db_xref'. 
     * homologous - similarity attributable to descent from a common ancestor
     * Map Viewer - available in [Entrez Genomes](https://www.ncbi.nlm.nih.gov/genome). Can view the complete genome, display chromosome maps,and zoom in. 
@@ -41,10 +42,14 @@ Most antibiotics are synthesized by a kind of fungus known as mold. Viruses (bac
     * orthology - describes different species that derive from a common ancestor
     * paralog - a set of homologous genes that have diverged. 
     * PDB - [Protein Data Bank](https://www.rcsb.org/)
+    * Promoter - A transcription factor attaches to this sequence to initiate transcription. Consists of 3 regions: Initiator box where transcription starts; TATA box 25 bases upstream from there; and 10 bp long upstream element - specific to a protein. 
+    * Pseudogene - defective duplicate copy of a genuine gene; cannot be expressed. 
+    * RNA Polymerase - binds to DNA during transcription and separates or unwinds the DNA strands. Three types and genes that they transcribe: I - genes for large ribosomal RNAs, II - genes that code for proteins, and III - genes for tRNA and other tiny RNAs. 
     * QTL - Quantitative Trait Locus - a hypothesis that a certain small chromosomal region contributes significantly to a complex trait expression (based on density of linkage map)
     * RefSeq -  non-redundant reference sequences. 
     * RepeatMaker - [program](http://ftp.genome.washington.edu/) that screens DNA sequence for interspersed repeats and low-complexity DNA sequences. 
+    * Transcription Factors - Proteins that regulate RNA Polymerase II, by binding to certain specific DNA sequences,viz., promoter and enhancer
     * UniGene cluster - sequences for known or putative genes. Complete dataset is [here](ftp://ftp.ncbi.nih.gov/repository/UniGene/)
     * WGS sequence - Whole Genome Shotgun sequence - uses large arrays of sequences to sequence rapidly the sequence.
-11. More
+11. Continued here with the 4th edition of Clark and Russel's book. Yet to validate all earlier material. 
 
