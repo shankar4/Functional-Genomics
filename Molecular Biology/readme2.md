@@ -4,9 +4,14 @@ is possible ('transformation') that can change the properties of the bacterial c
 Most often electroshock treatment is used to push DNA, a huge molecule through the cell walls. DNA uptake may fail (restriction) or 
 succeed (recombination). Restriction enzymes chop up the incoming DNA in 'restriction.' The bacteria is permanently changed after 
 recombination. If the incoming is part of a plasmid, which replicates on its own, recombination into the chromosome is not needed; 
-use of plasmid is preferred. Bacterial geneticists routinely carry out gene transfer by using bacterial viruses, known as bacteriophage
+use of plasmid is preferred. Transduction - Bacterial geneticists routinely carry out gene transfer by using bacterial viruses, known as bacteriophage
 (or phage). 
-Example: For *E. Coli*, phages are named PI and Lambda
+
+Example: For *E. Coli*, phages are named PI and Lambda. 
+
+**Plasmids** were discovered in Japanese bacterial soon after WWII ('transmissible antibiotic resistance'). Dysentry, due to bacteria, was being treated with sulfonamides, the earliest type of antibiotic. Bacterial resistant to this antibiotic soon started to appear. Also, the resistance was transferred to other strains of bacteria. Genes for antibiotic resistance were found to be carried on plasmids. Today, this is a major problem. Patients with infections after surgery or with severe burns and infection are most at risk. General properties: They are circular DNA molecules that can replicate independently of the bacterial chromosome. They carry genes for managing their own life cycles and genes that affect the host cell (such as resistance to antibiotics). Also used extensively by molecular biologists in genetic engineering. Plasmids replicate in step with cell division. The copy number (number of plasmids per cell) may range from 1 to 50. F-plasmid in *E.Coli* is 1% of the size of the chromosome. Other plasmids can be 0.1% to 10% of chromosome size. 
+
+2. Chapter 9 on Genetic Engineering (brief for now). Phenol is used DNA purification. Also known as carbolic acid, it is very corrosive and dangerous (it can dissolve and denature/remove proteins - which is about 70% of all living matter). DNA and RNA will be left at top of water and phenol mixture. Ribonuclease is an enzyme that degrades RNA (leaves DNA unchanged). Adding alcohol will push the larger and less soluble (vs water) DNA into a tiny pallet at the bottom of a test tube. DNA is then redissolved. **Restriction enzyme** acts as molecular scissors to cut the DNA into smaller manageable pieces. They bind to DNA at a specific sequence of bases, the recognition site. Sequence is 4, 6, or 8 bases long, and form an inverted repeat. There are many random sequences that will match these restriction enzymes and cut up the DNA. ** Type 1** - cut the DNA a thousand or more bp away from the recognition site; **Type 2** - cut the DNA in the middle of the recognition site. **DNA ligase** is used to join DNA fragments permanently. Choosing a vector for lab/clinical needs: any DNA molecule can be used as a vector. But easier with these considerations: vector should be small, easy to move from cell to cell, and growing and purifying DNA should be easy. **Bacterial plasmids** come closes to these requirements. **Most widely used as vectors**. 
 
 
 12.  Glossary (continued): 
@@ -14,4 +19,6 @@ Example: For *E. Coli*, phages are named PI and Lambda
 * Plasmid - circular molecule of double helical DNA; replicates independently of the bacterial cell's chromosome. 
 * recombination - merging of genes from two separate molecules of DNA
 * restriction - destruction of incoming foreign DNA by a bacterial cell
+* restriction enzyme - acts as molecular scissors to cut DNA into smaller manageable pieces. 
+* transduction - transport of genes from one cell to another with a virus particle as the transporter
 * Transformation - changing the properties of a bacterial cell as a result of uptake of pure DNA
