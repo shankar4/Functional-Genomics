@@ -32,4 +32,5 @@ I do see an installer ("BiocInstaller") in the Home/R in a subdirectory. Perhaps
 13. I will use this tutorial: https://web.stanford.edu/class/bios221/labs/biostrings/lab_1_biostrings.html to learn about biostrings. Uploaded the completed tutorial R file to Github (here).
 14. I will now use BioStrings for exercises in "Introduction to Computational Genomics" By Cristianini and Hahn. R files
 will be uploaded to the corresponding subdirectory at Github. 
+15. As of 4/25/18: I could not download KEGGREST, an R package to access KEGG database, from CRAN, i.e., directly in RStudio from the Tools tab. This [site](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) gives directions that I used. 
 
