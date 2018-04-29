@@ -55,7 +55,7 @@ You need to install the ubuntu package libxml2-dev So in a shell prompt type:
 sudo apt-get update
 sudo apt-get install libxml2-dev
 
-Now XML installed from rstudio (invoked with sudo). 
+Now XML installed from rstudio (**invoked with sudo**). 
 
 Final note: Look at the BiostringsLab.R code. I included lines for source and biocLite there itself. 
 
