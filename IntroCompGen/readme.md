@@ -6,4 +6,4 @@ See http://www.vikram-baliga.com/blog/2016/1/23/using-r-to-download-genbank-sequ
 
 Two other references for Biostrings: https://www.bioconductor.org/help/course-materials/2011/BioC2011/LabStuff/BiostringsBSgenomeOverview.pdf and https://kasperdanielhansen.github.io/genbioconductor/html/Biostrings.html .
 
-Note: A DANStringSet has multiple DNAStrings in the file. This is default download version from KEGG, even if only one string is downloaded. It is formatted as a list. So, use dnaseq1 <- dnaseq[[1]] to isolate that specific string and use as input to codons function.
+Note: A DANStringSet has multiple DNAStrings in the file. This is default download version from KEGG, even if only one string (or sequence) is downloaded. It is formatted as a list. So, use dnaseq1 <- dnaseq[[1]] to isolate that specific string (in this case, the first one) and use as input to codons function.
