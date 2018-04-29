@@ -4,4 +4,6 @@ https://www.ncbi.nlm.nih.gov/books/NBK25501/ . First learning the tool. On May 1
 
 See http://www.vikram-baliga.com/blog/2016/1/23/using-r-to-download-genbank-sequences. The author discusses the use of "ape" package with simple intuitive commands for accessing  GenBank. Instead of building up strings for Entrez, I will use this package. Even BioStrings seems to have been superseded by ape. Also, the new DNABin format may be different. Still need to understand. 
 
-Two other references for Biostrings: https://www.bioconductor.org/help/course-materials/2011/BioC2011/LabStuff/BiostringsBSgenomeOverview.pdf and https://kasperdanielhansen.github.io/genbioconductor/html/Biostrings.html . The latter probably provides a way to convert DNAStringSet, the default download format from KEGG, via KEGGREST, to DNAString, so I can convert to codons (converting to AAStringSet with translate command of biostrings was no problem). 
+Two other references for Biostrings: https://www.bioconductor.org/help/course-materials/2011/BioC2011/LabStuff/BiostringsBSgenomeOverview.pdf and https://kasperdanielhansen.github.io/genbioconductor/html/Biostrings.html .
+
+Note: A DANStringSet has multiple DNAStrings in the file. This is default download version from KEGG, even if only one string is downloaded. It is formatted as a list. So, use dnaseq1 <- dnaseq[[1]] to isolate that specific string and use as input to codons function.
