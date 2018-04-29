@@ -45,7 +45,7 @@ To install margrittr, a CRAN package, start R and use the install.packages comma
 
 I will try to install them first. Installed: lattice, Matrix, spatial, and codetools. two more to install: XML and rtracklayer
 
-The final solution was simple: use in admin mode. That is, do sudo R or sudo rstudio. That would allow proper updating of the files. here is the link: https://stackoverflow.com/questions/28546382/installed-directory-not-writable-cannot-update-packages-boot-class-kerns 
+**The final solution was simple: use in admin mode. That is, do sudo R or sudo rstudio. That would allow proper updating of the files. here is the link: https://stackoverflow.com/questions/28546382/installed-directory-not-writable-cannot-update-packages-boot-class-kerns**.
 
 However, XML still did not install under rstudio, even with sudo. Here is another link for that:
 https://stackoverflow.com/questions/7765429/unable-to-install-r-package-in-ubuntu-11-04 
