@@ -4,3 +4,4 @@ https://www.ncbi.nlm.nih.gov/books/NBK25501/ . First learning the tool. On May 1
 
 See http://www.vikram-baliga.com/blog/2016/1/23/using-r-to-download-genbank-sequences. The author discusses the use of "ape" package with simple intuitive commands for accessing  GenBank. Instead of building up strings for Entrez, I will use this package. Even BioStrings seems to have been superseded by ape. Also, the new DNABin format may be different. Still need to understand. 
 
+Another reference for Biostrings: https://www.bioconductor.org/help/course-materials/2011/BioC2011/LabStuff/BiostringsBSgenomeOverview.pdf
