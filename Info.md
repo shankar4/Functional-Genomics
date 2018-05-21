@@ -44,14 +44,13 @@
     * restriction - destruction of incoming foreign DNA by a bacterial cell
     * restriction enzyme - acts as molecular scissors to cut DNA into smaller manageable pieces.
     * splicing - cutting out the intronic regions. Telomere cap and poly-A tail are added prior to this.
-    * Tertile
+    * Tertile - three parts
     * transcription factors - Proteins that regulate RNA Polymerase II, by binding to certain specific DNA sequences,viz., promoter and enhancer
     * transduction - transport of genes from one cell to another with a virus particle as the transporter
     * Transformation - changing the properties of a bacterial cell as a result of uptake of pure DNA
     * UniGene cluster - sequences for known or putative genes. Complete dataset is here
     * WGS sequence - Whole Genome Shotgun sequence - uses large arrays of sequences to sequence rapidly the sequence.
     
-    Human Genome map:
     
 
 
