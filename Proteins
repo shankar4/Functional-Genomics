@@ -1,4 +1,5 @@
 Include a list of proteins and their functions.
+
 A good reference is [SNPedia](https://www.snpedia.com/index.php). People who has had genetic sequencing done pose questions and seek asnswers [here](https://www.reddit.com/r/SNPedia/).
 
 After reading a paper recently entitled "Variation in FTO contributes to childhoood obesity and severe adult obesity" by Dina et al., 2007, I wished I could find a place with annotated summaries with cross-referencing. **SNPedia** does just that.  Meaning of rs Id from NCBI: A reference SNP ID number, or **“rs” ID**, is an identification tag assigned by NCBI to a group (or cluster) of SNPs that map to an identical location. The rs ID number, or rs tag, is assigned after submission (the db seems mature now; so no new tags). 
