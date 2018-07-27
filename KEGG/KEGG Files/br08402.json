@@ -1,0 +1,6212 @@
+{
+	"name":"br08402",
+	"children":[
+	{
+		"name":"Cancers",
+		"children":[
+		{
+			"name":"Head and neck cancers",
+			"children":[
+			{
+				"name":"H00016  Oral cancer"
+			},
+			{
+				"name":"H01508  Salivary gland cancer [PATH:hsa04330]"
+			},
+			{
+				"name":"H01509  Tonsillar cancer [PATH:hsa04110]"
+			},
+			{
+				"name":"H01559  Oropharyngeal cancer"
+			},
+			{
+				"name":"H00054  Nasopharyngeal cancer [PATH:hsa05203 hsa05169]"
+			},
+			{
+				"name":"H00055  Laryngeal cancer"
+			},
+			{
+				"name":"------  Hypopharyngeal cancer"
+			}
+			]
+		},
+		{
+			"name":"Cancers of the digestive system",
+			"children":[
+			{
+				"name":"H00017  Esophageal cancer [PATH:hsa05206]"
+			},
+			{
+				"name":"H00018  Gastric cancer [PATH:hsa05226]"
+			},
+			{
+				"name":"H00034  Carcinoid [PATH:hsa05202]"
+			},
+			{
+				"name":"H00020  Colorectal cancer [PATH:hsa05210 hsa05206 hsa00512]"
+			},
+			{
+				"name":"H00044  Cancer of the anal canal [PATH:hsa05203]"
+			},
+			{
+				"name":"H00048  Hepatocellular carcinoma [PATH:hsa05225 hsa05203 hsa05161 hsa05160 hsa05206]"
+			},
+			{
+				"name":"H01557  Hepatic angiosarcoma"
+			},
+			{
+				"name":"H00046  Cholangiocarcinoma"
+			},
+			{
+				"name":"H00047  Gallbladder cancer"
+			},
+			{
+				"name":"H00019  Pancreatic cancer [PATH:hsa05212]"
+			},
+			{
+				"name":"H00045  Pancreatic neuroendocrine tumor"
+			},
+			{
+				"name":"H01591  Gastrotintestinal stromal tumor"
+			}
+			]
+		},
+		{
+			"name":"Cancers of the lung and pleura",
+			"children":[
+			{
+				"name":"H00014  Non-small cell lung cancer [PATH:hsa05223 hsa05206]"
+			},
+			{
+				"name":"H00013  Small cell lung cancer [PATH:hsa05222 hsa05206]"
+			},
+			{
+				"name":"H00015  Malignant pleural mesothelioma"
+			}
+			]
+		},
+		{
+			"name":"Skin cancers",
+			"children":[
+			{
+				"name":"H00038  Melanoma [PATH:hsa05218]"
+			},
+			{
+				"name":"H00039  Basal cell carcinoma [PATH:hsa05217]"
+			},
+			{
+				"name":"H00040  Squamous cell carcinoma"
+			},
+			{
+				"name":"H01555  Merkel cell carcinoma"
+			},
+			{
+				"name":"H01463  Mycosis fungoides"
+			}
+			]
+		},
+		{
+			"name":"Cancers of soft tissues and bone",
+			"children":[
+			{
+				"name":"H00036  Osteosarcoma"
+			},
+			{
+				"name":"H00035  Ewing's sarcoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00053  Extraskeletal myxoid chondrosarcoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00041  Kaposi's sarcoma [PATH:hsa05167 hsa05203]"
+			},
+			{
+				"name":"H00049  Myxoid liposarcoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00037  Alveolar rhabdomyosarcoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00050  Synovial sarcoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00051  Alveolar soft part sarcoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00052  Clear cell sarcoma of soft tissue [PATH:hsa05202]"
+			},
+			{
+				"name":"H01985  Desmoplastic small round cell tumor [PATH:hsa05202]"
+			},
+			{
+				"name":"------  Fibrosarcoma"
+			},
+			{
+				"name":"------  Malignant fibrous histiocytoma (MFH)"
+			},
+			{
+				"name":"------  Leiomyosarcoma"
+			},
+			{
+				"name":"H01666  Angiosarcoma"
+			},
+			{
+				"name":"------  Chondrosarcoma"
+			},
+			{
+				"name":"------  Epithelioid sarcoma"
+			},
+			{
+				"name":"H01665  Primary peritoneal carcinoma"
+			}
+			]
+		},
+		{
+			"name":"Cancers of the breast and female genital organs",
+			"children":[
+			{
+				"name":"H00031  Breast cancer [PATH:hsa05224 hsa05206]"
+			},
+			{
+				"name":"H00029  Vulvar cancer"
+			},
+			{
+				"name":"H00030  Cervical cancer [PATH:hsa05165 hsa05203]"
+			},
+			{
+				"name":"H00026  Endometrial cancer [PATH:hsa05213]"
+			},
+			{
+				"name":"H00027  Ovarian cancer [PATH:hsa05206]"
+			},
+			{
+				"name":"H01554  Fallopian tube cancer"
+			},
+			{
+				"name":"H00028  Choriocarcinoma"
+			}
+			]
+		},
+		{
+			"name":"Cancers of male genital organs",
+			"children":[
+			{
+				"name":"H00025  Penile cancer [PATH:hsa05203]"
+			},
+			{
+				"name":"H00024  Prostate cancer [PATH:hsa05215 hsa05202 hsa05206]"
+			},
+			{
+				"name":"H00023  Testicular cancer"
+			}
+			]
+		},
+		{
+			"name":"Cancers of the urinary system",
+			"children":[
+			{
+				"name":"H00021  Renal cell carcinoma [PATH:hsa05211 hsa05202]"
+			},
+			{
+				"name":"H00022  Bladder cancer [PATH:hsa05219 hsa05206]"
+			}
+			]
+		},
+		{
+			"name":"Cancers of eye, brain, and central nervous system",
+			"children":[
+			{
+				"name":"H01513  Retinoblastoma [PATH:hsa04110]"
+			},
+			{
+				"name":"H00042  Glioma [PATH:hsa05214 hsa05206]"
+			},
+			{
+				"name":"H01667  Medulloblastoma [PATH:hsa04310 hsa04340]"
+			},
+			{
+				"name":"H00043  Neuroblastoma [PATH:hsa05202]"
+			},
+			{
+				"name":"------  Schwannoma"
+			},
+			{
+				"name":"H01556  Meningioma"
+			}
+			]
+		},
+		{
+			"name":"Cancers of endocrine organs",
+			"children":[
+			{
+				"name":"H00032  Thyroid cancer [PATH:hsa05216 hsa05202]"
+			},
+			{
+				"name":"H01592  Medullary thyroid cancer"
+			},
+			{
+				"name":"H00033  Adrenal carcinoma"
+			},
+			{
+				"name":"H01510  Malignant paraganglioma [PATH:hsa04066]"
+			},
+			{
+				"name":"H01558  Parathyroid carcinoma"
+			},
+			{
+				"name":"H00247  Multiple endocrine neoplasia syndrome (MEN)"
+			}
+			]
+		},
+		{
+			"name":"Cancers of haematopoietic and lymphoid tissues",
+			"children":[
+			{
+				"name":"H00007  Hodgkin lymphoma [PATH:hsa05202 hsa05203 hsa05169]"
+			},
+			{
+				"name":"H01613  Follicular lymphoma"
+			},
+			{
+				"name":"H01464  Mantle cell lymphoma"
+			},
+			{
+				"name":"H00001  B lymphoblastic leukemia\/lymphoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00002  T lymphoblastic leukemia\/lymphoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00008  Burkitt lymphoma [PATH:hsa05203 hsa05169]"
+			},
+			{
+				"name":"H00011  Lymphoplasmacytic lymphoma [PATH:hsa05202]"
+			},
+			{
+				"name":"H01463  Mycosis fungoides"
+			},
+			{
+				"name":"H01892  Peripheral T cell lymphoma (PTCL)"
+			},
+			{
+				"name":"H01601  Anaplastic large-cell lymphoma"
+			},
+			{
+				"name":"H00010  Multiple myeloma [PATH:hsa05202]"
+			},
+			{
+				"name":"H00005  Chronic lymphocytic leukemia (CLL)"
+			},
+			{
+				"name":"H00006  Hairy-cell leukemia [PATH:hsa05202]"
+			},
+			{
+				"name":"H00009  Adult T-cell leukemia [PATH:hsa05166 hsa05203]"
+			},
+			{
+				"name":"H00003  Acute myeloid leukemia (AML) [PATH:hsa05221 hsa05202]"
+			},
+			{
+				"name":"H00004  Chronic myeloid leukemia (CML) [PATH:hsa05220]"
+			},
+			{
+				"name":"H01511  Mast-cell leukemia [PATH:hsa04151]"
+			},
+			{
+				"name":"H01605  Myelofibrosis [PATH:hsa04630]"
+			},
+			{
+				"name":"H01512  Langerhans cell histiocytosis [PATH:hsa04010]"
+			},
+			{
+				"name":"H01590  Chronic eosinophilic leukemia"
+			},
+			{
+				"name":"H01599  Hypereosinophilic syndrome"
+			},
+			{
+				"name":"H00012  Polycythemia vera"
+			},
+			{
+				"name":"H01612  Essential thrombocytosis"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Immune system diseases",
+		"children":[
+		{
+			"name":"Allergies and autoimmune diseases",
+			"children":[
+			{
+				"name":"H00079  Asthma [PATH:hsa05310]"
+			},
+			{
+				"name":"H00080  Systemic lupus erythematosus [PATH:hsa05322]"
+			},
+			{
+				"name":"H00081  Hashimoto's thyroiditis [PATH:hsa05320]"
+			},
+			{
+				"name":"H00082  Graves' disease [PATH:hsa05320]"
+			},
+			{
+				"name":"H00083  Allograft rejection [PATH:hsa05330]"
+			},
+			{
+				"name":"H00084  Graft-versus-host disease [PATH:hsa05332]"
+			},
+			{
+				"name":"H00346  Extrinsic allergic alveolitis (EAA)"
+			},
+			{
+				"name":"H00630  Rheumatoid arthritis [PATH:hsa05323]"
+			},
+			{
+				"name":"H01191  Asthma with nasal polyps and aspirin intolerance"
+			},
+			{
+				"name":"H01232  Syndromic multisystem autoimmune disease [PATH:hsa04120 hsa04144]"
+			},
+			{
+				"name":"H01275  Interleukin 1 receptor antagonist deficiency (DIRA)"
+			},
+			{
+				"name":"H01357  Allergic contact dermatitis"
+			},
+			{
+				"name":"H01358  Atopic dermatitis"
+			},
+			{
+				"name":"H01359  Anaphylaxis"
+			},
+			{
+				"name":"H01360  Allergic rhinitis"
+			},
+			{
+				"name":"H01782  Eosinophilic gastrointestinal disorder"
+			},
+			{
+				"name":"H01361  Eosinophilic esophagitis"
+			},
+			{
+				"name":"H01362  Dermatitis herpetiformis"
+			},
+			{
+				"name":"H01452  Pediatric autoimmune neuropsychiatric disorders associated with streptococcal infection (PANDAS)"
+			},
+			{
+				"name":"H01476  Behcet disease"
+			},
+			{
+				"name":"H01479  Castleman disease [PATH:hsa04060 hsa04630 hsa04640]"
+			},
+			{
+				"name":"H01492  Systemic sclerosis"
+			},
+			{
+				"name":"H01500  Lupus nephritis"
+			},
+			{
+				"name":"H01502  Sjogren's syndrome [PATH:hsa04620 hsa04630]"
+			},
+			{
+				"name":"H01504  Vogt-Koyanagi-Harada syndrome"
+			},
+			{
+				"name":"H01516  Adult onset Still's disease"
+			},
+			{
+				"name":"H01581  IgA nephropathy"
+			},
+			{
+				"name":"H01594  Myasthenia gravis"
+			},
+			{
+				"name":"H01595  Cutaneous lupus erythematosus"
+			},
+			{
+				"name":"H01596  Lambert-Eaton myasthenic syndrome (LEMS)"
+			},
+			{
+				"name":"H01672  Juvenile idiopathic arthritis (JIA) [PATH:hsa04060 hsa04630]"
+			},
+			{
+				"name":"H01674  Ankylosing spondylitis [PATH:hsa04612 map07050]"
+			},
+			{
+				"name":"H01685  Autoimmune hepatitis (AIH)"
+			},
+			{
+				"name":"H01710  Mixed connective tissue disease"
+			},
+			{
+				"name":"H01721  Anti-glomerular basement membrane (GBM) disease"
+			},
+			{
+				"name":"H01726  Membranoproliferative glomerulonephritis [PATH:hsa04610]"
+			},
+			{
+				"name":"H01863  Atopic myelitis"
+			}
+			]
+		},
+		{
+			"name":"Primary immunodeficiency",
+			"children":[
+			{
+				"name":"H01725  Primary immunodeficiency diseases"
+			},
+			{
+				"name":"H00085  Agammaglobulinemias [PATH:hsa05340]"
+			},
+			{
+				"name":"H00086  Hyper IgM syndromes, autosomal recessive type [PATH:hsa05340]"
+			},
+			{
+				"name":"H00087  Other humoral immunodeficiencies"
+			},
+			{
+				"name":"H00088  Common variable immunodeficiency (CVID) [PATH:hsa05340]"
+			},
+			{
+				"name":"H00089  IFN-gamma\/IL-12 axis"
+			},
+			{
+				"name":"H00090  NK cell defects [PATH:hsa04650]"
+			},
+			{
+				"name":"H00091  T-B+Severe combined immunodeficiencies (SCIDs) [PATH:hsa05340]"
+			},
+			{
+				"name":"H00092  T-B-Severe combined immunodeficiencies (SCIDs) [PATH:hsa05340]"
+			},
+			{
+				"name":"H01244  T+B+Severe combined immunodeficiencies (SCIDs)"
+			},
+			{
+				"name":"H00093  Combined immunodeficiencies (CIDs) [PATH:hsa05340]"
+			},
+			{
+				"name":"H01128  Reticular dysgenesis [PATH:hsa00230]"
+			},
+			{
+				"name":"H00094  Immunodeficiency associated with DNA repair defects [PATH:hsa03440]"
+			},
+			{
+				"name":"H01344  Nijmegen syndrome [PATH:hsa03440 hsa03450]"
+			},
+			{
+				"name":"H02015  LIG4 syndrome [PATH:hsa03450]"
+			},
+			{
+				"name":"H00095  Ectodermal dysplasia associated immunodeficiency (EDA-ID) [PATH:hsa05340]"
+			},
+			{
+				"name":"H01245  Immunodeficiency without anhidrotic ectodermal dysplasia"
+			},
+			{
+				"name":"H00096  Defects of toll-like receptor signaling [PATH:hsa04620]"
+			},
+			{
+				"name":"H00097  Chemokine receptor defect [PATH:hsa04060]"
+			},
+			{
+				"name":"H00098  Chronic granulomatous disease [PATH:hsa04666]"
+			},
+			{
+				"name":"H00099  Leukocyte adhesion deficiency (LAD) [PATH:hsa04670]"
+			},
+			{
+				"name":"H00100  Neutropenic disorders"
+			},
+			{
+				"name":"H00939  Darsun syndrome"
+			},
+			{
+				"name":"H01218  P14 deficiency"
+			},
+			{
+				"name":"H00101  Other phagocyte defects"
+			},
+			{
+				"name":"H02021  Chediak-Higashi syndrome"
+			},
+			{
+				"name":"H02022  Griscelli syndrome"
+			},
+			{
+				"name":"H02024  Neutrophil specific granule deficiency"
+			},
+			{
+				"name":"H02025  Myeloperoxidase deficiency [PATH:hsa04145]"
+			},
+			{
+				"name":"H00102  Classic complement pathway component defects [PATH:hsa04610]"
+			},
+			{
+				"name":"H00103  Late complement pathway defects [PATH:hsa04610]"
+			},
+			{
+				"name":"H00104  Alternative complement pathway component defects [PATH:hsa04610]"
+			},
+			{
+				"name":"H00105  Mannose-binding lectin pathway component defects [PATH:hsa04610]"
+			},
+			{
+				"name":"H00106  Complement regulatory protein defects [PATH:hsa04610]"
+			},
+			{
+				"name":"H00107  Other well-defined immunodeficiency syndromes [PATH:hsa05340]"
+			},
+			{
+				"name":"H00108  Autoimmune lymphoproliferative syndromes (ALPS) [PATH:hsa04210]"
+			},
+			{
+				"name":"H00109  Familial hemophagocytic lymphohistiocytosis (FHPL)"
+			},
+			{
+				"name":"H00924  Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation [PATH:hsa03450]"
+			},
+			{
+				"name":"H00984  Bare lymphocyte syndrome (BLS) type1 [PATH:hsa02010 hsa04145 hsa04612 hsa05340]"
+			},
+			{
+				"name":"H00985  Bare lymphocyte syndrome (BLS) type2 [PATH:hsa04612 hsa05340]"
+			},
+			{
+				"name":"H00931  Growth hormone insensitivity with immunodeficiency [PATH:hsa04012 hsa04062 hsa04630]"
+			},
+			{
+				"name":"H00962  RIDDLE syndrome"
+			},
+			{
+				"name":"H01181  T-cell immunodeficiency congenital alopecia and nail dystrophy (TIDAND)"
+			},
+			{
+				"name":"H00721  Pyogenic bacterial infections, recurrent, due to MYD88 deficiency [PATH:hsa04210 hsa04620]"
+			},
+			{
+				"name":"H01240  Immune thrombocytopenia (ITP) [PATH:hsa04145 hsa04380 hsa04666]"
+			},
+			{
+				"name":"H01387  Activated PI3K-delta syndrome (APDS) [PATH:hsa00562 hsa04151 hsa04660 hsa04662 hsa04664 hsa04666 hsa04670]"
+			},
+			{
+				"name":"H01523  Wiskott-Aldrich syndrome [PATH:hsa04144 hsa04810]"
+			},
+			{
+				"name":"H01524  DiGeorge syndrome"
+			},
+			{
+				"name":"H01968  Hyper-IgE syndrome"
+			},
+			{
+				"name":"H01969  X-linked lymphoproliferative syndrome [PATH:hsa04650 hsa04210]"
+			},
+			{
+				"name":"H01970  Lymphoproliferative syndrome 1 [PATH:hsa04660]"
+			},
+			{
+				"name":"H01971  IPEX syndrome [PATH:hsa04659 hsa05321]"
+			},
+			{
+				"name":"H01972  Autoimmune polyendocrinopathy syndrome type 1 [PATH:hsa05340]"
+			}
+			]
+		},
+		{
+			"name":"Other immune system diseases",
+			"children":[
+			{
+				"name":"H00286  Crohn's disease [PATH:hsa04621 hsa04060 hsa04630 hsa05321 hsa04140]"
+			},
+			{
+				"name":"H01466  Ulcerative colitis (UC) [PATH:hsa04060 hsa04630 hsa05321]"
+			},
+			{
+				"name":"H01227  Inflammatory bowel disease (IBD) [PATH:hsa04612 hsa04060 hsa04630 hsa05321 hsa04140]"
+			},
+			{
+				"name":"H00285  Blau syndrome [PATH:hsa04621]"
+			},
+			{
+				"name":"H01309  Sarcoidosis, early-onset [PATH:hsa04621]"
+			},
+			{
+				"name":"H00287  Pyogenic sterile arthritis, pyoderma gangrenosum, and acne (PAPA) syndrome [PATH:hsa04621]"
+			},
+			{
+				"name":"H00288  Familial Mediterranean fever (FMF) [PATH:hsa04621]"
+			},
+			{
+				"name":"H00282  Cryopyrin associated periodic syndrome (CAPS) [PATH:hsa04621]"
+			},
+			{
+				"name":"H00290  Aicardi-Goutieres syndrome (AGS) [PATH:hsa04623]"
+			},
+			{
+				"name":"H00291  Familial chilblain lupus (FCL) [PATH:hsa04623]"
+			},
+			{
+				"name":"H00206  Mevalonate kinase deficiency [PATH:hsa00900]"
+			},
+			{
+				"name":"H00912  Tumor necrosis factor receptor-associated periodic syndrome (TRAPS) [PATH:hsa04010 hsa04060 hsa04210]"
+			},
+			{
+				"name":"H01094  Eosinophil peroxidase deficiency [PATH:hsa05310]"
+			},
+			{
+				"name":"H01109  Chronic mucocutaneous candidiasis (CMC) [PATH:hsa04621 hsa04145 hsa04060 hsa04062 hsa04620 hsa04630]"
+			},
+			{
+				"name":"H01117  Chronic recurrent multifocal osteomyelitis (CRMO) [PATH:hsa00561 hsa00564]"
+			},
+			{
+				"name":"H01136  Carboxypeptidase N deficiency"
+			},
+			{
+				"name":"H01491  Neuromyelitis optica"
+			},
+			{
+				"name":"H01527  Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP)"
+			},
+			{
+				"name":"H01689  Fisher syndrome"
+			},
+			{
+				"name":"H01698  Giant cell arteritis"
+			},
+			{
+				"name":"H01724  HTLV1-associated myelopathy (HAM) [PATH:hsa05166]"
+			},
+			{
+				"name":"H01741  Autoinflammation lipodystrophy and dermatosis syndrome (ALDD) [PATH:hsa03050]"
+			},
+			{
+				"name":"H01743  Autoinflammation and PLCG2-associated antibody deficiency and immune dysregulation (APLAID) [PATH:hsa04064]"
+			},
+			{
+				"name":"H01744  Autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis [PATH:hsa04621]"
+			},
+			{
+				"name":"H01746  STING-associated vasculopathy with onset in infancy (SAVI) [PATH:hsa04621 hsa04622 hsa04623]"
+			},
+			{
+				"name":"H01748  Autoinflammation with infantile enterocolitis (AIFEC) [PATH:hsa04621]"
+			},
+			{
+				"name":"H01761  Immunoglobulin G4-related disease"
+			},
+			{
+				"name":"H01765  Eosinophilic sinusitis"
+			},
+			{
+				"name":"H01767  Henoch-Schonlein purpura nephritis"
+			},
+			{
+				"name":"H01812  Rasmussen encephalitis [PATH:hsa04660]"
+			},
+			{
+				"name":"H01842  Bickerstaff brainstem encephalitis"
+			},
+			{
+				"name":"H01924  Sydenham's chorea"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Nervous system diseases",
+		"children":[
+		{
+			"name":"Neurodegenerative diseases",
+			"children":[
+			{
+				"name":"H00056  Alzheimer's disease (AD) [PATH:hsa05010]"
+			},
+			{
+				"name":"H00066  Lewy body dementia (LBD)"
+			},
+			{
+				"name":"H00057  Parkinson's disease (PD) [PATH:hsa05012]"
+			},
+			{
+				"name":"H01600  Parkinsonian syndrome"
+			},
+			{
+				"name":"H00058  Amyotrophic lateral sclerosis (ALS) [PATH:hsa05014]"
+			},
+			{
+				"name":"H00059  Huntington's disease (HD) [PATH:hsa05016]"
+			},
+			{
+				"name":"H01243  Huntington's disease-like syndrome"
+			},
+			{
+				"name":"H00060  Dentatorubropallidoluysian atrophy (DRPLA)"
+			},
+			{
+				"name":"H00062  Spinal and bulbar muscular atrophy (SBMA)"
+			},
+			{
+				"name":"H00063  Spinocerebellar ataxia (SCA) [PATH:hsa04730 hsa03008]"
+			},
+			{
+				"name":"H01478  Machado-Joseph disease [PATH:hsa04141]"
+			},
+			{
+				"name":"H01038  Cerebellar ataxia cayman type (ATCAY)"
+			},
+			{
+				"name":"H01170  Autosomal recessive spastic ataxia of Charlevoix-Saguenay (ARSACS)"
+			},
+			{
+				"name":"H01891  Autosomal recessive spinocerebellar ataxias"
+			},
+			{
+				"name":"H00061  Prion diseases [PATH:hsa05020]"
+			},
+			{
+				"name":"H00064  Ataxia telangiectasia (AT) [PATH:hsa03440 hsa04110 hsa04218]"
+			},
+			{
+				"name":"H02014  Ataxia-telangiectasia-like syndrome [PATH:hsa03410 hsa03420 hsa03440]"
+			},
+			{
+				"name":"H00065  Alexander disease"
+			},
+			{
+				"name":"H00075  Refsum disease [PATH:hsa04146]"
+			},
+			{
+				"name":"H00067  Friedreich ataxia"
+			},
+			{
+				"name":"H00068  Leber hereditary optic atrophy (LHON) [PATH:hsa00190]"
+			},
+			{
+				"name":"H00076  Cockayne syndrome [PATH:hsa03420]"
+			},
+			{
+				"name":"H00077  Progressive supranuclear palsy (PSP)"
+			},
+			{
+				"name":"H00078  Frontotemporal lobar degeneration (FTLD) [PATH:hsa04010 hsa04141 hsa04144 hsa04310 hsa04330 hsa04722]"
+			},
+			{
+				"name":"H00074  Canavan disease (CD) [PATH:hsa00250]"
+			},
+			{
+				"name":"H00264  Charcot-Marie-Tooth disease (CMT) [PATH:hsa00970]"
+			},
+			{
+				"name":"H00265  Hereditary sensory and autonomic neuropathy (HSAN) [PATH:hsa00600 hsa04144 hsa04145 hsa04010 hsa04210 hsa04722]"
+			},
+			{
+				"name":"H00266  Hereditary spastic paraplegia (SPG)"
+			},
+			{
+				"name":"H00440  Rett syndrome"
+			},
+			{
+				"name":"H00455  Spinal muscular atrophy (SMA) [PATH:hsa03013]"
+			},
+			{
+				"name":"H00655  McLeod syndrome"
+			},
+			{
+				"name":"H00833  Neurodegeneration with brain iron accumulation (NBIA) [PATH:hsa00770 hsa00860 hsa04664 hsa04726 hsa04730 hsa04978]"
+			},
+			{
+				"name":"H00841  Infantile progressive bulbar palsy"
+			},
+			{
+				"name":"H00816  Agenesis of the corpus callosum with peripheral neuropathy (ACCPN)"
+			},
+			{
+				"name":"H00840  Band-like calcification with simplified gyration and polymicrogyria (BLC-PMG) [PATH:hsa04514 hsa04530 hsa04670]"
+			},
+			{
+				"name":"H00879  Perry syndrome"
+			},
+			{
+				"name":"H00845  Familial amyloidosis [PATH:hsa04975 hsa04977 hsa04610 hsa04970 hsa04810]"
+			},
+			{
+				"name":"H00860  Benign hereditary chorea"
+			},
+			{
+				"name":"H00897  Pontocerebellar hypoplasia [PATH:hsa00970 hsa03015 hsa03018]"
+			},
+			{
+				"name":"H00898  Myopathy with lactic acidosis and sideroblastic anaemia (MLASA) [PATH:hsa00970]"
+			},
+			{
+				"name":"H00970  Juvenile primary lateral sclerosis"
+			},
+			{
+				"name":"H01115  Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract (PHARC)"
+			},
+			{
+				"name":"H01146  Aminoacylase 1 deficiency [PATH:hsa00220]"
+			},
+			{
+				"name":"H01172  Infantile ascending hereditary spastic paralysis (IAHSP)"
+			},
+			{
+				"name":"H01177  Infantile bilateral striatal necrosis (IBSN) [PATH:hsa03013 hsa00190]"
+			},
+			{
+				"name":"H01184  Familial dementia"
+			},
+			{
+				"name":"H01185  Cerebral amyloid angiopathy (CAA) [PATH:hsa04726]"
+			},
+			{
+				"name":"H01204  Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ)"
+			},
+			{
+				"name":"H01212  Familial encephalopathy with neuroserpin inclusion bodies (FENIB)"
+			},
+			{
+				"name":"H01259  Giant axonal neuropathy"
+			},
+			{
+				"name":"H01284  Marinesco-Sjogren syndrome [PATH:hsa04141]"
+			},
+			{
+				"name":"H01295  Neurodegeneration due to cerebral folate transport deficiency [PATH:hsa04144]"
+			},
+			{
+				"name":"H01432  Choreoacanthocytosis"
+			},
+			{
+				"name":"H01436  Guillain-Barre syndrome"
+			},
+			{
+				"name":"H01689  Fisher syndrome"
+			},
+			{
+				"name":"H01578  Subacute myelo-optico-neuropathy (SMON)"
+			},
+			{
+				"name":"H01614  Multiple system atrophy [PATH:hsa00130]"
+			},
+			{
+				"name":"H01616  Spinocerebellar degeneration"
+			},
+			{
+				"name":"H01624  Postherpetic neuralgia"
+			},
+			{
+				"name":"H01696  Subacute sclerosing panencephalitis (SSPE)"
+			},
+			{
+				"name":"H01779  Neuroferritinopathy"
+			},
+			{
+				"name":"H01807  Hereditary diffuse leukoencephalopathy with spheroids"
+			},
+			{
+				"name":"H01898  PNPLA6-related disorders [PATH:hsa00564]"
+			},
+			{
+				"name":"H01903  Brown-Vialetto-Van Laere syndrome [PATH:hsa04977]"
+			},
+			{
+				"name":"H01036  Posterior column ataxia with retinitis pigmentosa (PCARP)"
+			},
+			{
+				"name":"H00749  Episodic ataxias [PATH:hsa04010 hsa04020 hsa04260 hsa04721 hsa04724 hsa04725 hsa04727 hsa04728 hsa04730]"
+			},
+			{
+				"name":"H00832  Core neuroacanthocytosis syndromes [PATH:hsa00770]"
+			},
+			{
+				"name":"H00848  Ataxia with ocular apraxia (AOA)"
+			},
+			{
+				"name":"H00856  Distal hereditary motor neuropathies (dHMN)"
+			},
+			{
+				"name":"H00869  Leukoencephalopathy with vanishing white matter [PATH:hsa03013]"
+			},
+			{
+				"name":"H00871  Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation (LBSL) [PATH:hsa00970]"
+			},
+			{
+				"name":"H00874  Leukoencephalopathy with dystonia and motor neuropathy [PATH:hsa00120 hsa03320 hsa04146]"
+			},
+			{
+				"name":"H00875  Megalencephalic leukoencephalopathy with subcortical cysts (MLC)"
+			},
+			{
+				"name":"H00878  Cystic leukoencephalopathy without megalencephaly"
+			},
+			{
+				"name":"H00999  Coenzyme Q10 deficiency [PATH:hsa00130 hsa00900]"
+			},
+			{
+				"name":"H01305  Global cerebral hypomyelination"
+			},
+			{
+				"name":"H01570  Autosomal dominant striatal degeneration (ADSD) [PATH:hsa00230]"
+			},
+			{
+				"name":"H01574  Familial idiopathic basal ganglia calcification"
+			}
+			]
+		},
+		{
+			"name":"Epilepsy",
+			"children":[
+			{
+				"name":"H00577  Symptomatic generalized epilepsies"
+			},
+			{
+				"name":"H00606  Early infantile epileptic encephalopathy [PATH:hsa04723 hsa04727 hsa04724 hsa04728 hsa04726]"
+			},
+			{
+				"name":"H01460  West syndrome [PATH:hsa00601]"
+			},
+			{
+				"name":"H01813  Lennox-Gastaut syndrome"
+			},
+			{
+				"name":"H01818  Dravet syndrome [PATH:hsa04728]"
+			},
+			{
+				"name":"H01819  Early myoclonic encephalopathy"
+			},
+			{
+				"name":"H01823  Myoclonic-astatic epilepsy"
+			},
+			{
+				"name":"H01815  Malignant migrating partial seizures in infancy"
+			},
+			{
+				"name":"H00783  Febrile seizures [PATH:hsa04728 hsa04080 hsa04727]"
+			},
+			{
+				"name":"H00806  Benign familial neonatal and infantile epilepsies [PATH:hsa04725]"
+			},
+			{
+				"name":"H00807  Autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE) [PATH:hsa04080 hsa04725]"
+			},
+			{
+				"name":"H00808  Idiopathic generalized epilepsies (IGEs) [PATH:hsa04080 hsa04978 hsa04727 hsa04010 hsa04260]"
+			},
+			{
+				"name":"H00809  Familial epilepsy temporal lobe (ETL)"
+			},
+			{
+				"name":"H00810  Progressive myoclonic epilepsy (PME\/ EPM) [PATH:hsa00062 hsa00970 hsa00511 hsa00600 hsa04120 hsa04142 hsa04310]"
+			},
+			{
+				"name":"H01994  Lafora disease"
+			},
+			{
+				"name":"H01995  Unverricht-Lundborg disease"
+			},
+			{
+				"name":"H00996  Amish infantile epilepsy syndrome [PATH:hsa00604]"
+			},
+			{
+				"name":"H01124  Pyridoxamine-5'-phosphate oxidase (PNPO) deficiency [PATH:hsa00750]"
+			},
+			{
+				"name":"H01247  Pyridoxine-dependent epilepsy (PDE) [PATH:hsa00310]"
+			},
+			{
+				"name":"H01258  Generalized epilepsy and paroxysmal dyskinesia (GEPD) [PATH:hsa04270]"
+			},
+			{
+				"name":"H01514  Landau-Kleffner syndrome"
+			},
+			{
+				"name":"H01775  PCDH19-related epilepsy syndrome"
+			},
+			{
+				"name":"H01808  Hemiconvulsion-hemiplegia-epilepsy syndrome"
+			},
+			{
+				"name":"H01822  Epilepsy with myoclonic absence"
+			},
+			{
+				"name":"H01826  Mesial temporal lobe epilepsy with hippocampal sclerosis"
+			},
+			{
+				"name":"H01827  Epileptic encephalopathy with continuous spike-waves during slow-wave sleep [PATH:hsa04724]"
+			},
+			{
+				"name":"H01829  Acute encephalitis with refractory repetitive partial seizures"
+			},
+			{
+				"name":"H02058  Kohlschutter-Tonz syndrome"
+			},
+			{
+				"name":"H02150  Infantile or early childhood epileptic encephalopathy"
+			}
+			]
+		},
+		{
+			"name":"Eye disease",
+			"children":[
+			{
+				"name":"H00527  Retinitis pigmentosa (RP) [PATH:hsa04744 hsa00830 hsa03040 hsa00900]"
+			},
+			{
+				"name":"H00612  Primary open angle glaucoma [PATH:hsa03008]"
+			},
+			{
+				"name":"H00633  Duane retraction syndrome"
+			},
+			{
+				"name":"H00690  Aland Island eye disease"
+			},
+			{
+				"name":"H00726  Meesmann corneal dystrophy"
+			},
+			{
+				"name":"H00732  Sorsby fundus dystrophy"
+			},
+			{
+				"name":"H00776  Congenital motor nystagmus (CMN)"
+			},
+			{
+				"name":"H00779  Usher syndrome (US)"
+			},
+			{
+				"name":"H00787  Congenital stationary night blindness (CSNB) [PATH:hsa04744 hsa04010 hsa04020 hsa04080 hsa04724]"
+			},
+			{
+				"name":"H00789  Keratoconus"
+			},
+			{
+				"name":"H00805  Vitreoretinal degeneration [PATH:hsa04510 hsa04512 hsa04514]"
+			},
+			{
+				"name":"H02073  Wagner syndrome [PATH:hsa04514]"
+			},
+			{
+				"name":"H02075  Enhanced S-cone syndrome"
+			},
+			{
+				"name":"H02077  Snowflake vitreoretinal degeneration"
+			},
+			{
+				"name":"H02078  Autosomal dominant vitreoretinochoroidopathy"
+			},
+			{
+				"name":"H00821  Age-related macular degeneration"
+			},
+			{
+				"name":"H01770  Macular dystrophy"
+			},
+			{
+				"name":"H00481  Cone-rod dystrophy and cone dystrophy [PATH:hsa04744 hsa00230]"
+			},
+			{
+				"name":"H00814  Vitelliform macular dystrophy"
+			},
+			{
+				"name":"H00819  Stargardt disease (STGD) [PATH:hsa02010 hsa00062]"
+			},
+			{
+				"name":"H01010  Occult macular dystrophy (OMD)"
+			},
+			{
+				"name":"H01768  Central areolar choroidal dystrophy"
+			},
+			{
+				"name":"H01890  Pattern dystrophies of the retinal pigment epithelium"
+			},
+			{
+				"name":"H01009  Newfoundland rod-cone dystrophy (NFRCD)"
+			},
+			{
+				"name":"H00825  Familial flecked retina syndrome [PATH:hsa00830 hsa04744]"
+			},
+			{
+				"name":"H00837  Leber congenital amaurosis (LCR) [PATH:hsa00230 hsa00830 hsa04744]"
+			},
+			{
+				"name":"H00838  Congenital fibrosis of the extraocular muscles (CFEOM) [PATH:hsa04145 hsa04540]"
+			},
+			{
+				"name":"H00951  Reis-Bucklers corneal dystrophy (RBCD)"
+			},
+			{
+				"name":"H00952  Thiel-Behnke dystrophies (TBCD)"
+			},
+			{
+				"name":"H00953  Gelatinous drop-like corneal dystrophy (GDCD)"
+			},
+			{
+				"name":"H00954  Macular corneal dystrophy (MCD) [PATH:hsa00533]"
+			},
+			{
+				"name":"H00955  Granular corneal dystrophies (GCD)"
+			},
+			{
+				"name":"H00956  Lattice corneal dystrophies (LCD) [PATH:hsa04810]"
+			},
+			{
+				"name":"H00957  Fleck corneal dystrophy (FCD) [PATH:hsa00562 hsa04070 hsa04145 hsa04810]"
+			},
+			{
+				"name":"H00958  Congenital stromal corneal dystrophy (CSCD) [PATH:hsa04350]"
+			},
+			{
+				"name":"H00959  Schnyder corneal dystrophy (SCD)"
+			},
+			{
+				"name":"H00960  Fuchs corneal dystrophy (FECD)"
+			},
+			{
+				"name":"H00961  Posterior polymorphous corneal dystrophy (PPCD)"
+			},
+			{
+				"name":"H00963  Congenital hereditary endothelial dystrophy (CHED)"
+			},
+			{
+				"name":"H01149  Ring dermoid of cornea [PATH:hsa04350]"
+			},
+			{
+				"name":"H01221  Epithelial basement membrane corneal dystrophy (EBMD)"
+			},
+			{
+				"name":"H00971  Achromatopsia [PATH:hsa04744]"
+			},
+			{
+				"name":"H00973  Bradyopsia [PATH:hsa04744]"
+			},
+			{
+				"name":"H00974  Blue cone monochromacy"
+			},
+			{
+				"name":"H00976  Colorblindness"
+			},
+			{
+				"name":"H01015  Jalili syndrome"
+			},
+			{
+				"name":"H01020  Optic atrophy (OPA)"
+			},
+			{
+				"name":"H01088  Pigmented paravenous chorioretinal atrophy (PPCA)"
+			},
+			{
+				"name":"H01180  Sveinsson chorioretinal atrophy (SCRA)"
+			},
+			{
+				"name":"H01116  Choroideremia (CHM)"
+			},
+			{
+				"name":"H01118  Progressive external ophthalmoplegia (PEO) [PATH:hsa04020 hsa00230 hsa00240 hsa00480]"
+			},
+			{
+				"name":"H01130  Late-onset retinal degeneration (L-ORD)"
+			},
+			{
+				"name":"H01202  Cataract [PATH:hsa04141]"
+			},
+			{
+				"name":"H01256  Foveal hypoplasia"
+			},
+			{
+				"name":"H01273  Autosomal dominant keratitis (ADK)"
+			},
+			{
+				"name":"H01378  Bosch-Boonstra optic atrophy syndrome"
+			},
+			{
+				"name":"H01480  Idiopathic macular hole"
+			},
+			{
+				"name":"H01641  Dry eye desease"
+			},
+			{
+				"name":"H01644  Blepharitis"
+			},
+			{
+				"name":"H01651  Macular edema"
+			},
+			{
+				"name":"H01717  Optic neuritis"
+			},
+			{
+				"name":"H01719  Optic neuropathy"
+			},
+			{
+				"name":"H01798  Autosomal dominant neovascular inflammatory vitreoretinopathy (ADNIV)"
+			},
+			{
+				"name":"H02041  Myopia"
+			},
+			{
+				"name":"H02104  Megalocornea"
+			},
+			{
+				"name":"H02107  Bietti crystalline corneoretinal dystrophy (BCD)"
+			},
+			{
+				"name":"H02135  Cone-rod dystrophy and hearing loss"
+			}
+			]
+		},
+		{
+			"name":"Ear disease",
+			"children":[
+			{
+				"name":"H01920  Partington syndrome"
+			},
+			{
+				"name":"H00604  Deafness, autosomal dominant"
+			},
+			{
+				"name":"H00605  Deafness, autosomal recessive"
+			},
+			{
+				"name":"H01209  Deafness, X-linked"
+			},
+			{
+				"name":"H01704  Sudden sensorineural hearing loss"
+			},
+			{
+				"name":"H01705  Bilateral sudden sensorineural hearing loss"
+			},
+			{
+				"name":"H01706  Delayed endolymphatic hydrops"
+			},
+			{
+				"name":"H01495  Meniere disease"
+			}
+			]
+		},
+		{
+			"name":"Other nervous and sensory system diseases",
+			"children":[
+			{
+				"name":"H00524  Scapuloperoneal spinal muscular atrophy (SPSMA)"
+			},
+			{
+				"name":"H00688  Familial advanced sleep phase syndrome [PATH:hsa04710]"
+			},
+			{
+				"name":"H00689  Delayed sleep phase syndrome [PATH:hsa00380 hsa01100]"
+			},
+			{
+				"name":"H00916  Congenital central hypoventilation syndrome (CCHS) [PATH:hsa04010 hsa04722]"
+			},
+			{
+				"name":"H00770  Congenital myasthenic syndrome [PATH:hsa04080 hsa00564 hsa04725 hsa04512 hsa00520]"
+			},
+			{
+				"name":"H00772  Paroxysmal extreme pain disorder (PEPD)"
+			},
+			{
+				"name":"H00769  Hyperekplexia [PATH:hsa04080]"
+			},
+			{
+				"name":"H00774  Congenital insensitivity to pain"
+			},
+			{
+				"name":"H00775  Familial or sporadic hemiplegic migraine [PATH:hsa04010 hsa04020 hsa04260 hsa04721 hsa04724 hsa04725 hsa04727 hsa04728 hsa04730]"
+			},
+			{
+				"name":"H00803  Seizures-sensorineural deafness-ataxia-mental retardation-electrolyte imbalance (SESAME)"
+			},
+			{
+				"name":"H00831  Primary dystonia [PATH:hsa00350 hsa00790 hsa04260 hsa04728 hsa04976 hsa04920]"
+			},
+			{
+				"name":"H00836  GLUT1 deficiency syndrome (GLUT1DS) [PATH:hsa04976 hsa04920]"
+			},
+			{
+				"name":"H00989  Mohr-Tranebjaerg syndrome"
+			},
+			{
+				"name":"H00998  Alternating hemiplegia of childhood [PATH:hsa04960 hsa04961 hsa04964]"
+			},
+			{
+				"name":"H01000  Retinal vasculopathy with cerebral leukodystrophy (RVCL) [PATH:hsa04623]"
+			},
+			{
+				"name":"H01005  Dopamine beta-hydroxylase deficiency [PATH:hsa00350]"
+			},
+			{
+				"name":"H01007  Choroid plexus papilloma [PATH:hsa04010 hsa04110 hsa04115 hsa04210 hsa04310 hsa04722 hsa05200]"
+			},
+			{
+				"name":"H01097  Spastic quadriplegic cerebral palsy [PATH:hsa04727]"
+			},
+			{
+				"name":"H01131  Hereditary neuralgic amyotrophy (HNA)"
+			},
+			{
+				"name":"H01155  Roussy-Levy syndrome [PATH:hsa04514 hsa04146]"
+			},
+			{
+				"name":"H01161  Aromatic L-amino acid decarboxylase (AADC) deficiency [PATH:hsa00350 hsa00380 hsa04726 hsa04728]"
+			},
+			{
+				"name":"H01201  Jensen syndrome"
+			},
+			{
+				"name":"H01287  Congenital mirror movements (CMM) [PATH:hsa04360 hsa03440]"
+			},
+			{
+				"name":"H01293  Narcolepsy"
+			},
+			{
+				"name":"H01296  Hereditary neuropathy with liability to pressure palsies (HNPP)"
+			},
+			{
+				"name":"H01301  Hemorrhagic destruction of the brain, subependymal calcification, and cataracts [PATH:hsa04530]"
+			},
+			{
+				"name":"H00798  Familial carpal tunnel syndrome"
+			},
+			{
+				"name":"H01812  Rasmussen encephalitis [PATH:hsa04660]"
+			},
+			{
+				"name":"H01490  Multiple sclerosis"
+			},
+			{
+				"name":"H01491  Neuromyelitis optica"
+			},
+			{
+				"name":"H01504  Vogt-Koyanagi-Harada syndrome"
+			},
+			{
+				"name":"H01506  Hepatic encephalopathy"
+			},
+			{
+				"name":"H01527  Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP)"
+			},
+			{
+				"name":"H01528  Neuroleptic malignant syndrome (NMS)"
+			},
+			{
+				"name":"H01565  Wernicke encephalopathy [PATH:hsa04977]"
+			},
+			{
+				"name":"H01577  Essential tremor"
+			},
+			{
+				"name":"H01588  Cluster headache"
+			},
+			{
+				"name":"H01594  Myasthenia gravis"
+			},
+			{
+				"name":"H01596  Lambert-Eaton myasthenic syndrome (LEMS)"
+			},
+			{
+				"name":"H01597  Restless legs syndrome"
+			},
+			{
+				"name":"H01608  Cervical dystonia"
+			},
+			{
+				"name":"H01609  Insomnia"
+			},
+			{
+				"name":"H01638  Neuropathic pain"
+			},
+			{
+				"name":"H01668  Neoplastic meningitis"
+			},
+			{
+				"name":"H01724  HTLV1-associated myelopathy (HAM) [PATH:hsa05166]"
+			},
+			{
+				"name":"H01676  Normal pressure hydrocephalus"
+			},
+			{
+				"name":"H01692  Subependymal giant cell astrocytoma (SEGA) [PATH:hsa04150]"
+			},
+			{
+				"name":"H01836  Congenital pain insensitivity with anhidrosis [PATH:hsa04722]"
+			},
+			{
+				"name":"H01837  Congenital suprabulbar paresis"
+			},
+			{
+				"name":"H01841  Acute encephalopathy with biphasic seizures and late reduced diffusion"
+			},
+			{
+				"name":"H01842  Bickerstaff brainstem encephalitis"
+			},
+			{
+				"name":"H01846  Superficial siderosis"
+			},
+			{
+				"name":"H01924  Sydenham's chorea"
+			},
+			{
+				"name":"H01987  Familial dysautonomia"
+			},
+			{
+				"name":"H02101  Autosomal dominant sensory ataxia"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Cardiovascular diseases",
+		"children":[
+		{
+			"name":"Cardiac diseases",
+			"children":[
+			{
+				"name":"H00292  Hypertrophic cardiomyopathy (HCM) [PATH:hsa05410]"
+			},
+			{
+				"name":"H00293  Arrhythmogenic right ventricular cardiomyopathy (ARVC) [PATH:hsa05412]"
+			},
+			{
+				"name":"H00294  Dilated cardiomyopathy (DCM) [PATH:hsa05414]"
+			},
+			{
+				"name":"H01219  Restrictive cardiomyopathy (RCM) [PATH:hsa04260]"
+			},
+			{
+				"name":"H00295  Viral myocarditis [PATH:hsa05416]"
+			},
+			{
+				"name":"H01216  Left ventricular noncompaction (LVNC) [PATH:hsa04260]"
+			},
+			{
+				"name":"H00546  Atrial septal defect"
+			},
+			{
+				"name":"H00547  Atrioventricular septal defect"
+			},
+			{
+				"name":"H00549  Tetralogy of Fallot [PATH:hsa04330]"
+			},
+			{
+				"name":"H00550  Complete transposition of the great arteries"
+			},
+			{
+				"name":"H01786  Congenitally corrected transposition of the great arteries"
+			},
+			{
+				"name":"H00553  Congenital supravalvar aortic stenosis"
+			},
+			{
+				"name":"H00555  Char syndrome"
+			},
+			{
+				"name":"H00654  Barth syndrome (BTHS) [PATH:hsa00564]"
+			},
+			{
+				"name":"H00669  Naxos disease [PATH:hsa05412]"
+			},
+			{
+				"name":"H02094  Carvajal syndrome"
+			},
+			{
+				"name":"H00720  Long QT syndrome [PATH:hsa04261 hsa04921]"
+			},
+			{
+				"name":"H00725  Short QT syndrome"
+			},
+			{
+				"name":"H02091  Jervell and Lange-Nielsen syndrome [PATH:hsa04261]"
+			},
+			{
+				"name":"H00728  Brugada syndrome (BRS) [PATH:hsa04010 hsa04020 hsa04260 hsa04270 hsa05410 hsa05412 hsa05414]"
+			},
+			{
+				"name":"H00729  Sick sinus syndrome (SSS)"
+			},
+			{
+				"name":"H00730  Familial idiopathic ventricular fibrillation"
+			},
+			{
+				"name":"H00731  Atrial fibrillation [PATH:hsa04270 hsa04261]"
+			},
+			{
+				"name":"H00918  Double-outlet right ventricle"
+			},
+			{
+				"name":"H00939  Darsun syndrome"
+			},
+			{
+				"name":"H01019  Catecholaminergic polymorphic ventricular tachycardia [PATH:hsa04020 hsa04260]"
+			},
+			{
+				"name":"H01154  Wolff-Parkinson-White (WPW) syndrome [PATH:hsa04910 hsa04920 hsa05410]"
+			},
+			{
+				"name":"H01263  Progressive cardiac conduction defect (PCCD)"
+			},
+			{
+				"name":"H01632  Angina pectoris"
+			},
+			{
+				"name":"H01729  Premature ventricular complexes (PVCs)"
+			},
+			{
+				"name":"H01730  Myocardial infarction"
+			},
+			{
+				"name":"H01736  Persistent truncus arteriosus"
+			},
+			{
+				"name":"H01783  Ebstein anomaly"
+			},
+			{
+				"name":"H01785  Tricuspid atresia"
+			},
+			{
+				"name":"H01787  Univentricular heart"
+			},
+			{
+				"name":"H01802  Pulmonary atresia with intact ventricular septum"
+			},
+			{
+				"name":"H01803  Pulmonary atresia with ventricular septal defect"
+			},
+			{
+				"name":"H01868  Mitral valve prolapse"
+			},
+			{
+				"name":"H01926  Ventricular septal defect (VSD)"
+			},
+			{
+				"name":"H02125  Cardiac conduction disease with dilated cardiomyopathy"
+			}
+			]
+		},
+		{
+			"name":"Vascular diseases",
+			"children":[
+			{
+				"name":"H01849  Peripheral arteriovenous malformation"
+			},
+			{
+				"name":"H00532  Parkes Weber syndrome [PATH:hsa04010]"
+			},
+			{
+				"name":"H00533  Hereditary hemorrhagic telangiectasia (HHT) [PATH:hsa04350]"
+			},
+			{
+				"name":"H00534  Cerebral cavernous malformation"
+			},
+			{
+				"name":"H01482  Infantile hemangioma [PATH:hsa04370]"
+			},
+			{
+				"name":"H01875  Infantile hepatic hemangioma"
+			},
+			{
+				"name":"H00536  Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy (CADASIL) [PATH:hsa04330]"
+			},
+			{
+				"name":"H00579  Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps (HANAC) [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01757  Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy"
+			},
+			{
+				"name":"H00771  Inherited erythromelalgia (IEM)"
+			},
+			{
+				"name":"H00800  Loeys-Dietz syndrome (LDS) [PATH:hsa04010 hsa04060 hsa04144 hsa04350 hsa04380 hsa04390 hsa04520]"
+			},
+			{
+				"name":"H00801  Familial thoracic aortic aneurysm and dissection (TAAD) [PATH:hsa04270 hsa04010 hsa04020 hsa04060 hsa04350 hsa04510 hsa04520 hsa04530 hsa04810]"
+			},
+			{
+				"name":"H00877  Brain small vessel disease with hemorrhage [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H00896  Lymphangioleiomyomatosis (LAM) [PATH:hsa04115 hsa04150 hsa04910]"
+			},
+			{
+				"name":"H01471  Lymphangioma"
+			},
+			{
+				"name":"H01735  Lymphangiomatosis"
+			},
+			{
+				"name":"H00919  Arterial tortuosity syndrome"
+			},
+			{
+				"name":"H00939  Darsun syndrome"
+			},
+			{
+				"name":"H01002  Generalized arterial calcification of infancy [PATH:hsa00230 hsa00500 hsa00740 hsa00760 hsa00770 hsa01100]"
+			},
+			{
+				"name":"H01006  Hereditary angioedema (HAE) [PATH:hsa04610]"
+			},
+			{
+				"name":"H01120  Proliferative vasculopathy and hydranencephaly-hydrocephaly syndrome (PVHH)"
+			},
+			{
+				"name":"H01382  Polyarteritis nodosa"
+			},
+			{
+				"name":"H00824  Calcification of joints and arteries [PATH:hsa00230 hsa00240 hsa00760 hsa01100]"
+			},
+			{
+				"name":"H01396  Moyamoya disease [PATH:hsa04270]"
+			},
+			{
+				"name":"H01433  Budd-Chiari syndrome"
+			},
+			{
+				"name":"H01465  Large-vessel vasculitis (LVV)"
+			},
+			{
+				"name":"H01698  Giant cell arteritis"
+			},
+			{
+				"name":"H01468  Eosinophilic granulomatosis with polyangiitis"
+			},
+			{
+				"name":"H01625  Buerger's disease"
+			},
+			{
+				"name":"H01626  Arteriosclerosis obliterans"
+			},
+			{
+				"name":"H01629  Chronic arterial occlusive disease"
+			},
+			{
+				"name":"H01630  Patent ductus arteriosus [PATH:hsa04270]"
+			},
+			{
+				"name":"H01620  Raynaud syndrome"
+			},
+			{
+				"name":"H01658  Microscopic polyangiitis"
+			},
+			{
+				"name":"H01687  Extrahepatic portal vein obstruction (EHPVO)"
+			},
+			{
+				"name":"H01723  Deep vein thrombosis (DVT)"
+			},
+			{
+				"name":"H01718  Kawasaki disease"
+			},
+			{
+				"name":"H01742  Coronary artery disease [PATH:hsa04022 hsa04310]"
+			},
+			{
+				"name":"H01788  Klippel-Trenaunay-Weber syndrome"
+			},
+			{
+				"name":"H01809  Sturge-Weber syndrome"
+			},
+			{
+				"name":"H01866  Pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis"
+			},
+			{
+				"name":"H02088  Primary intraosseous vascular malformation (VMPI)"
+			}
+			]
+		},
+		{
+			"name":"Hematologic diseases",
+			"children":[
+			{
+				"name":"H00228  Thalassemia"
+			},
+			{
+				"name":"H01752  ATR-X syndrome"
+			},
+			{
+				"name":"H00229  Sickle cell anemia (SCA)"
+			},
+			{
+				"name":"H00230  Hereditary spherocytosis (SPH)"
+			},
+			{
+				"name":"H00231  Hereditary elliptocytosis (HE)"
+			},
+			{
+				"name":"H00232  Hereditary stomatocytosis (HSt)"
+			},
+			{
+				"name":"H00219  Hemophilia [PATH:hsa04610 hsa04512 hsa04640]"
+			},
+			{
+				"name":"H01254  Congenital prothrombin deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H00220  Factor V deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H00221  Combined deficiency of factors V and VIII (F5F8D) [PATH:hsa04141]"
+			},
+			{
+				"name":"H00222  Afibrinogenemia [PATH:hsa04610]"
+			},
+			{
+				"name":"H00223  Inherited thrombophilia [PATH:hsa04610]"
+			},
+			{
+				"name":"H01740  Macrothrombocytopenia [PATH:hsa04151 hsa04510 hsa04611 hsa04810]"
+			},
+			{
+				"name":"H00224  Bernard-Soulier syndrome [PATH:hsa04512 hsa04640]"
+			},
+			{
+				"name":"H00233  MYH9-related disease [PATH:hsa04530 hsa04810]"
+			},
+			{
+				"name":"H02051  May-Hegglin anomaly [PATH:hsa04530 hsa04810]"
+			},
+			{
+				"name":"H02052  Sebastian syndrome"
+			},
+			{
+				"name":"H02053  Fechtner syndrome [PATH:hsa04530 hsa04810]"
+			},
+			{
+				"name":"H00226  Glanzmann thrombasthenia [PATH:hsa04512 hsa04510]"
+			},
+			{
+				"name":"H00225  Thrombotic thrombocytopenic purpura (TTP)"
+			},
+			{
+				"name":"H00227  Congenital amegakaryocytic thrombocytopenia (CAMT) [PATH:hsa04060]"
+			},
+			{
+				"name":"H00234  Pelger-Huet anomaly"
+			},
+			{
+				"name":"H00235  Methemoglobinemia [PATH:hsa00520]"
+			},
+			{
+				"name":"H00236  Congenital polycythemia"
+			},
+			{
+				"name":"H00237  Diamond-Blackfan anemia (DBA) [PATH:hsa03010]"
+			},
+			{
+				"name":"H00238  Fanconi anemia [PATH:hsa03460]"
+			},
+			{
+				"name":"H00490  Diaphyseal dysplasia with anemia (Ghosal) [PATH:hsa00590]"
+			},
+			{
+				"name":"H00578  Epstein syndrome [PATH:hsa04530 hsa04810]"
+			},
+			{
+				"name":"H00664  Anemia due to disorders of glycolytic enzymes [PATH:hsa00010]"
+			},
+			{
+				"name":"H00668  Anemia due to disorders of glutathione metabolism [PATH:hsa00480 hsa00030]"
+			},
+			{
+				"name":"H00674  Anemia due to disorders of nucleotide metabolism [PATH:hsa00230 hsa00240]"
+			},
+			{
+				"name":"H00917  Congenital dyserythropoietic anemias (CDAs) [PATH:hsa04141]"
+			},
+			{
+				"name":"H00938  Factor XI deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H00941  Factor XII deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H00945  Factor XIII deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H00978  Thrombocytopenia (THC) [PATH:hsa04530]"
+			},
+			{
+				"name":"H00982  Sideroblastic anemia"
+			},
+			{
+				"name":"H00983  Alpha-2-plasmin inhibitor (a2-PI) deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H00920  Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis [PATH:hsa00190 hsa01100]"
+			},
+			{
+				"name":"H00995  Combined deficiency of vitamin K-dependent clotting factors (VKCFD)"
+			},
+			{
+				"name":"H01013  Adult i phenotype [PATH:hsa00601]"
+			},
+			{
+				"name":"H01031  Orthostatic intolerance (OI)"
+			},
+			{
+				"name":"H01053  Paroxysmal nocturnal hemoglobinuria (PNH) [PATH:hsa00563]"
+			},
+			{
+				"name":"H01078  Fletcher factor deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H01096  Pyruvate kinase (PK) deficiency [PATH:hsa00010 hsa00230 hsa00620]"
+			},
+			{
+				"name":"H01106  Plasminogen activator inhibitor type 1 (PAI-1) deficiency [PATH:hsa04115 hsa04610]"
+			},
+			{
+				"name":"H01125  Hereditary pyropoikilocytosis (HPP)"
+			},
+			{
+				"name":"H01132  Aplastic anemia (AA) [PATH:hsa04380 hsa04612]"
+			},
+			{
+				"name":"H01145  Atransferrinemia [PATH:hsa04978]"
+			},
+			{
+				"name":"H01162  Scott syndrome"
+			},
+			{
+				"name":"H01183  Thiamine-responsive megaloblastic anemia (TRMA)"
+			},
+			{
+				"name":"H01196  Hypochromic microcytic anemia [PATH:hsa04142 hsa04978]"
+			},
+			{
+				"name":"H01206  Plasminogen deficiency [PATH:hsa04080 hsa04610]"
+			},
+			{
+				"name":"H01214  Rh-null hemolytic anemia (RHN)"
+			},
+			{
+				"name":"H01235  Bleeding disorder platelet-type"
+			},
+			{
+				"name":"H01252  Hereditary folate malabsorption (HFM) [PATH:hsa04977 hsa04978]"
+			},
+			{
+				"name":"H01277  Vitamin B12 deficiency anaemia [PATH:hsa04977]"
+			},
+			{
+				"name":"H01278  Iron-refractory iron deficiency anemia (IRIDA)"
+			},
+			{
+				"name":"H01303  Hypercatabolic hypoproteinemia [PATH:hsa04612]"
+			},
+			{
+				"name":"H01381  Antithrombin III deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H01434  Atypical hemolytic uremic syndrome (aHUS) [PATH:hsa04610]"
+			},
+			{
+				"name":"H01481  Myelodysplastic syndrome (MDS) [PATH:hsa03040 hsa04550]"
+			},
+			{
+				"name":"H01484  5q- syndrome [PATH:hsa03010]"
+			},
+			{
+				"name":"H01580  Vitamin C deficiency"
+			},
+			{
+				"name":"H01584  IgA vasculitis"
+			},
+			{
+				"name":"H01585  Autoimmune hemolytic anemia (AIHA)"
+			},
+			{
+				"name":"H01586  Acquired pure red cell aplasia"
+			},
+			{
+				"name":"H01587  Disseminated intravascular coagulation (DIC)"
+			},
+			{
+				"name":"H01697  Antiphospholipid syndrome (APS)"
+			},
+			{
+				"name":"H01720  Southeast Asian ovalocytosis (SAO)"
+			},
+			{
+				"name":"H01759  Autoimmune hemorrhaphilia XIII\/13"
+			},
+			{
+				"name":"H01938  Hypermanganesemia with dystonia (HMNDYT)"
+			},
+			{
+				"name":"H01978  Dehydrated hereditary stomatocytosis"
+			},
+			{
+				"name":"H01979  Overhydrated hereditary stomatocytosis"
+			},
+			{
+				"name":"H02001  Familial pseudohyperkalemia"
+			},
+			{
+				"name":"H02002  Cryohydrocytosis (CHC)"
+			},
+			{
+				"name":"H02092  von Willebrand disease [PATH:hsa04610 hsa04611]"
+			},
+			{
+				"name":"H02093  Platelet-type von Willebrand disease [PATH:hsa04611]"
+			},
+			{
+				"name":"H02097  Gray platelet syndrome"
+			}
+			]
+		},
+		{
+			"name":"Hypertensive diseases",
+			"children":[
+			{
+				"name":"H00602  Glucocorticoid-remediable aldosteronism (GRA) [PATH:hsa00140]"
+			},
+			{
+				"name":"H00259  Apparent mineralocorticoid excess syndrome [PATH:hsa00140]"
+			},
+			{
+				"name":"H00242  Liddle syndrome [PATH:hsa04960]"
+			},
+			{
+				"name":"H00258  Aldosterone synthase deficiency [PATH:hsa00140]"
+			},
+			{
+				"name":"H00603  Hypertension exacerbated in pregnancy [PATH:hsa04960]"
+			},
+			{
+				"name":"H01619  Primary pulmonary hypertension (PPH) [PATH:hsa04350]"
+			},
+			{
+				"name":"H01621  Pulmonary arterial hypertension (PAH) [PATH:hsa04350]"
+			},
+			{
+				"name":"H01622  Chronic thromboembolic pulmonary hypertension"
+			},
+			{
+				"name":"H01631  Acute heart failure"
+			},
+			{
+				"name":"H01633  High blood pressure"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Respiratory diseases",
+		"children":[
+		{
+			"name":"Lung diseases",
+			"children":[
+			{
+				"name":"H00904  Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities"
+			},
+			{
+				"name":"H01103  Alpha-1-antitrypsin (A1AT) deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H01110  Pneumothorax"
+			},
+			{
+				"name":"H01122  Congenital pulmonary alveolar proteinosis [PATH:hsa04060 hsa04630]"
+			},
+			{
+				"name":"H01298  Pulmonary alveolar microlithiasis (PALM)"
+			},
+			{
+				"name":"H01299  Idiopathic pulmonary fibrosis"
+			},
+			{
+				"name":"H01714  Chronic obstructive pulmonary disease (COPD)"
+			},
+			{
+				"name":"H01716  Idiopathic interstitial pneumonias"
+			},
+			{
+				"name":"H01727  Primary alveolar hypoventilation syndrome"
+			},
+			{
+				"name":"H02124  Interstitial lung and liver disease"
+			}
+			]
+		},
+		{
+			"name":"Tracheobronchial diseases",
+			"children":[
+			{
+				"name":"H00892  Bronchiectasis with or without elevated sweat chloride [PATH:hsa04960]"
+			},
+			{
+				"name":"H01713  Diffuse panbronchiolitis"
+			},
+			{
+				"name":"H01715  Obesity hypoventilation syndrome"
+			},
+			{
+				"name":"H01873  Obliterative bronchiolitis"
+			},
+			{
+				"name":"H00564  Primary ciliary dyskinesia"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Endocrine and metabolic diseases",
+		"children":[
+		{
+			"name":"Diabetes",
+			"children":[
+			{
+				"name":"H00409  Type II diabetes mellitus [PATH:hsa04110 hsa04115 hsa04350 hsa04950 hsa04911 hsa04930 hsa04972 hsa04330 hsa03320 hsa04310 hsa04141]"
+			},
+			{
+				"name":"H00408  Type I diabetes mellitus [PATH:hsa04940 hsa04660 hsa04060 hsa04630 hsa04722]"
+			},
+			{
+				"name":"H00410  Maturity onset diabetes of the young (MODY) [PATH:hsa04950 hsa04930 hsa04910]"
+			},
+			{
+				"name":"H00512  Permanent neonatal diabetes mellitus (PNDM) [PATH:hsa04930 hsa04950 hsa04910]"
+			},
+			{
+				"name":"H00513  Transient neonatal diabetes mellitus (TNDM) [PATH:hsa04930]"
+			},
+			{
+				"name":"H00766  Wolcott-Rallison syndrome [PATH:hsa04141]"
+			},
+			{
+				"name":"H00854  Wolfram syndrome (WFS) [PATH:hsa04141]"
+			},
+			{
+				"name":"H00942  Rabson-Mendenhall syndrome [PATH:hsa04520 hsa04910 hsa04930 hsa04960]"
+			},
+			{
+				"name":"H01224  Ketosis-prone diabetes mellitus (KPD)"
+			},
+			{
+				"name":"H01228  Insulin-resistant diabetes mellitus with acanthosis nigricans (IRAN) [PATH:hsa04520 hsa04910 hsa04930 hsa04960]"
+			},
+			{
+				"name":"H01377  Mitchell-Riley syndrome"
+			},
+			{
+				"name":"H01456  Diabetic nephropathy [PATH:hsa04933 hsa04614 hsa04068 hsa04211]"
+			},
+			{
+				"name":"H01457  Diabetic retinopathy [PATH:hsa04933 hsa04066 hsa04614]"
+			},
+			{
+				"name":"H01459  Diabetic neuropathy [PATH:hsa04933]"
+			}
+			]
+		},
+		{
+			"name":"Hypothalamus and pituitary gland diseases",
+			"children":[
+			{
+				"name":"H00253  Neurohypophyseal diabetes insipidus (NPDI)"
+			},
+			{
+				"name":"H00254  Growth hormone deficiency"
+			},
+			{
+				"name":"H02035  Isolated growth hormone deficiency"
+			},
+			{
+				"name":"H02036  Combined pituitary hormone deficiency"
+			},
+			{
+				"name":"H02037  Laron syndrome [PATH:hsa04080 hsa04060 hsa04630 hsa04151]"
+			},
+			{
+				"name":"H02038  X-linked panhypopituitarism"
+			},
+			{
+				"name":"H02039  Kowarski syndrome [PATH:hsa04060 hsa04151 hsa04080 hsa04630]"
+			},
+			{
+				"name":"H02040  Insulin-like growth factor I deficiency [PATH:hsa04151]"
+			},
+			{
+				"name":"H01102  Pituitary adenomas [PATH:hsa05202 hsa04012 hsa04110 hsa04210 hsa04910]"
+			},
+			{
+				"name":"H01618  Pituitary gigantism"
+			},
+			{
+				"name":"H01483  Acromegaly"
+			},
+			{
+				"name":"H00255  Hypogonadotropic hypogonadism [PATH:hsa04912 hsa04080 hsa04810]"
+			},
+			{
+				"name":"H00794  Aromatase excess syndrome [PATH:hsa00140]"
+			},
+			{
+				"name":"H02020  Aromatase deficiency [PATH:hsa00140 hsa04913]"
+			},
+			{
+				"name":"H00937  Precocious puberty [PATH:hsa04020 hsa04080 hsa04912]"
+			},
+			{
+				"name":"H02018  Central precocious puberty"
+			},
+			{
+				"name":"H02019  Familial male-limited precocious puberty [PATH:hsa04020 hsa04917]"
+			},
+			{
+				"name":"H01011  Adrenocorticotropic hormone deficiency"
+			},
+			{
+				"name":"H01253  Isolated follicle-stimulating hormone deficiency (IFSHD) [PATH:hsa04080 hsa04912]"
+			},
+			{
+				"name":"H01274  Growth delay due to insulin-like growth factor I resistance [PATH:hsa04114 hsa04510 hsa04520 hsa04730 hsa04914]"
+			},
+			{
+				"name":"H01294  Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) [PATH:hsa04080 hsa04962]"
+			},
+			{
+				"name":"H01388  Hyperprolactinemia [PATH:hsa04151 hsa04630 hsa04917]"
+			},
+			{
+				"name":"H01682  Syndrome of inappropriate secretion of antidiuretic hormone (SIADH) [PATH:hsa04080 hsa04962]"
+			},
+			{
+				"name":"H01683  Disorders of antidiuretic hormone (ADH) secretion [PATH:hsa04080 hsa04962]"
+			},
+			{
+				"name":"H01699  Isolated TSH deficiency [PATH:hsa04918]"
+			},
+			{
+				"name":"H01701  Pituitary TSH hypersecretion"
+			},
+			{
+				"name":"H01700  Hypopituitarism [PATH:hsa04080]"
+			},
+			{
+				"name":"H01702  Glucocorticoid resistance syndrome [PATH:hsa04080]"
+			},
+			{
+				"name":"H01860  Abnormal pituitary gonadotropin secretion [PATH:hsa04912]"
+			},
+			{
+				"name":"H01864  Excessive secretion of growth hormone"
+			},
+			{
+				"name":"H01907  Acid-labile subunit (ALS) deficiency"
+			},
+			{
+				"name":"H02061  Estrogen resistance syndrome [PATH:hsa01522 hsa04917 hsa04915]"
+			}
+			]
+		},
+		{
+			"name":"Thyroid gland diseases",
+			"children":[
+			{
+				"name":"H00250  Congenital nongoitrous hypothyroidism (CHNG) [PATH:hsa04918 hsa04919]"
+			},
+			{
+				"name":"H00251  Thyroid dyshormonogenesis [PATH:hsa00350]"
+			},
+			{
+				"name":"H00249  Thyroid hormone resistance syndrome [PATH:hsa04080]"
+			},
+			{
+				"name":"H00650  Allan-Herndon-Dudley syndrome"
+			},
+			{
+				"name":"H00913  Brain-lung-thyroid syndrome"
+			},
+			{
+				"name":"H01040  Bamforth-Lazarus syndrome"
+			},
+			{
+				"name":"H01186  Abnormal thyroid hormone metabolism"
+			},
+			{
+				"name":"H01269  Congenital hyperthyroidism"
+			},
+			{
+				"name":"H01645  Hyperthyroidism"
+			},
+			{
+				"name":"H01647  Subacute thyroiditis"
+			},
+			{
+				"name":"H02034  Central hypothyroidism and testicular enlargement"
+			}
+			]
+		},
+		{
+			"name":"Parathyroid diseases",
+			"children":[
+			{
+				"name":"H00244  Pseudohypoparathyroidism [PATH:hsa04130]"
+			},
+			{
+				"name":"H00246  Primary hyperparathyroidism"
+			},
+			{
+				"name":"H01669  Secondary hyperparathyroidism"
+			},
+			{
+				"name":"H02030  Neonatal hyperparathyroidism"
+			},
+			{
+				"name":"H01862  Hypoparathyroidism"
+			}
+			]
+		},
+		{
+			"name":"Adrenal gland diseases",
+			"children":[
+			{
+				"name":"H00602  Glucocorticoid-remediable aldosteronism (GRA) [PATH:hsa00140]"
+			},
+			{
+				"name":"H01603  Primary aldosteronism [PATH:hsa04020 hsa04924 hsa04960 hsa04261]"
+			},
+			{
+				"name":"H00260  Pigmented micronodular adrenocortical disease (PPNAD)"
+			},
+			{
+				"name":"H01598  Addison's disease"
+			},
+			{
+				"name":"H01772  Adrenal hypoplasia congenita"
+			},
+			{
+				"name":"H01111  Cortisone reductase deficiency (CRD) [PATH:hsa00030 hsa00140 hsa00980]"
+			},
+			{
+				"name":"H01163  Corticosteroid-binding globulin (CBG) deficiency"
+			},
+			{
+				"name":"H00256  Familial glucocorticoid deficiency (FGD)"
+			},
+			{
+				"name":"H00257  Achalasia-Addisonianism-Alacrima syndrome"
+			},
+			{
+				"name":"H01431  Cushing's syndrome [PATH:hsa04934]"
+			},
+			{
+				"name":"H02049  Bilateral macronodular adrenal hyperplasia (BMAH) [PATH:hsa04934]"
+			}
+			]
+		},
+		{
+			"name":"Other endocrine and metabolic diseases",
+			"children":[
+			{
+				"name":"H01635  Hyperlipidemia"
+			},
+			{
+				"name":"H00239  Bartter syndrome [PATH:hsa04960]"
+			},
+			{
+				"name":"H00240  Gitelman syndrome"
+			},
+			{
+				"name":"H01522  Zollinger-Ellison syndrome (ZES) [PATH:hsa04971]"
+			},
+			{
+				"name":"H00601  Hutchinson-Gilford progeria syndrome"
+			},
+			{
+				"name":"H00719  Leprechaunism [PATH:hsa04520 hsa04910 hsa04930 hsa04960]"
+			},
+			{
+				"name":"H01883  Nestor-Guillermo progeria syndrome"
+			},
+			{
+				"name":"H01733  Werner syndrome"
+			},
+			{
+				"name":"H01565  Wernicke encephalopathy [PATH:hsa04977]"
+			},
+			{
+				"name":"H01566  Beriberi"
+			},
+			{
+				"name":"H01582  Pellagra"
+			},
+			{
+				"name":"H02059  Leptin deficiency [PATH:hsa04080 hsa04920 hsa04630 hsa04152 hsa04060]"
+			},
+			{
+				"name":"H02060  Leptin receptor deficiency [PATH:hsa04080 hsa04920 hsa04630 hsa04152 hsa04060]"
+			},
+			{
+				"name":"H02105  Prohormone convertase 1\/3 deficiency"
+			},
+			{
+				"name":"H02106  Genetic obesity [PATH:hsa04080 hsa04714 hsa04923 hsa03320]"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Digestive system diseases",
+		"children":[
+		{
+			"name":"Mouth and dental diseases",
+			"children":[
+			{
+				"name":"H00432  Hereditary dentine disorders"
+			},
+			{
+				"name":"H00497  Cherubism"
+			},
+			{
+				"name":"H00615  Amelogenesis imperfecta"
+			},
+			{
+				"name":"H00618  Amelogenesis imperfecta hypoplastic-hypomaturation with taurodontism (AIHHT)"
+			},
+			{
+				"name":"H00625  Tooth agenesis [PATH:hsa04310]"
+			},
+			{
+				"name":"H00680  Primary failure of tooth eruption [PATH:hsa04080 hsa04961]"
+			},
+			{
+				"name":"H00652  Solitary median maxillary central incisor syndrome [PATH:hsa04340]"
+			},
+			{
+				"name":"H00857  Oligodontia-colorectal cancer syndrome [PATH:hsa04310 hsa05200 hsa05210]"
+			},
+			{
+				"name":"H00872  Trismus-pseudocamptodactyly syndrome [PATH:hsa04530]"
+			},
+			{
+				"name":"H01250  Hereditary gingival fibromatosis (HGF) [PATH:hsa04010]"
+			},
+			{
+				"name":"H02050  Prepubertal periodontitis [PATH:hsa04142]"
+			}
+			]
+		},
+		{
+			"name":"Gastrointestinal diseases",
+			"children":[
+			{
+				"name":"H00666  Peutz-Jeghers syndrome [PATH:hsa04150 hsa04920]"
+			},
+			{
+				"name":"H01016  Primary bile acid malabsorption [PATH:hsa04976]"
+			},
+			{
+				"name":"H01023  Juvenile polyposis syndrome [PATH:hsa04060 hsa04350 hsa04110 hsa04310 hsa04520 hsa05200 hsa05210]"
+			},
+			{
+				"name":"H01024  Hereditary mixed polyposis syndrome [PATH:hsa04060 hsa04350]"
+			},
+			{
+				"name":"H01025  Familial adenomatous polyposis [PATH:hsa04310 hsa04810 hsa05200 hsa05210 hsa03410]"
+			},
+			{
+				"name":"H01174  Congenital diarrhea [PATH:hsa04978]"
+			},
+			{
+				"name":"H01276  Chronic idiopathic intestinal pseudo-obstruction [PATH:hsa04010 hsa04510]"
+			},
+			{
+				"name":"H01469  Short bowel syndrome (SBS)"
+			},
+			{
+				"name":"H01602  Gastroesophageal reflux disease (GERD)"
+			},
+			{
+				"name":"H01615  Irritable bowel syndrome"
+			},
+			{
+				"name":"H01634  Peptic ulcer [PATH:map07038]"
+			},
+			{
+				"name":"H01782  Eosinophilic gastrointestinal disorder"
+			},
+			{
+				"name":"H01853  Chronic nonspecific multiple ulcers of the small intestine"
+			},
+			{
+				"name":"H01871  Isolated hypoganglionosis"
+			},
+			{
+				"name":"H01874  Cronkhite-Canada syndrome"
+			},
+			{
+				"name":"H01901  Barrett's esophagus"
+			},
+			{
+				"name":"H02123  Celiac disease"
+			}
+			]
+		},
+		{
+			"name":"Liver diseases",
+			"children":[
+			{
+				"name":"H00624  Familial cholestasis [PATH:hsa02010 hsa04976 hsa00120 hsa03008]"
+			},
+			{
+				"name":"H00628  Congenital bile acid synthesis defect (CBAS) [PATH:hsa00120 hsa00140 hsa04146]"
+			},
+			{
+				"name":"H01133  Reynolds syndrome"
+			},
+			{
+				"name":"H01213  Gallbladder disease [PATH:hsa02010 hsa04975 hsa04976]"
+			},
+			{
+				"name":"H01264  Hepatic venoocclusive disease with immunodeficiency (VODI)"
+			},
+			{
+				"name":"H01333  Nonalcoholic fatty liver disease (NAFLD) [PATH:hsa04932 hsa00561]"
+			},
+			{
+				"name":"H01467  Primary biliary cirrhosis (PBC)"
+			},
+			{
+				"name":"H01506  Hepatic encephalopathy"
+			},
+			{
+				"name":"H01679  Intrahepatic lithiasis"
+			},
+			{
+				"name":"H01684  Primary sclerosing cholangitis (PSC)"
+			},
+			{
+				"name":"H01685  Autoimmune hepatitis (AIH)"
+			},
+			{
+				"name":"H01686  Idiopathic portal hypertension"
+			},
+			{
+				"name":"H01687  Extrahepatic portal vein obstruction (EHPVO)"
+			},
+			{
+				"name":"H01712  Fulminant hepatic failure"
+			}
+			]
+		},
+		{
+			"name":"Pancreas diseases",
+			"children":[
+			{
+				"name":"H00861  Pancreatic agenesis [PATH:hsa04930 hsa04950]"
+			},
+			{
+				"name":"H00920  Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis [PATH:hsa00190 hsa01100]"
+			},
+			{
+				"name":"H00932  Tropical calcific pancreatitis [PATH:hsa04142 hsa04612]"
+			},
+			{
+				"name":"H00933  Hereditary pancreatitis [PATH:hsa04972 hsa04974 hsa04971 hsa04976]"
+			},
+			{
+				"name":"H01680  Chronic pancreatitis"
+			},
+			{
+				"name":"H01681  Acute pancreatitis"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Urinary system diseases",
+		"children":[
+		{
+			"name":"Kidney diseases",
+			"children":[
+			{
+				"name":"H00428  Distal renal tubular acidosis (RTA type 1) [PATH:hsa04966]"
+			},
+			{
+				"name":"H00429  Proximal renal tubular acidosis (RTA type 2) [PATH:hsa04964]"
+			},
+			{
+				"name":"H00241  Combined proximal and distal renal tubular acidosis (RTA type 3) [PATH:hsa04964 hsa04966]"
+			},
+			{
+				"name":"H00243  Hyperkalemic distal renal tubular acidosis (RTA type 4) [PATH:hsa04960]"
+			},
+			{
+				"name":"H00252  Congenital nephrogenic diabetes insipidus (NDI) [PATH:hsa04962]"
+			},
+			{
+				"name":"H00541  Autosomal dominant tubulointerstitial kidney disease (ADTKD) [PATH:hsa04614]"
+			},
+			{
+				"name":"H00576  Pierson syndrome [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H00582  Benign familial hematuria [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01657  Nephrotic syndrome"
+			},
+			{
+				"name":"H00626  Focal segmental glomerulosclerosis"
+			},
+			{
+				"name":"H00753  Urofacial syndrome [PATH:hsa00531 hsa01100]"
+			},
+			{
+				"name":"H00888  Nephrolithiasis\/osteoporosis, hypophosphatemic"
+			},
+			{
+				"name":"H00928  Nephropathy with pretibial epidermolysis bullosa and deafness"
+			},
+			{
+				"name":"H00948  Renal hypouricemia (RHUC)"
+			},
+			{
+				"name":"H01037  Vesicoureteral reflux [PATH:hsa04310]"
+			},
+			{
+				"name":"H01260  Glomerulopathy with fibronectin deposits (GFND) [PATH:hsa04510 hsa04512 hsa04810]"
+			},
+			{
+				"name":"H01304  Hyperglycinuria [PATH:hsa04974 hsa04978]"
+			},
+			{
+				"name":"H01500  Lupus nephritis"
+			},
+			{
+				"name":"H01551  Interstitial cystitis (IC)"
+			},
+			{
+				"name":"H01581  IgA nephropathy"
+			},
+			{
+				"name":"H01642  Renal anemia"
+			},
+			{
+				"name":"H01688  Rapidly progressive glomerulonephritis (RPGN)"
+			},
+			{
+				"name":"H01691  Renal angiomyolipoma [PATH:hsa04150]"
+			},
+			{
+				"name":"H01726  Membranoproliferative glomerulonephritis [PATH:hsa04610]"
+			},
+			{
+				"name":"H01767  Henoch-Schonlein purpura nephritis"
+			},
+			{
+				"name":"H02011  Familial juvenile hyperuricemic nephropathy (HNFJ) [PATH:hsa04614]"
+			},
+			{
+				"name":"H02145  Calcium oxalate nephrolithiasis"
+			},
+			{
+				"name":"H02149  X-linked hypercalciuric nephrolithiasis"
+			},
+			{
+				"name":"H00694  Dent disease [PATH:hsa00562 hsa04070]"
+			},
+			{
+				"name":"H02142  X-linked recessive hypophosphatemic rickets"
+			},
+			{
+				"name":"H02147  X-linked recessive nephrolithiasis with renal failure"
+			},
+			{
+				"name":"H02148  Low molecular weight proteinuria with hypercalciuria and nephrocalcinosis"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Reproductive system diseases",
+		"children":[
+		{
+			"name":"Reproductive system diseases",
+			"children":[
+			{
+				"name":"H00607  46,XY disorders of sex development (Disorders of gonadal development) [PATH:hsa04340 hsa04310]"
+			},
+			{
+				"name":"H00608  46,XY disorders of sex development (Disorders in androgen synthesis or action) [PATH:hsa04114 hsa00140 hsa04020 hsa04080]"
+			},
+			{
+				"name":"H00609  46,XY disorders of sex development (Other) [PATH:hsa04060 hsa04350 hsa04080]"
+			},
+			{
+				"name":"H00598  46,XX disorders of sex development (Disorders of gonadal development) [PATH:hsa04310]"
+			},
+			{
+				"name":"H00599  46,XX disorders of sex development (Disorders related to androgen excess) [PATH:hsa00140]"
+			},
+			{
+				"name":"H00600  46,XX disorders of sex development (Other) [PATH:hsa04310]"
+			},
+			{
+				"name":"H00627  Premature ovarian failure [PATH:hsa04020 hsa04080 hsa04810]"
+			},
+			{
+				"name":"H01039  Ovarian hyperstimulation syndrome (OHSS) [PATH:hsa04080]"
+			},
+			{
+				"name":"H01607  Galactorrhea"
+			},
+			{
+				"name":"H01639  Endometriosis"
+			},
+			{
+				"name":"H01640  Uterine leiomyoma"
+			},
+			{
+				"name":"H01739  Polycystic ovary syndrome"
+			},
+			{
+				"name":"H01897  Oocyte maturation defect"
+			},
+			{
+				"name":"H00289  Recurrent hydatidiform moles (RHM)"
+			},
+			{
+				"name":"H00890  Azoospermia"
+			},
+			{
+				"name":"H01208  Globozoospermia"
+			},
+			{
+				"name":"H01282  Spermatogenic failure"
+			},
+			{
+				"name":"H02027  Male hypogonadism"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Musculoskeletal diseases",
+		"children":[
+		{
+			"name":"Skeletal diseases",
+			"children":[
+			{
+				"name":"H00430  Fibrodysplasia ossificans progressiva (FOP) [PATH:hsa04350]"
+			},
+			{
+				"name":"H00431  Ossification of the posterior longitudinal ligament of spine (OPLL) [PATH:hsa04350]"
+			},
+			{
+				"name":"H00437  Paget's disease of bone [PATH:hsa04380]"
+			},
+			{
+				"name":"H00441  Progressive osseous heteroplasia (POH) [PATH:hsa04020]"
+			},
+			{
+				"name":"H00448  Familial osteochondritis dissecans"
+			},
+			{
+				"name":"H00457  Primary hypertrophic osteoarthropathy (PHO)"
+			},
+			{
+				"name":"H00472  Multicentric osteolysis, nodulosis, and arthropathy (MONA)"
+			},
+			{
+				"name":"H00490  Diaphyseal dysplasia with anemia (Ghosal) [PATH:hsa00590]"
+			},
+			{
+				"name":"H00498  Gnathodiaphyseal dysplasia"
+			},
+			{
+				"name":"H00613  Infantile cortical hyperostosis"
+			},
+			{
+				"name":"H00623  Hajdu-Cheney syndrome [PATH:hsa04330]"
+			},
+			{
+				"name":"H01470  Giant cell tumor of bone"
+			},
+			{
+				"name":"H01526  Legg-Calve-Perthes Disease [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01529  Avascular necrosis of femoral head [PATH:hsa04066 hsa04370]"
+			},
+			{
+				"name":"H01576  Spondyloenchondrodysplasia with immune dysregulation (SPENCDI)"
+			},
+			{
+				"name":"H01593  Osteoporosis [PATH:hsa04380 hsa04978 hsa04961 hsa04933 map07047]"
+			},
+			{
+				"name":"H01674  Ankylosing spondylitis [PATH:hsa04612 map07050]"
+			},
+			{
+				"name":"H01707  Ossified ligamentum flavum"
+			},
+			{
+				"name":"H01708  Diffuse idiopathic skeletal hyperostosis"
+			},
+			{
+				"name":"H01709  Glucocorticoid-induced osteonecrosis [PATH:hsa00140 hsa04066]"
+			},
+			{
+				"name":"H01711  Spinal stenosis"
+			},
+			{
+				"name":"H01774  Hyperostosis corticalis generalisata [PATH:hsa04310]"
+			},
+			{
+				"name":"H01865  Multicentric carpotarsal osteolysis syndrome"
+			},
+			{
+				"name":"H00888  Nephrolithiasis\/osteoporosis, hypophosphatemic"
+			},
+			{
+				"name":"H02042  Familial expansile osteolysis [PATH:hsa04064 hsa04380]"
+			},
+			{
+				"name":"H02062  Familial digital arthropathy-brachydactyly"
+			}
+			]
+		},
+		{
+			"name":"Muscular diseases",
+			"children":[
+			{
+				"name":"H00590  Congenital muscular dystrophies (CMD\/MDC) [PATH:hsa00514 hsa04510 hsa04810]"
+			},
+			{
+				"name":"H01341  Collagen VI myopathy [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01778  Ullrich disease [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01340  Bethlem myopathy [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01338  Myosclerosis [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01958  Merosin-deficient congenital muscular dystrophy [PATH:hsa04512]"
+			},
+			{
+				"name":"H00120  Muscular dystrophy-dystroglycanopathy type A [PATH:hsa00515]"
+			},
+			{
+				"name":"H01960  Muscular dystrophy-dystroglycanopathy type B [PATH:hsa00515]"
+			},
+			{
+				"name":"H01959  Muscular dystrophy-dystroglycanopathy type C [PATH:hsa00515]"
+			},
+			{
+				"name":"H01957  Fukuyama congenital muscular dystrophy [PATH:hsa00515]"
+			},
+			{
+				"name":"H01961  Congenital muscular dystrophy type 1C (MDC1C) [PATH:hsa00515]"
+			},
+			{
+				"name":"H01962  Congenital muscular dystrophy type 1D (MDC1D) [PATH:hsa00515]"
+			},
+			{
+				"name":"H01310  Multi-minicore disease (MmD) [PATH:hsa04020 hsa04730]"
+			},
+			{
+				"name":"H00562  Dystrophinopathies"
+			},
+			{
+				"name":"H01963  Duchenne muscular dystrophy (DMD)"
+			},
+			{
+				"name":"H01964  Becker muscular dystrophy"
+			},
+			{
+				"name":"H00565  Sarcoglycanopathies"
+			},
+			{
+				"name":"H00566  Dysferlinopathies"
+			},
+			{
+				"name":"H01965  Miyoshi myopathy"
+			},
+			{
+				"name":"H00567  Caveolinopathies [PATH:hsa04144 hsa04510]"
+			},
+			{
+				"name":"H00568  Myotonic dystrophy (DM)"
+			},
+			{
+				"name":"H00563  Emery-Dreifuss muscular dystrophy"
+			},
+			{
+				"name":"H00591  Facioscapulohumeral muscular dystrophy (FSHD)"
+			},
+			{
+				"name":"H00704  Oculopharyngeal muscular dystrophy (OPMD) [PATH:hsa03015]"
+			},
+			{
+				"name":"H00592  Calpainopathy"
+			},
+			{
+				"name":"H00593  Limb-girdle muscular dystrophy (LGMD) [PATH:hsa00514 hsa00515 hsa04144 hsa04510 hsa04530 hsa04120]"
+			},
+			{
+				"name":"H01974  Limb-girdle muscular dystrophy (LGMD) 2B"
+			},
+			{
+				"name":"H00594  Distal myopathy [PATH:hsa00520 hsa04260 hsa04530 hsa04141]"
+			},
+			{
+				"name":"H01975  Welander distal myopathy"
+			},
+			{
+				"name":"H01976  Tibial muscular dystrophy"
+			},
+			{
+				"name":"H01977  Laing distal myopathy"
+			},
+			{
+				"name":"H00595  Myofibrillar myopathies (MFM) [PATH:hsa04141 hsa04010 hsa04510]"
+			},
+			{
+				"name":"H00596  Nonaka distal myopathy (NM) [PATH:hsa00520]"
+			},
+			{
+				"name":"H00656  Scapuloperoneal myopathy (SPM) [PATH:hsa04260 hsa04530]"
+			},
+			{
+				"name":"H00657  Reducing body myopathy (RBM)"
+			},
+			{
+				"name":"H00697  X-linked myopathy with postural muscle atrophy (XMPMA)"
+			},
+			{
+				"name":"H01810  Congenital myopathy"
+			},
+			{
+				"name":"H00698  Nemaline myopathy [PATH:hsa04260 hsa04360 hsa04666 hsa04810]"
+			},
+			{
+				"name":"H00699  Central core disease [PATH:hsa04020 hsa04730]"
+			},
+			{
+				"name":"H00700  Centronuclear myopathy [PATH:hsa00562 hsa04070 hsa04144 hsa04721 hsa04961]"
+			},
+			{
+				"name":"H00701  Congenital fiber type disproportion (CFTD) [PATH:hsa04260]"
+			},
+			{
+				"name":"H00702  Cap myopathy [PATH:hsa04260]"
+			},
+			{
+				"name":"H00703  Myosin storage myopathy (MSM) [PATH:hsa04260 hsa04530]"
+			},
+			{
+				"name":"H01780  Non-dystrophic myotonia"
+			},
+			{
+				"name":"H00705  Myotonia congenita"
+			},
+			{
+				"name":"H00743  Paramyotonia congenita (PMC)"
+			},
+			{
+				"name":"H00744  Potassium-aggravated myotonias (PAMs)"
+			},
+			{
+				"name":"H00215  Periodic paralysis [PATH:hsa04725]"
+			},
+			{
+				"name":"H00745  Hyperkalemic periodic paralysis (HyperPP)"
+			},
+			{
+				"name":"H00746  Hypokalemic periodic paralysis (HypoPP) [PATH:hsa04010 hsa04020 hsa04260 hsa04270 hsa04725 hsa04727 hsa04912]"
+			},
+			{
+				"name":"H00747  Thyrotoxic hypokalemic periodic paralysis (TPP)"
+			},
+			{
+				"name":"H00748  Andersen-Tawil syndrome (ATS) [PATH:hsa04725]"
+			},
+			{
+				"name":"H01129  Brody myopathy [PATH:hsa04020]"
+			},
+			{
+				"name":"H01229  Inclusion body myopathy 3 (IBM3) [PATH:hsa04530]"
+			},
+			{
+				"name":"H01291  Spheroid body myopathy (SBM)"
+			},
+			{
+				"name":"H01505  Inclusion body myositis"
+			},
+			{
+				"name":"H01777  Schwartz-Jampel syndrome [PATH:hsa04512]"
+			},
+			{
+				"name":"H01781  Autophagic vacuolar myopathy"
+			},
+			{
+				"name":"H01804  Isaacs syndrome"
+			},
+			{
+				"name":"H02031  Inclusion body myopathy with Paget disease of bone and frontotemporal dementia"
+			},
+			{
+				"name":"H02084  Native American myopathy"
+			}
+			]
+		},
+		{
+			"name":"Other musculoskeletal diseases",
+			"children":[
+			{
+				"name":"H00614  Hyaline fibromatosis syndrome"
+			},
+			{
+				"name":"H01236  Familial articular chondrocalcinosis"
+			},
+			{
+				"name":"H01391  Familial episodic pain syndrome (FEPS) [PATH:hsa04750]"
+			},
+			{
+				"name":"H01507  Seronegative arthritis (SpA)"
+			},
+			{
+				"name":"H01532  Gout [PATH:hsa00230]"
+			},
+			{
+				"name":"H01604  Polymyositis and dermatomyositis (PM\/DM)"
+			},
+			{
+				"name":"H01606  Polymyalgia rheumatica"
+			},
+			{
+				"name":"H01636  Fibromyalgia"
+			},
+			{
+				"name":"H01693  Eosinophilic fasciitis"
+			},
+			{
+				"name":"H02089  Winchester syndrome"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Skin diseases",
+		"children":[
+		{
+			"name":"Skin and soft tissue diseases",
+			"children":[
+			{
+				"name":"H00588  Kindler syndrome"
+			},
+			{
+				"name":"H00681  Acne inversa [PATH:hsa04310 hsa04330 hsa04722]"
+			},
+			{
+				"name":"H00672  Pseudofolliculitis barbae"
+			},
+			{
+				"name":"H00696  Haim-Munk syndrome [PATH:hsa04142]"
+			},
+			{
+				"name":"H00793  Poikiloderma with neutropenia"
+			},
+			{
+				"name":"H00795  Seborrhea-like dermatitis with psoriasiform element"
+			},
+			{
+				"name":"H00780  Atrichia with papular lesions"
+			},
+			{
+				"name":"H00782  Hypotrichosis and recurrent skin vesicles"
+			},
+			{
+				"name":"H00784  Localized autosomal recessive hypotrichosis [PATH:hsa04961 hsa04978]"
+			},
+			{
+				"name":"H00786  Hereditary hypotrichosis simplex"
+			},
+			{
+				"name":"H00842  Epidermodysplasia verruciformis"
+			},
+			{
+				"name":"H00880  Dyschromatosis symmetrica hereditaria [PATH:hsa04623]"
+			},
+			{
+				"name":"H00884  Familial progressive hyperpigmentation [PATH:hsa04916]"
+			},
+			{
+				"name":"H00885  Hypomelanosis of Ito"
+			},
+			{
+				"name":"H00895  Basal cell nevus syndrome [PATH:hsa04340 hsa05200 hsa05217]"
+			},
+			{
+				"name":"H00904  Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities"
+			},
+			{
+				"name":"H00906  Macrocephaly, alopecia, cutis laxa, and scoliosis"
+			},
+			{
+				"name":"H00928  Nephropathy with pretibial epidermolysis bullosa and deafness"
+			},
+			{
+				"name":"H00944  Dowling-Degos disease [PATH:hsa00514]"
+			},
+			{
+				"name":"H00947  Pilomatricoma [PATH:hsa04310 hsa04510 hsa04520 hsa04530 hsa04670 hsa04916 hsa05200]"
+			},
+			{
+				"name":"H01133  Reynolds syndrome"
+			},
+			{
+				"name":"H01158  Alopecia universalis"
+			},
+			{
+				"name":"H01173  Stiff skin syndrome (SSS)"
+			},
+			{
+				"name":"H01217  Primary localized cutaneous amyloidosis (PLCA) [PATH:hsa04060 hsa04630]"
+			},
+			{
+				"name":"H01357  Allergic contact dermatitis"
+			},
+			{
+				"name":"H01358  Atopic dermatitis"
+			},
+			{
+				"name":"H01362  Dermatitis herpetiformis"
+			},
+			{
+				"name":"H01372  Vitiligo [PATH:hsa04621]"
+			},
+			{
+				"name":"H01394  Cole disease [PATH:hsa00230 hsa00500 hsa00740 hsa00760 hsa00770]"
+			},
+			{
+				"name":"H00827  Brooke-Spiegler syndrome [PATH:hsa04622]"
+			},
+			{
+				"name":"H00828  Familial cylindromatosis"
+			},
+			{
+				"name":"H00829  Multiple familial trichoepithelioma"
+			},
+			{
+				"name":"H01473  Erythema nodosum leprosum (ENL)"
+			},
+			{
+				"name":"H01476  Behcet disease"
+			},
+			{
+				"name":"H01492  Systemic sclerosis"
+			},
+			{
+				"name":"H01493  Localized Scleroderma"
+			},
+			{
+				"name":"H01502  Sjogren's syndrome [PATH:hsa04620 hsa04630]"
+			},
+			{
+				"name":"H01595  Cutaneous lupus erythematosus"
+			},
+			{
+				"name":"H01643  Chilblains"
+			},
+			{
+				"name":"H01655  Granulomatosis with polyangiitis (GPA)"
+			},
+			{
+				"name":"H01648  Pemphigus"
+			},
+			{
+				"name":"H01650  Pemphigoid"
+			},
+			{
+				"name":"H01652  Seborrheic dermatitis"
+			},
+			{
+				"name":"H01654  Lichen planus"
+			},
+			{
+				"name":"H01656  Psoriasis"
+			},
+			{
+				"name":"H01659  Pityriasis rubra pilaris"
+			},
+			{
+				"name":"H01660  Pityriasis rosea"
+			},
+			{
+				"name":"H01663  Pustular psoriasis"
+			},
+			{
+				"name":"H01661  Xanthoma"
+			},
+			{
+				"name":"H01673  Palmoplantar keratoderma"
+			},
+			{
+				"name":"H01690  Lichen sclerosus et atrophphicus (LSA)"
+			},
+			{
+				"name":"H01694  Stevens-Johnson syndrome and toxic epidermal necrolysis"
+			},
+			{
+				"name":"H01695  Erythema multiforme"
+			},
+			{
+				"name":"H01758  Relapsing polychondritis"
+			},
+			{
+				"name":"H01796  Uncombable hair syndrome"
+			},
+			{
+				"name":"H01799  Vibratory urticaria"
+			},
+			{
+				"name":"H01848  Acquired idiopathic generalized anhidrosis"
+			},
+			{
+				"name":"H01902  Brittle cornea syndrome"
+			},
+			{
+				"name":"H01905  Trichomegaly [PATH:hsa04010]"
+			},
+			{
+				"name":"H01906  Poikiloderma, hereditary fibrosing, with tendon contractures, myopathy, and pulmonary fibrosis"
+			},
+			{
+				"name":"H01910  Infantile myofibromatosis [PATH:hsa04330 hsa04151]"
+			},
+			{
+				"name":"H01925  Transient neonatal zinc deficiency (TNZD)"
+			},
+			{
+				"name":"H00866  Trichothiodystrophy [PATH:hsa03022]"
+			},
+			{
+				"name":"H01307  Nonsyndromic congenital nail disorder (NDNC) [PATH:hsa04020 hsa04070 hsa04310]"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Congenital disorders of metabolism",
+		"children":[
+		{
+			"name":"Congenital disorders of carbohydrate metabolism",
+			"children":[
+			{
+				"name":"H00071  Hereditary fructose intolerance [PATH:hsa00010]"
+			},
+			{
+				"name":"H00114  Fructose-1,6-bisphosphatase deficiency [PATH:hsa00010]"
+			},
+			{
+				"name":"H00072  Pyruvate dehydrogenase complex deficiency [PATH:hsa00620 hsa00010]"
+			},
+			{
+				"name":"H01997  Pyruvate dehydrogenase E1-alpha deficiency [PATH:hsa00010 hsa00620]"
+			},
+			{
+				"name":"H01998  Pyruvate dehydrogenase E1-beta deficiency [PATH:hsa00010 hsa00620]"
+			},
+			{
+				"name":"H01999  Pyruvate dehydrogenase E2 deficiency [PATH:hsa00010 hsa00620]"
+			},
+			{
+				"name":"H02000  Dihydrolipoamide dehydrogenase deficiency [PATH:hsa00010 hsa00020 hsa00620]"
+			},
+			{
+				"name":"H02003  Pyruvate dehydrogenase E3-binding protein deficiency"
+			},
+			{
+				"name":"H01996  Pyruvate dehydrogenase phosphatase deficiency"
+			},
+			{
+				"name":"H00073  Pyruvate carboxylase deficiency [PATH:hsa00620 hsa00020]"
+			},
+			{
+				"name":"H00070  Galactosemia [PATH:hsa00052 hsa00520]"
+			},
+			{
+				"name":"H02008  Galactose-1P uridylyltransferase deficiency [PATH:hsa00052]"
+			},
+			{
+				"name":"H02009  Galactokinase deficiency [PATH:hsa00052]"
+			},
+			{
+				"name":"H02010  Galactose epimerase deficiency [PATH:hsa00052]"
+			},
+			{
+				"name":"H00116  Congenital lactase deficiency [PATH:hsa00052]"
+			},
+			{
+				"name":"H00069  Glycogen storage diseases (GSD) [PATH:hsa00010 hsa00500 hsa04910]"
+			},
+			{
+				"name":"H01760  Hepatic glycogen storage disease [PATH:hsa00010 hsa00500 hsa04910]"
+			},
+			{
+				"name":"H01762  Muscle glycogen storage disease [PATH:hsa00010 hsa00500 hsa04910 hsa04922 hsa04142]"
+			},
+			{
+				"name":"H01939  Glycogen storage disease type I [PATH:hsa00010 hsa04973]"
+			},
+			{
+				"name":"H01940  Glycogen storage disease type II [PATH:hsa00052 hsa04142]"
+			},
+			{
+				"name":"H01941  Glycogen storage disease type III [PATH:hsa00500]"
+			},
+			{
+				"name":"H01942  Glycogen storage disease type IV [PATH:hsa00500]"
+			},
+			{
+				"name":"H01943  Glycogen storage disease type V [PATH:hsa00500 hsa04910]"
+			},
+			{
+				"name":"H01944  Glycogen storage disease type VI [PATH:hsa00500 hsa04910 hsa04922]"
+			},
+			{
+				"name":"H01945  Glycogen storage disease type VII [PATH:hsa00010]"
+			},
+			{
+				"name":"H01948  Glycogen storage disease type IX [PATH:hsa04910 hsa04922]"
+			},
+			{
+				"name":"H01951  Glycogen storage disease type X [PATH:hsa00010 hsa00260 hsa04922]"
+			},
+			{
+				"name":"H01946  Glycogen storage disease type XI [PATH:hsa00010 hsa00620]"
+			},
+			{
+				"name":"H01952  Glycogen storage disease type XII [PATH:hsa00010 hsa00030 hsa00051]"
+			},
+			{
+				"name":"H01953  Glycogen storage disease type XIII [PATH:hsa00010]"
+			},
+			{
+				"name":"H01954  Glycogen storage disease type XIV [PATH:hsa00010 hsa00500 hsa00520]"
+			},
+			{
+				"name":"H01955  Glycogen storage disease type XV [PATH:hsa00500]"
+			},
+			{
+				"name":"H01950  Glycogen storage disease type 0a [PATH:hsa00500 hsa04910]"
+			},
+			{
+				"name":"H01949  Glycogen storage disease type 0b [PATH:hsa00500 hsa04910]"
+			},
+			{
+				"name":"H01956  Glycogen storage disease of heart [PATH:hsa04152 hsa04910 hsa04922]"
+			},
+			{
+				"name":"H01947  Fanconi-Bickel syndrome [PATH:hsa04911 hsa04973]"
+			},
+			{
+				"name":"H00115  Congenital sucrase-isomaltase deficiency [PATH:hsa00500]"
+			},
+			{
+				"name":"H00117  Primary hyperoxaluria (HP) [PATH:hsa00260 hsa00630]"
+			},
+			{
+				"name":"H01071  Acute alcohol sensitivity [PATH:hsa00010]"
+			},
+			{
+				"name":"H01261  Congenital glucose-galactose malabsorption (GGM) [PATH:hsa04973]"
+			},
+			{
+				"name":"H02090  Trehalase deficiency [PATH:hsa00500]"
+			}
+			]
+		},
+		{
+			"name":"Congenital disorders of lipid\/glycolipid metabolism",
+			"children":[
+			{
+				"name":"H00149  Neuronal ceroid lipofuscinosis (NCL) [PATH:hsa00062 hsa04142]"
+			},
+			{
+				"name":"H00407  Peroxisomal beta-oxidation enzyme deficiency [PATH:hsa00120 hsa03320 hsa04146]"
+			},
+			{
+				"name":"H00176  Adrenoleukodystrophy (ALD) [PATH:hsa02010 hsa04146]"
+			},
+			{
+				"name":"H00152  Sitosterolemia [PATH:hsa02010]"
+			},
+			{
+				"name":"H00153  Familial combined hyperlipidemia (FCHL)"
+			},
+			{
+				"name":"H00151  Cerebrotendinous xanthomatosis [PATH:hsa00120 hsa03320]"
+			},
+			{
+				"name":"H00155  Familial hypercholesterolemia [PATH:hsa04976 hsa04144]"
+			},
+			{
+				"name":"H00154  Hyperlipoproteinemia, type I [PATH:hsa00561 hsa03320]"
+			},
+			{
+				"name":"H01383  Hyperlipoproteinemia type IIa [PATH:hsa04144 hsa04913 hsa04976]"
+			},
+			{
+				"name":"H00156  Hyperlipoproteinemia, type III"
+			},
+			{
+				"name":"H00157  Hyperlipoproteinemia, type V [PATH:hsa03320]"
+			},
+			{
+				"name":"H01637  Hypertriglyceridemia"
+			},
+			{
+				"name":"H00158  Lecithin:cholesterol acyltransferase deficiency [PATH:hsa00564]"
+			},
+			{
+				"name":"H00159  Tangier disease [PATH:hsa02010]"
+			},
+			{
+				"name":"H00160  Abetalipoproteinemia"
+			},
+			{
+				"name":"H00161  Smith-Lemli-Opitz syndrome [PATH:hsa00100]"
+			},
+			{
+				"name":"H00162  Sjogren-Larsson syndrome [PATH:hsa00071]"
+			},
+			{
+				"name":"H00736  Dorfman-Chanarin syndrome [PATH:hsa04923]"
+			},
+			{
+				"name":"H00148  Lysosomal acid lipase deficiency [PATH:hsa00100 hsa04142]"
+			},
+			{
+				"name":"H00134  X-linked ichthyosis (XLI) [PATH:hsa00140]"
+			},
+			{
+				"name":"H00216  Congenital adrenal hyperplasia (CAH) [PATH:hsa00140]"
+			},
+			{
+				"name":"H00125  Fabry disease [PATH:hsa00600 hsa00603 hsa04142]"
+			},
+			{
+				"name":"H00126  Gaucher disease [PATH:hsa00511 hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00135  Krabbe disease [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00137  Niemann-Pick disease (NPD), type A\/ B [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00138  Farber lipogranulomatosis [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00127  Metachromatic leukodystrophy (MLD) [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00272  Multiple sulfatase deficiency (MSD) [PATH:hsa04142]"
+			},
+			{
+				"name":"H00281  GM1 gangliosidosis [PATH:hsa00511 hsa00531 hsa00600 hsa00604 hsa04142]"
+			},
+			{
+				"name":"H00124  GM2 gangliosidoses [PATH:hsa00511 hsa00531 hsa00603 hsa00604 hsa04142]"
+			},
+			{
+				"name":"H02016  Tay-Sachs disease [PATH:hsa00531 hsa00511]"
+			},
+			{
+				"name":"H02017  Sandhoff disease [PATH:hsa00531 hsa00511]"
+			},
+			{
+				"name":"H00144  Mucolipidosis IV [PATH:hsa04142]"
+			},
+			{
+				"name":"H00146  Alpha-N-acetylgalactosaminidase deficiency [PATH:hsa00603 hsa04142]"
+			},
+			{
+				"name":"H00206  Mevalonate kinase deficiency [PATH:hsa00900]"
+			},
+			{
+				"name":"H00525  Disorders of mitochondrial fatty-acid oxidation [PATH:hsa00071]"
+			},
+			{
+				"name":"H01980  SCAD deficiency [PATH:hsa00071 hsa01212]"
+			},
+			{
+				"name":"H00488  MCAD deficiency [PATH:hsa00071 hsa01212]"
+			},
+			{
+				"name":"H00489  LCHAD deficiency"
+			},
+			{
+				"name":"H00392  VLCAD deficiency [PATH:hsa00071 hsa01212]"
+			},
+			{
+				"name":"H00375  SBCAD deficiency [PATH:hsa00071 hsa00280 hsa01212]"
+			},
+			{
+				"name":"H01981  Carnitine palmitoyltransferase I deficiency [PATH:hsa00071 hsa01212]"
+			},
+			{
+				"name":"H01982  Carnitine palmitoyltransferase II deficiency [PATH:hsa00071 hsa01212]"
+			},
+			{
+				"name":"H01983  Carnitine-acylcarnitine translocase deficiency"
+			},
+			{
+				"name":"H00438  Nasu-Hakola disease [PATH:hsa04380]"
+			},
+			{
+				"name":"H00552  Chromosome Xp21 deletion syndrome [PATH:hsa00561 hsa03320]"
+			},
+			{
+				"name":"H02013  Glycerol kinase deficiency [PATH:hsa00561 hsa03320]"
+			},
+			{
+				"name":"H00679  Hypomyelinating leukodystrophy"
+			},
+			{
+				"name":"H00869  Leukoencephalopathy with vanishing white matter [PATH:hsa03013]"
+			},
+			{
+				"name":"H00871  Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation (LBSL) [PATH:hsa00970]"
+			},
+			{
+				"name":"H00874  Leukoencephalopathy with dystonia and motor neuropathy [PATH:hsa00120 hsa03320 hsa04146]"
+			},
+			{
+				"name":"H00875  Megalencephalic leukoencephalopathy with subcortical cysts (MLC)"
+			},
+			{
+				"name":"H00878  Cystic leukoencephalopathy without megalencephaly"
+			},
+			{
+				"name":"H00883  Lipoid proteinosis"
+			},
+			{
+				"name":"H00887  Lipoprotein glomerulopathy"
+			},
+			{
+				"name":"H00927  Chylomicron retention disease (CRD) [PATH:hsa04141]"
+			},
+			{
+				"name":"H00930  Hypoalphalipoproteinemia [PATH:hsa02010 hsa03320 hsa04975 hsa04977]"
+			},
+			{
+				"name":"H01065  Pentosuria [PATH:hsa00040]"
+			},
+			{
+				"name":"H01101  Combined lipase deficiency (CLD)"
+			},
+			{
+				"name":"H01126  Familial renal glucosuria (FRG)"
+			},
+			{
+				"name":"H01489  Inherited glycosylphosphatidylinositol (GPI) deficiencies [PATH:hsa00563]"
+			},
+			{
+				"name":"H01127  PIGM-congenital disorder of glycosylation (PIGM-CDG) [PATH:hsa00563]"
+			},
+			{
+				"name":"H01485  Autosomal recessive mental retardation-42 (MRT42) [PATH:hsa00563]"
+			},
+			{
+				"name":"H01486  Multiple congenital anomalies-hypotonia-seizures syndrome (MCAHS) [PATH:hsa00563]"
+			},
+			{
+				"name":"H01487  CHIME syndrome [PATH:hsa00563]"
+			},
+			{
+				"name":"H01488  Hyperphosphatasia with mental retardation syndrome (HPMPS) [PATH:hsa00563]"
+			},
+			{
+				"name":"H01189  Transaldolase (TALDO) deficiency [PATH:hsa00030]"
+			},
+			{
+				"name":"H01199  Hyperalphalipoproteinemia [PATH:hsa03320]"
+			},
+			{
+				"name":"H01290  Acute recurrent myoglobinuria [PATH:hsa00561 hsa00564]"
+			},
+			{
+				"name":"H01297  Neutral lipid storage disease with myopathy [PATH:hsa04923]"
+			},
+			{
+				"name":"H01589  Systemic primary carnitine deficiency"
+			},
+			{
+				"name":"H01661  Xanthoma"
+			},
+			{
+				"name":"H01784  Primary hyperchylomicronemia"
+			},
+			{
+				"name":"H01918  Familial autosomal recessive hypercholesterolemia [PATH:hsa04144]"
+			}
+			]
+		},
+		{
+			"name":"Congenital disorders of glycan\/glycoprotein metabolism",
+			"children":[
+			{
+				"name":"H00118  Congenital disorders of glycosylation (CDG) type I [PATH:hsa00510 hsa00051 hsa04141]"
+			},
+			{
+				"name":"H00119  Congenital disorders of glycosylation (CDG) type II [PATH:hsa00510]"
+			},
+			{
+				"name":"H00128  Mucopolysaccharidosis type I (MPS1) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00129  Mucopolysaccharidosis type II (MPS2) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00130  Mucopolysaccharidosis type III (MPS3) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00123  Mucopolysaccharidosis type IV (MPS4) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00131  Mucopolysaccharidosis type VI (MPS6) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00132  Mucopolysaccharidosis type VII (MPS7) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00133  Mucopolysaccharidosis type IX (MPS9) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00143  Mucolipidosis II and III [PATH:hsa04142]"
+			},
+			{
+				"name":"H00139  alpha-Mannosidosis [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00140  beta-Mannosidosis [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00141  Fucosidosis [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00142  Sialidosis [PATH:hsa00511 hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00276  Galactosialidosis [PATH:hsa04142 hsa00600]"
+			},
+			{
+				"name":"H00145  Aspartylglucosaminuria (AGU) [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00120  Muscular dystrophy-dystroglycanopathy type A [PATH:hsa00515]"
+			},
+			{
+				"name":"H01960  Muscular dystrophy-dystroglycanopathy type B [PATH:hsa00515]"
+			},
+			{
+				"name":"H01961  Congenital muscular dystrophy type 1C (MDC1C) [PATH:hsa00515]"
+			},
+			{
+				"name":"H00122  Multiple exostoses [PATH:hsa00534]"
+			},
+			{
+				"name":"H00147  Sialuria [PATH:hsa04142 hsa00520]"
+			},
+			{
+				"name":"H00692  Lowe syndrome [PATH:hsa00562 hsa04070]"
+			},
+			{
+				"name":"H00996  Amish infantile epilepsy syndrome [PATH:hsa00604]"
+			},
+			{
+				"name":"H01188  Tn syndrome [PATH:hsa00512]"
+			},
+			{
+				"name":"H01497  Temtamy preaxial brachydactyly syndrome (TPBS) [PATH:hsa00532]"
+			},
+			{
+				"name":"H01498  Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects (JDSSDHD) [PATH:hsa00532 hsa00534]"
+			}
+			]
+		},
+		{
+			"name":"Congenital disorders of amino acid metabolism",
+			"children":[
+			{
+				"name":"H00167  Phenylketonuria (PKU) [PATH:hsa00400 hsa00790]"
+			},
+			{
+				"name":"H00165  Tyrosinemia [PATH:hsa00350 hsa00360]"
+			},
+			{
+				"name":"H00163  Alkaptonuria [PATH:hsa00350]"
+			},
+			{
+				"name":"H00166  Hermansky-Pudlak syndrome (HPS) [PATH:hsa04142]"
+			},
+			{
+				"name":"H00168  Oculocutaneous albinism (OCA) [PATH:hsa00350 hsa04916]"
+			},
+			{
+				"name":"H00169  Ocular albinism [PATH:hsa04916]"
+			},
+			{
+				"name":"H00170  Piebaldism [PATH:hsa04916 hsa04520]"
+			},
+			{
+				"name":"H00171  Histidinemia [PATH:hsa00340]"
+			},
+			{
+				"name":"H00172  Maple syrup urine disease (MSUD) [PATH:hsa00280]"
+			},
+			{
+				"name":"H00173  Isovaleric acidemia (IVA) [PATH:hsa00280]"
+			},
+			{
+				"name":"H00181  3-Methylcrotonylglycinuria [PATH:hsa00280]"
+			},
+			{
+				"name":"H00175  Propionic acidemia [PATH:hsa00280 hsa00640]"
+			},
+			{
+				"name":"H00174  Methylmalonic aciduria (MMA) [PATH:hsa00280 hsa00630 hsa00640]"
+			},
+			{
+				"name":"H00179  3-Hydroxy-3-methylglutaryl-CoA lyase deficiency [PATH:hsa00280 hsa00650]"
+			},
+			{
+				"name":"H00275  Cystinosis [PATH:hsa04142]"
+			},
+			{
+				"name":"H00182  Cystathioninuria [PATH:hsa00260 hsa00270]"
+			},
+			{
+				"name":"H00183  Homocystinuria [PATH:hsa00260 hsa00270 hsa00450 hsa00670]"
+			},
+			{
+				"name":"H00184  Hypermethioninemia [PATH:hsa00270 hsa00450 hsa00260 hsa00230]"
+			},
+			{
+				"name":"H00164  Carbamoyl phosphate synthetase I deficiency [PATH:hsa00220 hsa00250 hsa00910]"
+			},
+			{
+				"name":"H00185  Citrullinemia (CTLN) [PATH:hsa00220 hsa00250]"
+			},
+			{
+				"name":"H00186  Hyperargininemia [PATH:hsa00220 hsa00330]"
+			},
+			{
+				"name":"H00178  Glutaric acidemia [PATH:hsa00071 hsa00380 hsa00310]"
+			},
+			{
+				"name":"H00188  Hyperlysinemia [PATH:hsa00300 hsa00310]"
+			},
+			{
+				"name":"H00187  Ornithine transcarbamylase deficiency [PATH:hsa00220]"
+			},
+			{
+				"name":"H00189  Ornithinaemia [PATH:hsa00330]"
+			},
+			{
+				"name":"H00190  Hyperprolinemia (HP) [PATH:hsa00330]"
+			},
+			{
+				"name":"H00191  Nonketotic hyperglycinemia [PATH:hsa00260]"
+			},
+			{
+				"name":"H00074  Canavan disease (CD) [PATH:hsa00250]"
+			},
+			{
+				"name":"H00548  Brunner syndrome [PATH:hsa00340 hsa00350 hsa00380 hsa04728]"
+			},
+			{
+				"name":"H00754  3-Methylglutaconic aciduria (MGCA) [PATH:hsa00280]"
+			},
+			{
+				"name":"H00834  Guanidinoacetate methyltransferase (GAMT) deficiency [PATH:hsa00260 hsa00330]"
+			},
+			{
+				"name":"H00835  Succinic semialdehyde dehydrogenase (SSADH) deficiency [PATH:hsa00250 hsa00650]"
+			},
+			{
+				"name":"H00849  Creatine deficiency syndrome [PATH:hsa00260 hsa00330]"
+			},
+			{
+				"name":"H00899  Lysinuric protein intolerance (LPI) [PATH:hsa04974]"
+			},
+			{
+				"name":"H00901  Cystinuria [PATH:hsa04974]"
+			},
+			{
+				"name":"H00905  Iminoglycinuria [PATH:hsa04974 hsa04978]"
+			},
+			{
+				"name":"H00911  Dicarboxylic aminoaciduria [PATH:hsa04974 hsa04724]"
+			},
+			{
+				"name":"H00923  Congenital systemic glutamine deficiency (CSGD) [PATH:hsa00250 hsa00220 hsa00910 hsa04724 hsa04727]"
+			},
+			{
+				"name":"H00925  2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency [PATH:hsa00280]"
+			},
+			{
+				"name":"H01003  Dimethylglycine dehydrogenase deficiency (DMGDHD) [PATH:hsa00260]"
+			},
+			{
+				"name":"H01028  Argininosuccinic aciduria (ARGINSA) [PATH:hsa00220 hsa00250]"
+			},
+			{
+				"name":"H01032  N-acetylglutamate synthase (NAGS) deficiency [PATH:hsa00220]"
+			},
+			{
+				"name":"H01079  3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency [PATH:hsa00260]"
+			},
+			{
+				"name":"H01082  Phosphoserine aminotransferase (PSAT) deficiency [PATH:hsa00260 hsa00750]"
+			},
+			{
+				"name":"H01076  Alpha-methylacetoacetic aciduria [PATH:hsa00280 hsa00072]"
+			},
+			{
+				"name":"H01119  Prolidase deficiency (PD)"
+			},
+			{
+				"name":"H01121  Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency [PATH:hsa00072 hsa00280 hsa00650]"
+			},
+			{
+				"name":"H01123  HMG-CoA synthase (HMGCS) deficiency [PATH:hsa00072 hsa00280 hsa00650 hsa00900]"
+			},
+			{
+				"name":"H01187  Tietz syndrome [PATH:hsa04380 hsa04916]"
+			},
+			{
+				"name":"H01198  Fanconi renotubular syndrome (FTS)"
+			},
+			{
+				"name":"H01225  D-2-hydroxyglutaric aciduria (D-2-HGA) [PATH:hsa00020 hsa00480]"
+			},
+			{
+				"name":"H01233  Urocanase deficiency [PATH:hsa00340]"
+			},
+			{
+				"name":"H01237  Sulfite oxidase deficiency [PATH:hsa00920]"
+			},
+			{
+				"name":"H01242  Saccharopinuria [PATH:hsa00310]"
+			},
+			{
+				"name":"H01257  GABA-transaminase deficiency [PATH:hsa00250]"
+			},
+			{
+				"name":"H01262  Formiminotransferase deficiency [PATH:hsa00340 hsa00670]"
+			},
+			{
+				"name":"H01279  Isobutyryl-CoA dehydrogenase (IBD) deficiency [PATH:hsa00280]"
+			},
+			{
+				"name":"H01280  L-2-hydroxyglutaric aciduria (L2HGA) [PATH:hsa00650]"
+			},
+			{
+				"name":"H01283  Malonyl-CoA decarboxylase deficiency [PATH:hsa00410 hsa00640 hsa04146]"
+			},
+			{
+				"name":"H01285  Methylcobalamin deficiency type G (cblG) [PATH:hsa00270 hsa00450 hsa00670]"
+			},
+			{
+				"name":"H00668  Anemia due to disorders of glutathione metabolism [PATH:hsa00480 hsa00030]"
+			},
+			{
+				"name":"H01375  Glucose 6-phosphate dehydrogenase deficiency [PATH:hsa00480 hsa00030]"
+			},
+			{
+				"name":"H00843  Hartnup disorder [PATH:hsa04974 hsa04978]"
+			},
+			{
+				"name":"H01386  Asparagine synthetase deficiency [PATH:hsa00250]"
+			},
+			{
+				"name":"H01398  Primary hyperammonemic disorders (Urea cycle disorders) [PATH:hsa00220]"
+			},
+			{
+				"name":"H01400  Secondary hyperammonemia [PATH:hsa00280 hsa00071]"
+			},
+			{
+				"name":"H01583  Hydroxykynureninuria [PATH:hsa00380]"
+			},
+			{
+				"name":"H02087  Vertebral, cardiac, renal, and limb defects syndrome [PATH:hsa00380]"
+			},
+			{
+				"name":"H02109  Combined malonic and methylmalonic aciduria [PATH:hsa00280]"
+			},
+			{
+				"name":"H02136  Branched-chain ketoacid dehydrogenase kinase deficiency"
+			}
+			]
+		},
+		{
+			"name":"Congenital disorders of nucleotide metabolism",
+			"children":[
+			{
+				"name":"H00194  Lesch-Nyhan syndrome [PATH:hsa00230]"
+			},
+			{
+				"name":"H00195  Adenine phosphoribosyltransferase deficiency [PATH:hsa00230]"
+			},
+			{
+				"name":"H00197  Adenylosuccinate lyase deficiency [PATH:hsa00230 hsa00250]"
+			},
+			{
+				"name":"H00192  Xanthinuria [PATH:hsa00230 hsa04122]"
+			},
+			{
+				"name":"H00196  Phosphoribosylpyrophosphate synthetase I superactivity [PATH:hsa00030 hsa00230]"
+			},
+			{
+				"name":"H00198  Orotic aciduria [PATH:hsa00240]"
+			},
+			{
+				"name":"H00193  Dihydropyrimidine dehydrogenase deficiency [PATH:hsa00240 hsa00983]"
+			},
+			{
+				"name":"H00199  Dihydropyrimidinase deficiency [PATH:hsa00240 hsa00983]"
+			},
+			{
+				"name":"H00200  Beta-ureidopropionase deficiency [PATH:hsa00240 hsa00983]"
+			},
+			{
+				"name":"H00964  Thiopurine S-methyltransferase deficiency (TPMT deficiency) [PATH:hsa00983]"
+			},
+			{
+				"name":"H00966  AICA-ribosiduria [PATH:hsa00230 hsa00670]"
+			},
+			{
+				"name":"H01135  Ribose 5-phosphate isomerase (RPI) deficiency [PATH:hsa00030]"
+			}
+			]
+		},
+		{
+			"name":"Congenital disorders of cofactor\/vitamin metabolism",
+			"children":[
+			{
+				"name":"H00180  Holocarboxylase synthetase deficiency [PATH:hsa00780]"
+			},
+			{
+				"name":"H01763  Porphyria [PATH:hsa00860]"
+			},
+			{
+				"name":"H00201  Erythropoietic porphyria (EP) [PATH:hsa00860]"
+			},
+			{
+				"name":"H00202  Hepatic porphyria [PATH:hsa00860]"
+			},
+			{
+				"name":"H00208  Hyperbilirubinemia [PATH:hsa00860 hsa02010 hsa04976]"
+			},
+			{
+				"name":"H02054  Crigler-Najjar syndrome [PATH:hsa00860]"
+			},
+			{
+				"name":"H02055  Gilbert syndrome [PATH:hsa00860]"
+			},
+			{
+				"name":"H02056  Dubin-Johnson syndrome [PATH:hsa02010 hsa04976]"
+			},
+			{
+				"name":"H02057  Rotor syndrome [PATH:hsa04976]"
+			},
+			{
+				"name":"H00213  Hypophosphatasia [PATH:hsa00790]"
+			},
+			{
+				"name":"H00981  Ataxia with isolated vitamin E deficiency (AVED)"
+			},
+			{
+				"name":"H01143  Vitamin D-dependent rickets [PATH:hsa00100 hsa04961 hsa04978]"
+			},
+			{
+				"name":"H01197  Dihydrofolate reductase (DHFR) deficiency [PATH:hsa00670 hsa00790]"
+			},
+			{
+				"name":"H01182  Biotinidase deficiency [PATH:hsa00780 hsa04977]"
+			},
+			{
+				"name":"H01567  Thiamine pyrophosphokinase deficiency [PATH:hsa00730]"
+			}
+			]
+		},
+		{
+			"name":"Congenital disorders of ion transport and metabolism",
+			"children":[
+			{
+				"name":"H00218  Cystic fibrosis (CF) [PATH:hsa02010]"
+			},
+			{
+				"name":"H00209  Menkes syndrome"
+			},
+			{
+				"name":"H00210  Wilson disease"
+			},
+			{
+				"name":"H00212  Acrodermatitis enteropathica (AEZ)"
+			},
+			{
+				"name":"H00211  Hemochromatosis (HFE)"
+			},
+			{
+				"name":"H00217  Pulmonary alveolar proteinosis"
+			},
+			{
+				"name":"H00214  Hypophosphatemic rickets"
+			},
+			{
+				"name":"H02138  Hereditary hypophophatemic rickets with hypercalciuria [PATH:hsa04928]"
+			},
+			{
+				"name":"H02139  Autosomal recessive hypophosphatemic rickets"
+			},
+			{
+				"name":"H02141  Autosomal dominant hypophosphatemic rickets"
+			},
+			{
+				"name":"H02142  X-linked recessive hypophosphatemic rickets"
+			},
+			{
+				"name":"H02143  X-linked dominant hypophosphatemic rickets"
+			},
+			{
+				"name":"H00215  Periodic paralysis [PATH:hsa04725]"
+			},
+			{
+				"name":"H00745  Hyperkalemic periodic paralysis (HyperPP)"
+			},
+			{
+				"name":"H00746  Hypokalemic periodic paralysis (HypoPP) [PATH:hsa04010 hsa04020 hsa04260 hsa04270 hsa04725 hsa04727 hsa04912]"
+			},
+			{
+				"name":"H00747  Thyrotoxic hypokalemic periodic paralysis (TPP)"
+			},
+			{
+				"name":"H00748  Andersen-Tawil syndrome (ATS) [PATH:hsa04725]"
+			},
+			{
+				"name":"H01190  Transcobalamin II deficiency [PATH:hsa04977]"
+			},
+			{
+				"name":"H01302  Hyperchlorhidrosis isolated (HCHLH)"
+			},
+			{
+				"name":"H01859  Occipital horn syndrome"
+			},
+			{
+				"name":"H01935  Familial hypercholanemia [PATH:hsa04976]"
+			},
+			{
+				"name":"H02026  Familial hypocalciuric hypercalcemia [PATH:hsa04020 hsa04961]"
+			}
+			]
+		},
+		{
+			"name":"Lysosomal storage diseases",
+			"children":[
+			{
+				"name":"H01425  Lysosomal storage diseases [PATH:hsa04142]"
+			},
+			{
+				"name":"H00149  Neuronal ceroid lipofuscinosis (NCL) [PATH:hsa00062 hsa04142]"
+			},
+			{
+				"name":"H00125  Fabry disease [PATH:hsa00600 hsa00603 hsa04142]"
+			},
+			{
+				"name":"H00421  Mucopolysaccharidosis (MPS) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00128  Mucopolysaccharidosis type I (MPS1) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00129  Mucopolysaccharidosis type II (MPS2) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00130  Mucopolysaccharidosis type III (MPS3) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00123  Mucopolysaccharidosis type IV (MPS4) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00131  Mucopolysaccharidosis type VI (MPS6) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00132  Mucopolysaccharidosis type VII (MPS7) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00133  Mucopolysaccharidosis type IX (MPS9) [PATH:hsa00531 hsa04142]"
+			},
+			{
+				"name":"H00422  Glycoproteinoses [PATH:hsa00511 hsa04142 hsa00603]"
+			},
+			{
+				"name":"H00142  Sialidosis [PATH:hsa00511 hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00276  Galactosialidosis [PATH:hsa04142 hsa00600]"
+			},
+			{
+				"name":"H00139  alpha-Mannosidosis [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00140  beta-Mannosidosis [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00145  Aspartylglucosaminuria (AGU) [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00141  Fucosidosis [PATH:hsa00511 hsa04142]"
+			},
+			{
+				"name":"H00146  Alpha-N-acetylgalactosaminidase deficiency [PATH:hsa00603 hsa04142]"
+			},
+			{
+				"name":"H00423  Defects in the degradation of sulfatide [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00127  Metachromatic leukodystrophy (MLD) [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00135  Krabbe disease [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00424  Defects in the degradation of sphingomyelin [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00137  Niemann-Pick disease (NPD), type A\/ B [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00138  Farber lipogranulomatosis [PATH:hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00425  Lysosomal cysteine protease deficiencies [PATH:hsa04142 hsa04620 hsa04612]"
+			},
+			{
+				"name":"H00274  Papillon-Lefevre syndrome [PATH:hsa04142]"
+			},
+			{
+				"name":"H00273  Pycnodysostosis [PATH:hsa04142 hsa04620]"
+			},
+			{
+				"name":"H00426  Defects in the degradation of ganglioside [PATH:hsa00511 hsa00604 hsa00531 hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00281  GM1 gangliosidosis [PATH:hsa00511 hsa00531 hsa00600 hsa00604 hsa04142]"
+			},
+			{
+				"name":"H00124  GM2 gangliosidoses [PATH:hsa00511 hsa00531 hsa00603 hsa00604 hsa04142]"
+			},
+			{
+				"name":"H02016  Tay-Sachs disease [PATH:hsa00531 hsa00511]"
+			},
+			{
+				"name":"H02017  Sandhoff disease [PATH:hsa00531 hsa00511]"
+			},
+			{
+				"name":"H00126  Gaucher disease [PATH:hsa00511 hsa00600 hsa04142]"
+			},
+			{
+				"name":"H00136  Niemann-Pick disease type C (NPC) [PATH:hsa04142]"
+			},
+			{
+				"name":"H00143  Mucolipidosis II [PATH:hsa04142]"
+			},
+			{
+				"name":"H02130  Mucolipidosis III [PATH:hsa04142]"
+			},
+			{
+				"name":"H00144  Mucolipidosis IV [PATH:hsa04142]"
+			},
+			{
+				"name":"H00148  Lysosomal acid lipase deficiency [PATH:hsa00100 hsa04142]"
+			},
+			{
+				"name":"H00150  Danon disease [PATH:hsa04142]"
+			},
+			{
+				"name":"H00275  Cystinosis [PATH:hsa04142]"
+			},
+			{
+				"name":"H00147  Sialuria [PATH:hsa04142 hsa00520]"
+			},
+			{
+				"name":"H01113  Acid phosphatase deficiency [PATH:hsa00740 hsa04142]"
+			},
+			{
+				"name":"H01239  Combined SAP deficiency [PATH:hsa04142]"
+			},
+			{
+				"name":"H02128  Defects in lysosomal trafficking"
+			}
+			]
+		},
+		{
+			"name":"Peroxisomal diseases",
+			"children":[
+			{
+				"name":"H00205  Peroxisome biogenesis disorder [PATH:hsa04146]"
+			},
+			{
+				"name":"H01342  Zellweger syndrome (ZS) [PATH:hsa04146]"
+			},
+			{
+				"name":"H00177  Adrenoleukodystrophy, neonatal (NALD) [PATH:hsa04146]"
+			},
+			{
+				"name":"H00204  Infantile Refsum disease (IRD)"
+			},
+			{
+				"name":"H00075  Refsum disease [PATH:hsa04146]"
+			},
+			{
+				"name":"H00207  Rhizomelic chondrodysplasia punctata [PATH:hsa00564 hsa00565 hsa04146]"
+			},
+			{
+				"name":"H00407  Peroxisomal beta-oxidation enzyme deficiency [PATH:hsa00120 hsa03320 hsa04146]"
+			},
+			{
+				"name":"H02096  Peroxisomal acyl-CoA oxidase deficiency [PATH:hsa00071 hsa04146 hsa03320]"
+			},
+			{
+				"name":"H02098  D-bifunctional protein deficiency [PATH:hsa00120 hsa04146]"
+			},
+			{
+				"name":"H00176  Adrenoleukodystrophy (ALD) [PATH:hsa02010 hsa04146]"
+			},
+			{
+				"name":"H00203  Acatalasemia [PATH:hsa00380 hsa00680 hsa04146]"
+			},
+			{
+				"name":"H02099  Alpha-methylacyl-CoA racemase deficiency [PATH:hsa04146 hsa00120]"
+			},
+			{
+				"name":"H02100  Peroxisomal fatty acyl-CoA reductase 1 disorder [PATH:hsa04146]"
+			}
+			]
+		},
+		{
+			"name":"Mitochondrial diseases",
+			"children":[
+			{
+				"name":"H01427  Mitochondrial diseases"
+			},
+			{
+				"name":"H00473  Mitochondrial complex I deficiency [PATH:hsa00190]"
+			},
+			{
+				"name":"H02005  Mitochondrial complex II deficiency [PATH:hsa00020 hsa00190]"
+			},
+			{
+				"name":"H02086  Mitochondrial complex III deficiency [PATH:hsa04260 hsa00190]"
+			},
+			{
+				"name":"H01368  Cytochrome c oxidase (COX) deficiency [PATH:hsa00190 hsa00860 hsa04260]"
+			},
+			{
+				"name":"H00891  Combined oxidative phosphorylation deficiency (COXPD)"
+			},
+			{
+				"name":"H01369  ATP synthase deficiency [PATH:hsa00190]"
+			},
+			{
+				"name":"H00469  Mitochondrial DNA depletion syndrome (MDS) [PATH:hsa00240 hsa00230 hsa00020]"
+			},
+			{
+				"name":"H00898  Myopathy with lactic acidosis and sideroblastic anaemia (MLASA) [PATH:hsa00970]"
+			},
+			{
+				"name":"H01347  MELAS Syndrome [PATH:hsa00970 hsa00190]"
+			},
+			{
+				"name":"H01354  Leigh syndrome [PATH:hsa00190 hsa00620]"
+			},
+			{
+				"name":"H01355  Kearns-Sayre syndrome [PATH:hsa00190 hsa04260]"
+			},
+			{
+				"name":"H00068  Leber hereditary optic atrophy (LHON) [PATH:hsa00190]"
+			},
+			{
+				"name":"H01365  Leber hereditary optic neuropathy and dystonia (LDYT) [PATH:hsa00190]"
+			},
+			{
+				"name":"H01118  Progressive external ophthalmoplegia (PEO) [PATH:hsa04020 hsa00230 hsa00240 hsa00480]"
+			},
+			{
+				"name":"H01348  Mitochondrial phosphate carrier deficiency (MPCD)"
+			},
+			{
+				"name":"H01349  Methacrylic aciduria [PATH:hsa00280]"
+			},
+			{
+				"name":"H01351  Spastic ataxia (SPAX) [PATH:hsa00970]"
+			},
+			{
+				"name":"H01352  Mitochondrial trifunctional protein deficiency [PATH:hsa00071 hsa01212]"
+			},
+			{
+				"name":"H01356  Myoclonic Epilepsy and Ragged-Red Fiber Disease [PATH:hsa00970 hsa00190]"
+			},
+			{
+				"name":"H01363  NARP syndrome [PATH:hsa00190]"
+			},
+			{
+				"name":"H01364  3-Hydroxyacyl-CoA dehydrogenase deficiency [PATH:hsa00062 hsa00071 hsa00280 hsa00310 hsa00380 hsa00650]"
+			},
+			{
+				"name":"H01123  HMG-CoA synthase (HMGCS) deficiency [PATH:hsa00072 hsa00280 hsa00650 hsa00900]"
+			},
+			{
+				"name":"H01367  Infantile liver failure [PATH:hsa00970 hsa04122]"
+			},
+			{
+				"name":"H01381  Antithrombin III deficiency [PATH:hsa04610]"
+			},
+			{
+				"name":"H01383  Hyperlipoproteinemia type IIa [PATH:hsa04144 hsa04913 hsa04976]"
+			},
+			{
+				"name":"H01384  The ataxia neuropathy spectrum (ANS)"
+			},
+			{
+				"name":"H01389  Alpers syndrome"
+			},
+			{
+				"name":"H01390  Mitochondrial neurogastrointestinal encephalomyopathy [PATH:hsa00240]"
+			},
+			{
+				"name":"H01200  Fatal infantile cardioencephalomyopathy [PATH:hsa00190]"
+			},
+			{
+				"name":"H01395  POLG related disorders"
+			},
+			{
+				"name":"H01894  Multiple mitochondrial dysfunctions syndrome"
+			},
+			{
+				"name":"H01900  Encephalopathy due to defective mitochondrial and peroxisomal fission [PATH:hsa04217 hsa04621 hsa04668]"
+			},
+			{
+				"name":"H01022  Diseases of the tricarboxylic acid cycle [PATH:hsa00020]"
+			},
+			{
+				"name":"H02004  Fumarase deficiency [PATH:hsa00020]"
+			},
+			{
+				"name":"H02006  Alpha-ketoglutarate dehydrogenase complex (KGDHC) deficiency [PATH:hsa00020]"
+			},
+			{
+				"name":"H02007  GRACILE syndrome"
+			},
+			{
+				"name":"H01929  2,4-Dienoyl-CoA reductase deficiency [PATH:hsa00760]"
+			},
+			{
+				"name":"H02085  Acyl-CoA dehydrogenase 9 deficiency"
+			},
+			{
+				"name":"H00989  Mohr-Tranebjaerg syndrome"
+			},
+			{
+				"name":"H00820  Bjornstad syndrome"
+			}
+			]
+		},
+		{
+			"name":"Other congenital disorders of metabolism",
+			"children":[
+			{
+				"name":"H00418  Bardet-Biedl syndrome (BBS)"
+			},
+			{
+				"name":"H00419  Congenital generalized lipodystrophy (CGL)"
+			},
+			{
+				"name":"H00420  Familial partial lipodystrophy (FPL) [PATH:hsa03320 hsa04910 hsa04371 hsa04923]"
+			},
+			{
+				"name":"H00759  Waardenburg syndrome (WS) [PATH:hsa04916 hsa04520 hsa04020 hsa04080 hsa04916]"
+			},
+			{
+				"name":"H00967  Adiponectin deficiency [PATH:hsa03320 hsa04920 hsa04930]"
+			},
+			{
+				"name":"H00988  Enterokinase deficiency"
+			},
+			{
+				"name":"H01108  CD36 deficiency [PATH:hsa03320 hsa04145 hsa04920 hsa04975]"
+			},
+			{
+				"name":"H01168  Sea-blue histiocyte disease"
+			},
+			{
+				"name":"H01193  Familial tumoral calcinosis (FTC) [PATH:hsa00512 hsa04010 hsa04810 hsa00040 hsa00500 hsa04961]"
+			},
+			{
+				"name":"H01171  Poor drug metabolism (PM) [PATH:hsa00982]"
+			},
+			{
+				"name":"H01205  Coumarin resistance [PATH:hsa00982]"
+			},
+			{
+				"name":"H01210  Hypomagnesemia [PATH:hsa04978 hsa04510 hsa04514 hsa04530 hsa04540]"
+			},
+			{
+				"name":"H00245  Calcium sensing receptor (CASR) related disease"
+			},
+			{
+				"name":"H01371  Hypercalcemia infantile [PATH:hsa00100]"
+			},
+			{
+				"name":"H01230  Adult-onset autosomal dominant leukodystrophy (ADLD)"
+			},
+			{
+				"name":"H01231  Biotin-responsive basal ganglia disease (BBGD) [PATH:hsa04977]"
+			},
+			{
+				"name":"H01234  Trimethylaminuria (TMAU) [PATH:hsa00982]"
+			},
+			{
+				"name":"H01248  Erythrocyte lactate transporter defect"
+			},
+			{
+				"name":"H01249  Ethylmalonic encephalopathy (EE)"
+			},
+			{
+				"name":"H01266  Hypercarotenemia and vitamin A deficiency [PATH:hsa00830]"
+			},
+			{
+				"name":"H01267  Familial hyperinsulinemic hypoglycemia (HHF) [PATH:hsa00010 hsa00071 hsa00471 hsa02010 hsa04910 hsa04930]"
+			},
+			{
+				"name":"H01268  Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome"
+			},
+			{
+				"name":"H01270  Familial hypobetalipoproteinemia (FHBL) [PATH:hsa04975 hsa04977]"
+			},
+			{
+				"name":"H01474  Acquired generalized lipodystrophy (AGL)"
+			},
+			{
+				"name":"H01475  Lipodystrophy"
+			},
+			{
+				"name":"H01909  Hypoinsulinemic hypoglycemia with hemihypertrophy (HIHGHH) [PATH:hsa04150 hsa04151]"
+			},
+			{
+				"name":"H01936  Hyperbiliverdinemia (HBLVD) [PATH:hsa00860]"
+			},
+			{
+				"name":"H02152  Transient familial neonatal hyperbilirubinemia"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Congenital malformations",
+		"children":[
+		{
+			"name":"Congenital malformations of the nervous system",
+			"children":[
+			{
+				"name":"H00120  Muscular dystrophy-dystroglycanopathy type A [PATH:hsa00515]"
+			},
+			{
+				"name":"H00269  Primary microcephaly (MCPH)"
+			},
+			{
+				"name":"H02132  Microcephaly syndrome"
+			},
+			{
+				"name":"H00990  Microcephaly, Amish type"
+			},
+			{
+				"name":"H01835  Neuronal migration disorder"
+			},
+			{
+				"name":"H00268  Lissencephaly (LIS)"
+			},
+			{
+				"name":"H00270  Periventricular nodular heterotopia (PVNH)"
+			},
+			{
+				"name":"H00271  Polymicrogyria"
+			},
+			{
+				"name":"H00263  Acrocallosal syndrome [PATH:hsa04340]"
+			},
+			{
+				"name":"H00839  Porencephaly [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H01160  Schizencephaly [PATH:hsa04340]"
+			},
+			{
+				"name":"H00544  Septo-optic dysplasia"
+			},
+			{
+				"name":"H00267  Holoprosencephaly (HPE) [PATH:hsa04340]"
+			},
+			{
+				"name":"H00530  Joubert syndrome [PATH:hsa00562 hsa04070 hsa04340]"
+			},
+			{
+				"name":"H00262  Spina bifida [PATH:hsa00670]"
+			},
+			{
+				"name":"H00792  Warburg micro syndrome"
+			},
+			{
+				"name":"H01001  COACH syndrome"
+			},
+			{
+				"name":"H01034  L1 syndrome [PATH:hsa04360 hsa04514]"
+			},
+			{
+				"name":"H01112  Polyhydramnios, megalencephaly, and symptomatic epilepsy [PATH:hsa04150]"
+			},
+			{
+				"name":"H01211  MECP2-related severe neonatal encephalopathy"
+			},
+			{
+				"name":"H01251  Focal cortical dysplasia of Taylor [PATH:hsa04150 hsa04910]"
+			},
+			{
+				"name":"H01561  Chiari malformation"
+			},
+			{
+				"name":"H01675  Syringomyelia"
+			},
+			{
+				"name":"H01677  Congenital hydrocephalus [PATH:hsa04360 hsa04514 hsa04530]"
+			},
+			{
+				"name":"H01678  Dandy-Walker syndrome"
+			},
+			{
+				"name":"H01789  You-Hoover-Fong syndrome"
+			},
+			{
+				"name":"H01722  Galloway-Mowat syndrome"
+			},
+			{
+				"name":"H01811  Arima syndrome"
+			},
+			{
+				"name":"H01833  Hemimegalencephaly"
+			},
+			{
+				"name":"H01870  Microhydranencephaly"
+			},
+			{
+				"name":"H01881  Complex cortical dysplasia with other brain malformations"
+			},
+			{
+				"name":"H01921  MICPCH syndrome"
+			},
+			{
+				"name":"H01937  Multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia, and hydranencephaly (MARCH)"
+			},
+			{
+				"name":"H02151  Hereditary congenital facial paresis [PATH:hsa04550]"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of eye",
+			"children":[
+			{
+				"name":"H00620  Axenfeld-Rieger syndrome (ARS) [PATH:hsa04350]"
+			},
+			{
+				"name":"H00635  Aniridia"
+			},
+			{
+				"name":"H00662  Ectopia lentis"
+			},
+			{
+				"name":"H00676  Congenital primary aphakia"
+			},
+			{
+				"name":"H00677  Aplasia of lacrimal and salivary glands [PATH:hsa04010]"
+			},
+			{
+				"name":"H00826  Blepharophimosis-ptosis-epicanthus inversus syndrome (BPES)"
+			},
+			{
+				"name":"H01012  Oculo-auricular syndrome"
+			},
+			{
+				"name":"H01027  Anophthalmia and microphthalmia (A\/M) [PATH:hsa04340 hsa04350 hsa00860]"
+			},
+			{
+				"name":"H01029  Cornea plana congenita"
+			},
+			{
+				"name":"H01075  Peters anomaly [PATH:hsa04350 hsa00140 hsa00380 hsa00980 hsa00514]"
+			},
+			{
+				"name":"H01114  Ocular coloboma"
+			},
+			{
+				"name":"H01159  Anterior segment dysgenesis (ASD)"
+			},
+			{
+				"name":"H01203  Primary congenital glaucoma (PCG) [PATH:hsa00140 hsa00380 hsa00980]"
+			},
+			{
+				"name":"H01766  Juvenile retinoschisis"
+			},
+			{
+				"name":"H02045  Norrie disease"
+			},
+			{
+				"name":"H02074  Knobloch syndrome"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of ear",
+			"children":[
+			{
+				"name":"H01286  Microtia hearing impairment and cleft palate (MHICP)"
+			},
+			{
+				"name":"H02115  Congenital aural atresia"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of face and neck",
+			"children":[
+			{
+				"name":"H00516  Cleft lip and\/or cleft palate"
+			},
+			{
+				"name":"H00909  Cleft palate with ankyloglossia"
+			},
+			{
+				"name":"H00817  Branchiooculofacial syndrome (BOFS)"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of the circulatory system",
+			"children":[
+			{
+				"name":"H00531  Venous malformations"
+			},
+			{
+				"name":"H00554  Bicuspid aortic valve [PATH:hsa04330 hsa04350]"
+			},
+			{
+				"name":"H01272  Hypoplastic left heart syndrome (HLHS) [PATH:hsa04540]"
+			},
+			{
+				"name":"H01630  Patent ductus arteriosus [PATH:hsa04270]"
+			},
+			{
+				"name":"H02043  Capillary malformation-arteriovenous malformation [PATH:hsa04010]"
+			},
+			{
+				"name":"H02044  Cutaneous and mucosal venous malformation [PATH:hsa04151 hsa04066]"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of the digestive system",
+			"children":[
+			{
+				"name":"H00463  Currarino syndrome"
+			},
+			{
+				"name":"H00545  Polycystic liver disease [PATH:hsa04141]"
+			},
+			{
+				"name":"H00551  Alagille syndrome [PATH:hsa04330]"
+			},
+			{
+				"name":"H00677  Aplasia of lacrimal and salivary glands [PATH:hsa04010]"
+			},
+			{
+				"name":"H00724  White sponge nevus"
+			},
+			{
+				"name":"H00910  Hirschsprung disease (HD) [PATH:hsa04020 hsa04080]"
+			},
+			{
+				"name":"H01477  Congenital short bowel syndrome (CSBS)"
+			},
+			{
+				"name":"H01805  Tricho-hepato-enteric syndrome"
+			},
+			{
+				"name":"H01855  Biliary atresia"
+			},
+			{
+				"name":"H01858  Persistent cloaca"
+			},
+			{
+				"name":"H01869  Megacystis microcolon intestinal hypoperistalsis syndrome"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of genital organs",
+			"children":[
+			{
+				"name":"H00460  Hand-foot-genital syndrome"
+			},
+			{
+				"name":"H01033  Congenital bilateral absence of vas deferens [PATH:hsa02010]"
+			},
+			{
+				"name":"H01973  Fertile eunuch syndrome [PATH:hsa04913 hsa04917]"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of the urinary system",
+			"children":[
+			{
+				"name":"H00261  Meckel syndrome (MKS)"
+			},
+			{
+				"name":"H00537  Nephronophthisis"
+			},
+			{
+				"name":"H00538  Senior-Loken syndrome"
+			},
+			{
+				"name":"H00542  Polycystic kidney disease"
+			},
+			{
+				"name":"H00575  Renal tubular dysgenesis [PATH:hsa04614]"
+			},
+			{
+				"name":"H00822  Renal agenesis and Renal adysplasia"
+			},
+			{
+				"name":"H01026  Renal coloboma syndrome (RCS)"
+			},
+			{
+				"name":"H01728  Potter syndrome"
+			},
+			{
+				"name":"H01856  Cloacal exstrophy"
+			},
+			{
+				"name":"H01867  Congenital anomalies of kidney and urinary tract (CAKUT)"
+			},
+			{
+				"name":"H02012  Medullary cystic kidney disease (MCKD)"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of the musculoskeletal system",
+			"children":[
+			{
+				"name":"H00207  Rhizomelic chondrodysplasia punctata [PATH:hsa00564 hsa00565 hsa04146]"
+			},
+			{
+				"name":"H00434  Camurati-Engelmann disease [PATH:hsa04350]"
+			},
+			{
+				"name":"H00436  Osteopetrosis [PATH:hsa04380 hsa05323]"
+			},
+			{
+				"name":"H00444  Osteopathia striata with cranial sclerosis"
+			},
+			{
+				"name":"H00445  Osteoarthritis with mild chondrodysplasia"
+			},
+			{
+				"name":"H00447  HEM skeletal dysplasia"
+			},
+			{
+				"name":"H00450  Sclerosing bone dysplasias [PATH:hsa04310]"
+			},
+			{
+				"name":"H00452  Buschke-Ollendorff syndrome"
+			},
+			{
+				"name":"H00456  Fronto-Otopalatodigital Osteodysplasia"
+			},
+			{
+				"name":"H00459  Synpolydactyly"
+			},
+			{
+				"name":"H00461  FLNB-related disorders [PATH:hsa04010 hsa04510]"
+			},
+			{
+				"name":"H00462  Stuve-Wiedemann syndrome"
+			},
+			{
+				"name":"H00466  Grebe dysplasia [PATH:hsa04350]"
+			},
+			{
+				"name":"H00467  Fibular hypoplasia and complex brachydactyly [PATH:hsa04350]"
+			},
+			{
+				"name":"H00468  Acromesomelic dysplasia with genital anomalies [PATH:hsa04350]"
+			},
+			{
+				"name":"H00470  Acromesomelic dysplasia, Maroteaux type"
+			},
+			{
+				"name":"H00471  Split-hand\/foot malformation (SHFM)"
+			},
+			{
+				"name":"H00474  Schneckenbecken dysplasia"
+			},
+			{
+				"name":"H00475  Enlarged parietal foramina\/cranium bifidum"
+			},
+			{
+				"name":"H00476  Multiple epiphyseal dysplasia (MED)"
+			},
+			{
+				"name":"H00477  Pseudoachondroplasia (PSACH)"
+			},
+			{
+				"name":"H00479  Metaphyseal dysplasias"
+			},
+			{
+				"name":"H00482  Brachydactyly [PATH:hsa04340 hsa04350]"
+			},
+			{
+				"name":"H00483  Brachydactyly type C [PATH:hsa04350]"
+			},
+			{
+				"name":"H00484  Other brachydactylies [PATH:hsa04350 hsa04010 hsa04810]"
+			},
+			{
+				"name":"H00486  Sclerosteosis [PATH:hsa04310]"
+			},
+			{
+				"name":"H00491  Craniometaphyseal dysplasia"
+			},
+			{
+				"name":"H00494  Desbuquois syndrome [PATH:hsa00230 hsa00240 hsa00532 hsa00534]"
+			},
+			{
+				"name":"H00495  Eiken dysplasia"
+			},
+			{
+				"name":"H00499  Spondylocarpotarsal synostosis syndrome"
+			},
+			{
+				"name":"H00493  Heparan sulfate proteoglycan gene defects"
+			},
+			{
+				"name":"H00501  Fibrous dysplasia, polyostotic"
+			},
+			{
+				"name":"H00503  EVC-related disorders [PATH:hsa04340]"
+			},
+			{
+				"name":"H00505  FGFR3-related short limb skeletal dysplasia [PATH:hsa04010 hsa04014 hsa04015 hsa04151 hsa04810]"
+			},
+			{
+				"name":"H01749  Achondroplasia"
+			},
+			{
+				"name":"H01750  Thanatophoric dysplasia"
+			},
+			{
+				"name":"H00506  Osteogenesis imperfecta"
+			},
+			{
+				"name":"H00508  Blomstrand syndrome"
+			},
+			{
+				"name":"H00511  Short rib-polydactyly syndrome"
+			},
+			{
+				"name":"H00514  Bruck syndrome"
+			},
+			{
+				"name":"H00515  The DTDST-related disorders"
+			},
+			{
+				"name":"H00517  Spondylocostal dysostosis (SCD) [PATH:hsa04330]"
+			},
+			{
+				"name":"H00521  Cleidocranial dysplasia"
+			},
+			{
+				"name":"H00528  Frontonasal dysplasia"
+			},
+			{
+				"name":"H00540  Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID) [PATH:hsa04010 hsa04062 hsa04210 hsa04380 hsa04660 hsa04662]"
+			},
+			{
+				"name":"H00572  ESCO2-related disorders"
+			},
+			{
+				"name":"H00580  Schimke immunoosseous dysplasia"
+			},
+			{
+				"name":"H00629  Acheiropodia"
+			},
+			{
+				"name":"H00636  Tetra-amelia [PATH:hsa04310]"
+			},
+			{
+				"name":"H00637  Ulnar-mammary syndrome"
+			},
+			{
+				"name":"H00660  Congenital contractural arachnodactyly (CCA)"
+			},
+			{
+				"name":"H00751  Asphyxiating thoracic dystrophy [PATH:hsa04145 hsa04962]"
+			},
+			{
+				"name":"H00758  Progressive pseudorheumatoid dysplasia (PPRD)"
+			},
+			{
+				"name":"H00760  Spondyloepiphyseal dysplasia tarda"
+			},
+			{
+				"name":"H00761  SEMD, Pakistani type [PATH:hsa00230 hsa00450 hsa00920 hsa01100]"
+			},
+			{
+				"name":"H00762  SEMD, Omani type [PATH:hsa00532]"
+			},
+			{
+				"name":"H00765  Spondyloepiphyseal dysplasia, Kimberley type"
+			},
+			{
+				"name":"H00767  SEMD, Matrilin type"
+			},
+			{
+				"name":"H00777  SEMD, short limb-hand type"
+			},
+			{
+				"name":"H01494  Spondyloepimetaphyseal dysplasia with joint laxity type (SEMD-JL) [PATH:hsa00532 hsa00534]"
+			},
+			{
+				"name":"H00778  Tarsal-carpal coalition syndrome [PATH:hsa04350]"
+			},
+			{
+				"name":"H00802  Ehlers-Danlos syndrome (EDS) [PATH:hsa04510 hsa04512 hsa00310 hsa00532 hsa00534]"
+			},
+			{
+				"name":"H00846  Fuhrmann syndrome"
+			},
+			{
+				"name":"H00847  Al-Awadi\/Raas-Rothschild syndrome"
+			},
+			{
+				"name":"H00850  Frontorhiny"
+			},
+			{
+				"name":"H00851  Synpolydactyly 2"
+			},
+			{
+				"name":"H00852  Klippel-Feil syndrome(KFS) [PATH:hsa04350]"
+			},
+			{
+				"name":"H00853  Cenani-Lenz syndactyly syndrome"
+			},
+			{
+				"name":"H00855  Triphalangeal thumb-polysyndactyly syndrome [PATH:hsa04340]"
+			},
+			{
+				"name":"H00863  Spondylo-megaepiphyseal-metaphyseal dysplasia"
+			},
+			{
+				"name":"H00865  Lethal congenital contractural syndrome (LCCS)"
+			},
+			{
+				"name":"H00870  Brachydactyly-syndactyly syndrome"
+			},
+			{
+				"name":"H00903  Congenital clubfoot"
+			},
+			{
+				"name":"H00929  Congenital vertical talus"
+			},
+			{
+				"name":"H00979  Caudal regression syndrome and Sirenomelia [PATH:hsa04310]"
+			},
+			{
+				"name":"H01018  Metachondromatosis [PATH:hsa04630 hsa04650 hsa04670 hsa04722 hsa04920]"
+			},
+			{
+				"name":"H01030  Lethal arthrogryposis with anterior horn cell disease"
+			},
+			{
+				"name":"H01095  Syndactyly [PATH:hsa04540]"
+			},
+			{
+				"name":"H01105  Cranio-lenticulo-sutural dysplasia (CLSD) [PATH:hsa04141]"
+			},
+			{
+				"name":"H01194  X-linked chondrodysplasia punctata [PATH:hsa00100]"
+			},
+			{
+				"name":"H01207  Trigonocephaly [PATH:hsa04010 hsa04520 hsa04810]"
+			},
+			{
+				"name":"H01226  GLI3 morphopathies [PATH:hsa04340]"
+			},
+			{
+				"name":"H01241  Congenital diaphragmatic hernia (CDH)"
+			},
+			{
+				"name":"H01246  Isolated congenital nail clubbing (ICNC)"
+			},
+			{
+				"name":"H01376  Acrofacial dysostosis [PATH:hsa00240 hsa03040]"
+			},
+			{
+				"name":"H01392  Arthrogryposis, mental retardation, and seizures (AMRS)"
+			},
+			{
+				"name":"H01393  Van Maldergem syndrome (VMLDS\/VMS)"
+			},
+			{
+				"name":"H01402  Nicolaides-Baraitser syndrome"
+			},
+			{
+				"name":"H01571  Singleton-Merten syndrome (SMS)"
+			},
+			{
+				"name":"H01572  Cole-Carpenter syndrome [PATH:hsa04141]"
+			},
+			{
+				"name":"H01575  Roifman syndrome"
+			},
+			{
+				"name":"H01817  Beukes hip dysplasia (BHD)"
+			},
+			{
+				"name":"H01821  Spondylometaphyseal dysplasia with cone-rod dystrophy (SMD-CRD) [PATH:hsa00440 hsa00564]"
+			},
+			{
+				"name":"H01824  CODAS syndrome"
+			},
+			{
+				"name":"H01825  Spondylometaphyseal dysplasia, Sedaghatian type (SMDS)"
+			},
+			{
+				"name":"H01828  Opsismodysplasia"
+			},
+			{
+				"name":"H01830  Spondylometaphyseal dysplasia, Megarbane-Dagher-Melki type (SMDMDM)"
+			},
+			{
+				"name":"H01832  Lenz-Majewski syndrome [PATH:hsa00564]"
+			},
+			{
+				"name":"H01851  Congenital scoliosis associated with rib anomalies"
+			},
+			{
+				"name":"H01852  Postaxial polydactyly"
+			},
+			{
+				"name":"H01854  Metacarpal 4-5 fusion (MF4)"
+			},
+			{
+				"name":"H01884  Auriculocondylar syndrome"
+			},
+			{
+				"name":"H02048  Larsen syndrome [PATH:hsa04510]"
+			},
+			{
+				"name":"H02063  Diastrophic dysplasia"
+			},
+			{
+				"name":"H02064  Atelosteogenesis [PATH:hsa04010 hsa04510]"
+			},
+			{
+				"name":"H00678  Achondrogenesis type IA"
+			},
+			{
+				"name":"H02065  Achondrogenesis type IB"
+			},
+			{
+				"name":"H02066  Achondrogenesis type II [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H02068  Hypochondroplasia [PATH:hsa04010 hsa04014 hsa04015 hsa04151 hsa04810]"
+			},
+			{
+				"name":"H02069  SADDAN [PATH:hsa04010 hsa04014 hsa04015 hsa04151 hsa04810]"
+			},
+			{
+				"name":"H02070  Kniest dysplasia [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H02071  Czech dysplasia [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H02079  Oto-spondylo-megaepiphyseal dysplasia"
+			},
+			{
+				"name":"H02080  Fibrochondrogenesis"
+			},
+			{
+				"name":"H02154  Omodysplasia"
+			},
+			{
+				"name":"H02155  Dyssegmental dysplasia"
+			},
+			{
+				"name":"H02157  Short-rib thoracic dysplasia"
+			},
+			{
+				"name":"H02158  Weyers acrodental dysostosis [PATH:hsa04340]"
+			}
+			]
+		},
+		{
+			"name":"Congenital malformations of skin",
+			"children":[
+			{
+				"name":"H01771  Congenital ichthyosis"
+			},
+			{
+				"name":"H00134  X-linked ichthyosis (XLI) [PATH:hsa00140]"
+			},
+			{
+				"name":"H00671  Netherton syndrome"
+			},
+			{
+				"name":"H00691  Bullous congenital ichthyosiform erythroderma (BCIE)"
+			},
+			{
+				"name":"H00693  Ichthyosis bullosa of Siemens"
+			},
+			{
+				"name":"H00707  Ichthyosis hystrix, Curth-Macklin type"
+			},
+			{
+				"name":"H00712  Keratitis-ichthyosis-deafness syndrome"
+			},
+			{
+				"name":"H00733  Harlequin ichthyosis [PATH:hsa02010]"
+			},
+			{
+				"name":"H00734  Autosomal recessive congenital ichthyosis"
+			},
+			{
+				"name":"H00735  Ichthyosis vulgaris"
+			},
+			{
+				"name":"H00737  Peeling skin syndrome"
+			},
+			{
+				"name":"H00738  Ichthyosis with confetti"
+			},
+			{
+				"name":"H00739  Ichthyosis with hypotrichosis"
+			},
+			{
+				"name":"H00740  Ichthyosis follicularis, alopecia, and photophobia syndrome [PATH:hsa04141]"
+			},
+			{
+				"name":"H00741  Ichthyosis prematurity syndrome"
+			},
+			{
+				"name":"H00742  Neonatal ichthyosis-sclerosing cholangitis (NISCH) syndrome [PATH:hsa04514 hsa04530 hsa04670]"
+			},
+			{
+				"name":"H01737  Epidermolysis bullosa"
+			},
+			{
+				"name":"H00584  Epidermolysis bullosa simplex"
+			},
+			{
+				"name":"H00585  Epidermolysis bullosa, hemidesmosomal"
+			},
+			{
+				"name":"H00586  Epidermolysis bullosa, junctional [PATH:hsa04510 hsa04512 hsa04514 hsa04810]"
+			},
+			{
+				"name":"H00587  Epidermolysis bullosa, dysprophica"
+			},
+			{
+				"name":"H00763  Transient bullous dermolysis of the newborn"
+			},
+			{
+				"name":"H00425  Lysosomal cysteine protease deficiencies [PATH:hsa04142 hsa04620 hsa04612]"
+			},
+			{
+				"name":"H00274  Papillon-Lefevre syndrome [PATH:hsa04142]"
+			},
+			{
+				"name":"H00487  Trichodentoosseous dysplasia"
+			},
+			{
+				"name":"H00646  Odontoonychodermal dysplasia [PATH:hsa04310 hsa04340 hsa04916 hsa05200]"
+			},
+			{
+				"name":"H00535  Lymphedemas"
+			},
+			{
+				"name":"H00557  Cutis laxa"
+			},
+			{
+				"name":"H00558  Geroderma osteodysplasticum"
+			},
+			{
+				"name":"H00560  Pseudoxanthoma elasticum [PATH:hsa02010]"
+			},
+			{
+				"name":"H00638  Ectrodactyly-ectodermal dysplasia cleft-palate syndrome (EEC syndrome)"
+			},
+			{
+				"name":"H00645  Incontinentia pigmenti [PATH:hsa04010 hsa04062 hsa04210 hsa04380 hsa04660 hsa04662 hsa04920]"
+			},
+			{
+				"name":"H00644  Ectodermal dysplasia\/skin fragility syndrome"
+			},
+			{
+				"name":"H00647  Ectodermal dysplasia-syndactyly syndrome (EDSS) [PATH:hsa04520]"
+			},
+			{
+				"name":"H00648  Ectodermal dysplasia, hidrotic"
+			},
+			{
+				"name":"H00649  Ectodermal dysplasia, pure hair-nail type (HNED)"
+			},
+			{
+				"name":"H00651  Ectodermal dysplasia [PATH:hsa04060]"
+			},
+			{
+				"name":"H00663  Restrictive dermopathy [PATH:hsa00900]"
+			},
+			{
+				"name":"H00695  Mal de Meleda"
+			},
+			{
+				"name":"H00706  Bart-Pumphrey syndrome"
+			},
+			{
+				"name":"H00708  Naegeli-Franceschetti-Jadassohn syndrome"
+			},
+			{
+				"name":"H00710  Erythrokeratodermia variabilis"
+			},
+			{
+				"name":"H00714  Vohwinkel syndrome"
+			},
+			{
+				"name":"H00715  Darier disease [PATH:hsa04020]"
+			},
+			{
+				"name":"H00716  Palmoplantar keratoderma with deafness"
+			},
+			{
+				"name":"H00717  Striate palmoplantar keratoderma"
+			},
+			{
+				"name":"H00722  Epidermolytic palmoplantar keratoderma (EPPK)"
+			},
+			{
+				"name":"H00723  Non-epidermolytic palmoplantar keratoderma (NEPPK)"
+			},
+			{
+				"name":"H00750  Keratosis follicularis spinulosa decalvans"
+			},
+			{
+				"name":"H00755  Acrokeratosis verruciformis [PATH:hsa04020]"
+			},
+			{
+				"name":"H00781  Schopf-Schulz-Passarge syndrome"
+			},
+			{
+				"name":"H00790  Keratosis linearis with ichthyosis congenita and sclerosing keratoderma [PATH:hsa03050]"
+			},
+			{
+				"name":"H00791  Disseminated superficial actinic porokeratosis (DSAP)"
+			},
+			{
+				"name":"H00796  Dermatopathia pigmentosa reticularis"
+			},
+			{
+				"name":"H00799  CEDNIK syndrome [PATH:hsa04130]"
+			},
+			{
+				"name":"H00813  Laryngo onycho cutaneous syndrome [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H00844  Familial benign chronic pemphigus"
+			},
+			{
+				"name":"H00893  Skin fragility-woolly hair syndrome"
+			},
+			{
+				"name":"H00949  Focal dermal hypoplasia [PATH:hsa04310]"
+			},
+			{
+				"name":"H01017  Choanal atresia and lymphedema"
+			},
+			{
+				"name":"H01404  Punctate palmoplantar keratoderma (PPKP)"
+			},
+			{
+				"name":"H01428  Xeroderma pigmentosum (XP) [PATH:hsa03420]"
+			},
+			{
+				"name":"H01579  Congenital symmetric circumferential skin creases"
+			},
+			{
+				"name":"H01933  Porokeratosis [PATH:hsa00900]"
+			},
+			{
+				"name":"H00667  Woolly hair [PATH:hsa04080]"
+			},
+			{
+				"name":"H00670  Monilethrix"
+			},
+			{
+				"name":"H00683  Anonychia congenita"
+			},
+			{
+				"name":"H00684  Pachyonychia congenita"
+			},
+			{
+				"name":"H00858  Marie-Unna hereditary hypotrichosis (MUHH)"
+			},
+			{
+				"name":"H01896  Aplasia cutis congenita [PATH:hsa03008]"
+			},
+			{
+				"name":"H02083  Focal facial dermal dysplasia"
+			}
+			]
+		},
+		{
+			"name":"Other congenital malformations",
+			"children":[
+			{
+				"name":"H00417  Alstrom syndrome (AS)"
+			},
+			{
+				"name":"H00433  Holt-Oram syndrome"
+			},
+			{
+				"name":"H00442  Campomelic dysplasia (CD)"
+			},
+			{
+				"name":"H00443  Osteoglophonic dysplasia (OD)"
+			},
+			{
+				"name":"H00446  Craniofacial-deafness-hand syndrome"
+			},
+			{
+				"name":"H00449  Oculodentodigital dysplasia"
+			},
+			{
+				"name":"H00451  Osteoporosis-pseudoglioma syndrome (OPPG) [PATH:hsa04310]"
+			},
+			{
+				"name":"H00453  Branchio-oto-renal syndrome"
+			},
+			{
+				"name":"H00454  Oral-facial-digital syndrome"
+			},
+			{
+				"name":"H00458  Craniosynostosis"
+			},
+			{
+				"name":"H01753  Antley-Bixler syndrome"
+			},
+			{
+				"name":"H01754  Crouzon syndrome"
+			},
+			{
+				"name":"H01755  Apert syndrome"
+			},
+			{
+				"name":"H01756  Pfeiffer syndrome"
+			},
+			{
+				"name":"H01988  Jackson-Weiss syndrome"
+			},
+			{
+				"name":"H01989  Beare-Stevenson syndrome"
+			},
+			{
+				"name":"H01990  Muenke syndrome"
+			},
+			{
+				"name":"H01991  Saethre-Chotzen syndrome"
+			},
+			{
+				"name":"H01992  Craniofrontonasal syndrome"
+			},
+			{
+				"name":"H01993  Baller-Gerold syndrome"
+			},
+			{
+				"name":"H00464  Patella dysplasias"
+			},
+			{
+				"name":"H00485  Robinow syndrome [PATH:hsa04310]"
+			},
+			{
+				"name":"H00492  SHOX-related haploinsufficiency disorders"
+			},
+			{
+				"name":"H00496  Congenital hemidysplasia with ichthyosiform nevus and limb defects (CHILD) [PATH:hsa00100]"
+			},
+			{
+				"name":"H00500  Keutel syndrome"
+			},
+			{
+				"name":"H00502  Pallister-Hall syndrome [PATH:hsa04340]"
+			},
+			{
+				"name":"H00504  Rubinstein-Taybi syndrome"
+			},
+			{
+				"name":"H00509  3M syndrome [PATH:hsa04120]"
+			},
+			{
+				"name":"H00510  Feingold syndrome"
+			},
+			{
+				"name":"H00520  Type II collagenopathies [PATH:hsa04151 hsa04510 hsa04512]"
+			},
+			{
+				"name":"H00519  Type XI collagenopathies"
+			},
+			{
+				"name":"H00526  Camptodactyly-arthropathy-coxa vara-pericarditis syndrome"
+			},
+			{
+				"name":"H00543  Renal-hepatic-pancreatic dysplasia"
+			},
+			{
+				"name":"H00571  Johanson-Blizzard syndrome"
+			},
+			{
+				"name":"H00574  Coffin-Lowry syndrome (CLS) [PATH:hsa04010 hsa04114]"
+			},
+			{
+				"name":"H00581  Alport syndrome [PATH:hsa04510 hsa04512]"
+			},
+			{
+				"name":"H00597  Snyder-Robinson syndrome [PATH:hsa00270 hsa00330 hsa00410 hsa00480]"
+			},
+			{
+				"name":"H00617  Desmosterolosis [PATH:hsa00100 hsa01100]"
+			},
+			{
+				"name":"H00631  Cornelia de Lange syndrome (CdLS) [PATH:hsa04110 hsa04114]"
+			},
+			{
+				"name":"H00634  Duane-radial ray syndrome and IVIC syndrome"
+			},
+			{
+				"name":"H00639  Ectodermal dysplasia, ectrodactyly, and macular dystrophy (EEM syndrome) [PATH:hsa04514]"
+			},
+			{
+				"name":"H00640  Limb-mammary syndrome"
+			},
+			{
+				"name":"H00641  ADULT syndrome"
+			},
+			{
+				"name":"H00665  Mandibuloacral dysplasia"
+			},
+			{
+				"name":"H00673  Weill-Marchesani syndrome"
+			},
+			{
+				"name":"H00675  Acrocapitofemoral dysplasia [PATH:hsa04340]"
+			},
+			{
+				"name":"H00682  Woodhouse-Sakati syndrome"
+			},
+			{
+				"name":"H00756  Pitt-Hopkins syndrome [PATH:hsa04514]"
+			},
+			{
+				"name":"H00757  Dyggve-Melchior-Clausen disease and Smith-McCort dysplasia"
+			},
+			{
+				"name":"H00785  Congenital hypotrichosis with juvenile macular dystrophy [PATH:hsa04514]"
+			},
+			{
+				"name":"H00907  Kleefstra syndrome [PATH:hsa00310]"
+			},
+			{
+				"name":"H00908  Mowat-Wilson syndrome"
+			},
+			{
+				"name":"H00921  Revesz syndrome"
+			},
+			{
+				"name":"H00936  Goldberg-Shprintzen megacolon syndrome"
+			},
+			{
+				"name":"H00940  Cohen syndrome"
+			},
+			{
+				"name":"H00523  Noonan syndrome and related disorders [PATH:hsa04010]"
+			},
+			{
+				"name":"H01738  Noonan syndrome [PATH:hsa04014 hsa04010]"
+			},
+			{
+				"name":"H01984  Leopard syndrome [PATH:hsa04010 hsa04014]"
+			},
+			{
+				"name":"H01437  Neurofibromatosis type 1 [PATH:hsa04010 hsa04014]"
+			},
+			{
+				"name":"H01438  Neurofibromatosis type 2 [PATH:hsa04390]"
+			},
+			{
+				"name":"H01986  Legius syndrome"
+			},
+			{
+				"name":"H01745  Cardiofaciocutaneous syndrome [PATH:hsa04010]"
+			},
+			{
+				"name":"H01747  Costello syndrome [PATH:hsa04014]"
+			},
+			{
+				"name":"H00539  PTEN hamartoma tumor syndrome (PHTS)"
+			},
+			{
+				"name":"H01222  Cowden syndrome"
+			},
+			{
+				"name":"H00559  von Hippel-Lindau syndrome [PATH:hsa04120 hsa05200 hsa05211]"
+			},
+			{
+				"name":"H00296  Defects in RecQ helicases [PATH:hsa03440]"
+			},
+			{
+				"name":"H01346  Bloom syndrome [PATH:hsa03440 hsa03460]"
+			},
+			{
+				"name":"H01734  Rothmund-Thomson syndrome"
+			},
+			{
+				"name":"H00403  Disorders of nucleotide excision repair [PATH:hsa03420]"
+			},
+			{
+				"name":"H01800  Verheij syndrome"
+			},
+			{
+				"name":"H00529  Cranioectodermal dysplasia"
+			},
+			{
+				"name":"H00569  Aarskog-Scott syndrome [PATH:hsa04810]"
+			},
+			{
+				"name":"H00583  Opitz-GBBB syndrome [PATH:hsa04120]"
+			},
+			{
+				"name":"H00555  Char syndrome"
+			},
+			{
+				"name":"H00556  CHARGE syndrome"
+			},
+			{
+				"name":"H00570  Kabuki syndrome [PATH:hsa00310]"
+			},
+			{
+				"name":"H00573  Townes-Brocks syndrome"
+			},
+			{
+				"name":"H00611  Popliteal pterygium syndrome (PPS)"
+			},
+			{
+				"name":"H00619  Kenny-Caffey syndrome"
+			},
+			{
+				"name":"H00632  Heterotaxy [PATH:hsa04350 hsa04060]"
+			},
+			{
+				"name":"H00622  Hypoparathyroidism-retardation-dysmorphism syndrome"
+			},
+			{
+				"name":"H00642  Lacrimo-auriculo-dento-digital syndrome (LADD) [PATH:hsa04010 hsa04144 hsa04810]"
+			},
+			{
+				"name":"H00643  Tooth and nail syndrome"
+			},
+			{
+				"name":"H00709  Birk Barel mental retardation syndrome (BBMRS)"
+			},
+			{
+				"name":"H00711  Russell-Silver syndrome"
+			},
+			{
+				"name":"H00713  Beckwith-Wiedemann syndrome [PATH:hsa04110]"
+			},
+			{
+				"name":"H00718  Sotos syndrome [PATH:hsa00310]"
+			},
+			{
+				"name":"H01751  Weaver syndrome [PATH:hsa00310]"
+			},
+			{
+				"name":"H00653  Marfan syndrome"
+			},
+			{
+				"name":"H00659  Shprintzen-Goldberg syndrome"
+			},
+			{
+				"name":"H00661  MASS phenotype"
+			},
+			{
+				"name":"H00685  Bifid nose with or without anorectal and renal anomalies"
+			},
+			{
+				"name":"H00686  Manitoba oculotrichoanal syndrome"
+			},
+			{
+				"name":"H00687  Fraser syndrome"
+			},
+			{
+				"name":"H00727  Athabascan brainstem dysgenesis syndrome"
+			},
+			{
+				"name":"H00752  Ankyloblepharon-ctodermal defects-cleft lip\/palate (AEC) syndrome and Rapp-Hodgkin syndrome"
+			},
+			{
+				"name":"H00797  Martsolf syndrome"
+			},
+			{
+				"name":"H00811  Distal arthrogryposis (DA) [PATH:hsa04260 hsa04530]"
+			},
+			{
+				"name":"H00882  Cocoon syndrome [PATH:hsa04010 hsa04062 hsa04210 hsa04380 hsa04620 hsa04621 hsa04622 hsa04623 hsa04660 hsa04662 hsa04920]"
+			},
+			{
+				"name":"H00894  FG syndrome (FGS) [PATH:hsa04010 hsa04510 hsa04530]"
+			},
+			{
+				"name":"H00859  Guttmacher syndrome"
+			},
+			{
+				"name":"H00867  Radioulnar synostosis with amegakaryocytic thrombocytopenia"
+			},
+			{
+				"name":"H00868  Stapes ankylosis with broad thumb and toes [PATH:hsa04350]"
+			},
+			{
+				"name":"H00873  Cousin syndrome"
+			},
+			{
+				"name":"H00886  Donnai-Barrow syndrome [PATH:hsa04340]"
+			},
+			{
+				"name":"H00889  MED12-related disorders"
+			},
+			{
+				"name":"H00935  Cold-induced sweating syndrome (CISS) and Crisponi syndrome (CRISPS) [PATH:hsa04060 hsa04630]"
+			},
+			{
+				"name":"H00900  Geleophysic dysplasia"
+			},
+			{
+				"name":"H00914  Warsaw breakage syndrome"
+			},
+			{
+				"name":"H00915  Tuberous sclerosis complex (TSC) [PATH:hsa04115 hsa04150 hsa04910]"
+			},
+			{
+				"name":"H00922  Schinzel-Giedion midface retraction syndrome"
+			},
+			{
+				"name":"H00934  Caudal duplication anomaly [PATH:hsa04310]"
+			},
+			{
+				"name":"H00926  Growth retardation, developmental delay, coarse facies, and early death"
+			},
+			{
+				"name":"H00939  Darsun syndrome"
+			},
+			{
+				"name":"H00943  TARP syndrome"
+			},
+			{
+				"name":"H00946  Arts syndrome [PATH:hsa00030 hsa00230 hsa01100]"
+			},
+			{
+				"name":"H00950  Arthrogryposis, renal dysfunction, and cholestasis"
+			},
+			{
+				"name":"H00965  RAPADILINO syndrome"
+			},
+			{
+				"name":"H00997  CATSHL syndrome [PATH:hsa04010 hsa04810]"
+			},
+			{
+				"name":"H00968  Raine syndrome"
+			},
+			{
+				"name":"H00969  Skeletal defects, genital hypoplasia, and mental retardation"
+			},
+			{
+				"name":"H00972  Endocrine-cerebro-osteodysplasia syndrome"
+			},
+			{
+				"name":"H00977  Trichorhinophalangeal dysplasia"
+			},
+			{
+				"name":"H00980  Nevo syndrome [PATH:hsa00310]"
+			},
+			{
+				"name":"H00986  Multiple pterygium syndrome [PATH:hsa04080]"
+			},
+			{
+				"name":"H00987  Fetal akinesia deformation sequence (FADS)"
+			},
+			{
+				"name":"H00992  Seckel syndrome [PATH:hsa03460 hsa04110 hsa04115]"
+			},
+			{
+				"name":"H00993  Microcephalic osteodysplastic primordial dwarfism, type I (MOPD I)"
+			},
+			{
+				"name":"H00991  Microcephalic osteodysplastic primordial dwarfism, type II (MOPD II)"
+			},
+			{
+				"name":"H01008  C syndrome"
+			},
+			{
+				"name":"H02047  Bohring-Opitz syndrome"
+			},
+			{
+				"name":"H01035  Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia"
+			},
+			{
+				"name":"H01156  STAR syndrome"
+			},
+			{
+				"name":"H01192  Lysyl hydroxylase 3 (LH3) deficiency [PATH:hsa00310 hsa00514]"
+			},
+			{
+				"name":"H01195  VACTERL\/VATER association [PATH:hsa00562 hsa04070 hsa04115 hsa04510 hsa04530]"
+			},
+			{
+				"name":"H01215  Simpson-Golabi-Behmel syndrome (SGBS)"
+			},
+			{
+				"name":"H01220  Congenital cataracts, facial dysmorphism, and neuropathy (CCFDN)"
+			},
+			{
+				"name":"H01255  Juvenile-onset dystonia [PATH:hsa04145 hsa04510 hsa04520 hsa04530 hsa04670 hsa04810]"
+			},
+			{
+				"name":"H01265  Hydrolethalus syndrome"
+			},
+			{
+				"name":"H01271  Hypoparathyroidism with sensorineural deafness and renal dysplasia"
+			},
+			{
+				"name":"H01281  Lathosterolosis [PATH:hsa00100]"
+			},
+			{
+				"name":"H01289  Mulibrey nanism [PATH:hsa04120]"
+			},
+			{
+				"name":"H01292  Nance-Horan syndrome"
+			},
+			{
+				"name":"H01308  Macrocephaly macrosomia facial dysmorphism syndrome"
+			},
+			{
+				"name":"H01370  SHORT syndrome [PATH:hsa04151]"
+			},
+			{
+				"name":"H01385  Rienhoff syndrome [PATH:hsa04010 hsa04068 hsa04110 hsa04350 hsa04390]"
+			},
+			{
+				"name":"H01403  Coffin-Siris syndrome"
+			},
+			{
+				"name":"H01435  Congenital asplenia [PATH:hsa03010]"
+			},
+			{
+				"name":"H01764  Polysplenia syndrome"
+			},
+			{
+				"name":"H01497  Temtamy preaxial brachydactyly syndrome (TPBS) [PATH:hsa00532]"
+			},
+			{
+				"name":"H01412  Perlman syndrome"
+			},
+			{
+				"name":"H01413  Adams-Oliver syndrome (AOS) [PATH:hsa04330]"
+			},
+			{
+				"name":"H01496  Spondyloocular syndrome (SOS) [PATH:hsa00532 hsa00534]"
+			},
+			{
+				"name":"H01568  3C syndrome"
+			},
+			{
+				"name":"H01569  CHOPS syndrome"
+			},
+			{
+				"name":"H01573  Zimmermann-Laband syndrome (ZLS)"
+			},
+			{
+				"name":"H01752  ATR-X syndrome"
+			},
+			{
+				"name":"H01769  ZTTK syndrome"
+			},
+			{
+				"name":"H01776  Aicardi syndrome"
+			},
+			{
+				"name":"H01793  Young-Simpson syndrome"
+			},
+			{
+				"name":"H01794  Genitopatellar syndrome (GPS)"
+			},
+			{
+				"name":"H01795  Blepharophimosis-mental retardation syndrome (BMRS)"
+			},
+			{
+				"name":"H01788  Klippel-Trenaunay-Weber syndrome"
+			},
+			{
+				"name":"H01797  Webb-Dattani syndrome"
+			},
+			{
+				"name":"H01806  Tenorio syndrome"
+			},
+			{
+				"name":"H01814  Stromme syndrome"
+			},
+			{
+				"name":"H01816  Frank-ter Haar syndrome (FTHS)"
+			},
+			{
+				"name":"H01834  Marshall-Smith syndrome"
+			},
+			{
+				"name":"H01838  Mandibulofacial dysostosis with microcephaly [PATH:hsa03040]"
+			},
+			{
+				"name":"H01839  Burn-McKeown syndrome [PATH:hsa03040]"
+			},
+			{
+				"name":"H01840  Moebius syndrome"
+			},
+			{
+				"name":"H01843  Cerebrocostomandibular syndrome [PATH:hsa03040]"
+			},
+			{
+				"name":"H01844  Diaphanospondylodysostosis"
+			},
+			{
+				"name":"H01845  Catel-Manzke syndrome"
+			},
+			{
+				"name":"H01847  Thrombocytopenia-absent radius syndrome"
+			},
+			{
+				"name":"H01850  Hartsfield syndrome"
+			},
+			{
+				"name":"H01857  Filippi syndrome"
+			},
+			{
+				"name":"H01872  Microcephaly-capillary malformation syndrome"
+			},
+			{
+				"name":"H01876  Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation (MCLMR)"
+			},
+			{
+				"name":"H01878  Al-Raqad syndrome [PATH:hsa03018]"
+			},
+			{
+				"name":"H01879  Wiedemann-Steiner syndrome [PATH:hsa03022]"
+			},
+			{
+				"name":"H01880  Autosomal recessive microcephaly and chorioretinopathy"
+			},
+			{
+				"name":"H01885  Megalencephaly-capillary malformation syndrome (MCAP) and megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome (MPPH) [PATH:hsa04150]"
+			},
+			{
+				"name":"H01886  Van den Ende-Gupta syndrome"
+			},
+			{
+				"name":"H01887  3MC syndrome [PATH:hsa04610]"
+			},
+			{
+				"name":"H01888  Carpenter syndrome"
+			},
+			{
+				"name":"H01889  Meier-Gorlin syndrome [PATH:hsa04110]"
+			},
+			{
+				"name":"H01893  Lateral meningocele syndrome [PATH:hsa04330]"
+			},
+			{
+				"name":"H01904  Microphthalmia with linear skin defects (MLS) syndrome [PATH:hsa00190]"
+			},
+			{
+				"name":"H01908  Carey-Fineman-Ziter syndrome"
+			},
+			{
+				"name":"H01912  Congenital lipomatous overgrowth, vascular malformations, and epidermal nevi [PATH:hsa04150 hsa04151]"
+			},
+			{
+				"name":"H01913  Renpenning syndrome [PATH:hsa03040]"
+			},
+			{
+				"name":"H01914  Christianson syndrome"
+			},
+			{
+				"name":"H01915  Borjeson-Forssman-Lehmann syndrome"
+			},
+			{
+				"name":"H01916  Stocco dos Santos X-linked mental retardation syndrome"
+			},
+			{
+				"name":"H01917  CK syndrome [PATH:hsa00100]"
+			},
+			{
+				"name":"H01919  Proud syndrome"
+			},
+			{
+				"name":"H01922  Infantile hypotonia with psychomotor retardation and characteristic facies"
+			},
+			{
+				"name":"H01923  Microcephaly, short stature, and impaired glucose metabolism"
+			},
+			{
+				"name":"H01928  Smith-Kingsmore syndrome [PATH:hsa04150]"
+			},
+			{
+				"name":"H01930  Au-Kline syndrome"
+			},
+			{
+				"name":"H01931  Lethal-type popliteal pterygium syndrome"
+			},
+			{
+				"name":"H01932  Ablepharon-macrostomia syndrome"
+			},
+			{
+				"name":"H01934  Barber-Say syndrome"
+			},
+			{
+				"name":"H02023  Baraitser-Winter syndrome [PATH:hsa04810]"
+			},
+			{
+				"name":"H02046  OFC syndrome"
+			},
+			{
+				"name":"H02067  Boomerang dysplasia [PATH:hsa04010 hsa04510]"
+			},
+			{
+				"name":"H02072  Stickler syndrome [PATH:hsa04512 hsa04151 hsa04510]"
+			},
+			{
+				"name":"H02081  Marshall syndrome"
+			},
+			{
+				"name":"H02082  Floating-Harbor syndrome"
+			},
+			{
+				"name":"H02095  Perrault syndrome [PATH:hsa00970 hsa00120]"
+			},
+			{
+				"name":"H02102  Myhre syndrome [PATH:hsa04110 hsa04310 hsa04350]"
+			},
+			{
+				"name":"H02153  Megalencephaly-capillary malformation syndrome [PATH:hsa04150]"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Other congenital disorders",
+		"children":[
+		{
+			"name":"Chromosomal abnormalities",
+			"children":[
+			{
+				"name":"H00478  Prader-Willi syndrome (PWS)"
+			},
+			{
+				"name":"H01732  Angelman syndrome (AS) [PATH:hsa04120]"
+			},
+			{
+				"name":"H01552  Down syndrome"
+			},
+			{
+				"name":"H01562  Patau syndrome"
+			},
+			{
+				"name":"H01564  Edwards syndrome"
+			},
+			{
+				"name":"H01439  Williams-Beuren syndrome"
+			},
+			{
+				"name":"H00465  Fragile X syndrome (FXS) [PATH:hsa03013]"
+			},
+			{
+				"name":"H00561  Brachydactyly-mental retardation syndrome"
+			},
+			{
+				"name":"H01004  Velocardiofacial syndrome"
+			},
+			{
+				"name":"H01223  Mental retardation-stereotypic movements-epilepsy and\/or cerebral malformations (MRSME)"
+			},
+			{
+				"name":"H01238  Phelan-McDermid syndrome [PATH:hsa04724]"
+			},
+			{
+				"name":"H01790  Emanuel syndrome"
+			},
+			{
+				"name":"H01791  Smith-Magenis syndrome"
+			},
+			{
+				"name":"H01731  Fragile X tremor\/ataxia syndrome (FXTAS) [PATH:hsa03013]"
+			},
+			{
+				"name":"H01801  Kagami-Ogata syndrome"
+			},
+			{
+				"name":"H01792  1p36 deletion syndrome"
+			},
+			{
+				"name":"H01525  22q11.2 deletion syndrome"
+			},
+			{
+				"name":"H01773  4p deletion syndrome"
+			},
+			{
+				"name":"H00764  Chromosme 5p deletion syndrome [PATH:hsa04360]"
+			},
+			{
+				"name":"H01861  Chromosome 15q24 microdeletion syndrome"
+			},
+			{
+				"name":"H01877  Chromosome 15q13.3 microdeletion syndrome"
+			},
+			{
+				"name":"H01831  Ring chromosome 20 syndrome"
+			},
+			{
+				"name":"H01288  Mosaic variegated aneuploidy (MVA) syndrome [PATH:hsa04110]"
+			},
+			{
+				"name":"H02103  Desanto-Shinawi syndrome"
+			},
+			{
+				"name":"H02156  Lamb-Shaffer syndrome"
+			}
+			]
+		},
+		{
+			"name":"Ribosomopathies",
+			"children":[
+			{
+				"name":"H00237  Diamond-Blackfan anemia (DBA) [PATH:hsa03010]"
+			},
+			{
+				"name":"H00439  Shwachman-Diamond syndrome (SDS) [PATH:hsa03008]"
+			},
+			{
+				"name":"H00507  Dyskeratosis congenita (DC) [PATH:hsa03008]"
+			},
+			{
+				"name":"H00518  RMRP related disorders [PATH:hsa03008]"
+			},
+			{
+				"name":"H01966  Cartilage-hair hypoplasia"
+			},
+			{
+				"name":"H01967  Anauxetic dysplasia [PATH:hsa03008]"
+			},
+			{
+				"name":"H00610  Treacher Collins syndrome [PATH:hsa03008 hsa03020]"
+			},
+			{
+				"name":"H00616  Bowen-Conradi syndrome (BCS) [PATH:hsa03008]"
+			},
+			{
+				"name":"H00621  Alopecia neurologic defects and endocrinopathy syndrome (ANE syndrome) [PATH:hsa03008]"
+			},
+			{
+				"name":"H00788  Hoyeraal-Hreidarsson syndrome [PATH:hsa03008]"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Other diseases",
+		"children":[
+		{
+			"name":"Mental and behavioural disorders",
+			"children":[
+			{
+				"name":"H00862  Tourette syndrome [PATH:hsa00340]"
+			},
+			{
+				"name":"H01895  Attention deficit hyperactivity disorder (ADHD) [PATH:hsa04728 hsa04726]"
+			},
+			{
+				"name":"H01453  Obsessive-Compulsive and Related Disorder (OCRD)"
+			},
+			{
+				"name":"H01450  Obsessive-compulsive disorder (OCD) [PATH:hsa04726 hsa04728 hsa04724]"
+			},
+			{
+				"name":"H01448  Hoarding disorder"
+			},
+			{
+				"name":"H00864  Trichotillomania"
+			},
+			{
+				"name":"H01449  Excoriation disorder"
+			},
+			{
+				"name":"H01447  Body dysmorphic disorder [PATH:hsa04726]"
+			},
+			{
+				"name":"H01611  Alcohol dependence [PATH:hsa05034]"
+			},
+			{
+				"name":"H01646  Major depressive disorder (MDD) [PATH:hsa04726]"
+			},
+			{
+				"name":"H01653  Bipolar disorder"
+			},
+			{
+				"name":"H01649  Schizophrenia [PATH:hsa04728 hsa04080]"
+			},
+			{
+				"name":"H01662  Generalized anxiety disorder"
+			},
+			{
+				"name":"H01664  Panic disorder"
+			},
+			{
+				"name":"H01670  Social anxiety disorder"
+			},
+			{
+				"name":"H01671  Neurosis [PATH:hsa04080 hsa04728]"
+			},
+			{
+				"name":"H01703  Eating Disorders [PATH:hsa04920 hsa04024]"
+			},
+			{
+				"name":"H01882  Asperger syndrome [PATH:hsa04514]"
+			},
+			{
+				"name":"H01899  Dyslexia"
+			},
+			{
+				"name":"H00902  Speech-language disorder 1 (SPCH1)"
+			},
+			{
+				"name":"H00480  Non-syndromic X-linked mental retardation [PATH:hsa04810]"
+			},
+			{
+				"name":"H00658  Syndromic X-linked mental retardation"
+			},
+			{
+				"name":"H00768  Nonsyndromic autosomal recessive mental retardation (NS-ARMR)"
+			},
+			{
+				"name":"H00773  Autosomal dominant mental retardation [PATH:hsa04728 hsa04261 hsa04024]"
+			},
+			{
+				"name":"H01911  Syndromic autosomal recessive mental retardation"
+			},
+			{
+				"name":"H01306  FRA12A mental retardation"
+			},
+			{
+				"name":"H01514  Landau-Kleffner syndrome"
+			},
+			{
+				"name":"H02111  Autism [PATH:hsa04514 hsa04724 hsa04310 hsa04150]"
+			}
+			]
+		},
+		{
+			"name":"Others",
+			"children":[
+			{
+				"name":"H00815  H syndrome"
+			},
+			{
+				"name":"H00818  Birt-Hogg-Dube syndrome"
+			},
+			{
+				"name":"H00823  ABCD syndrome [PATH:hsa04020 hsa04080 hsa04916]"
+			},
+			{
+				"name":"H00876  Mismatch repair deficiency [PATH:hsa03430 hsa05210 hsa05213]"
+			},
+			{
+				"name":"H00994  Familial skewed X-chromosome inactivation"
+			},
+			{
+				"name":"H00881  Li-Fraumeni syndrome [PATH:hsa04010 hsa04110 hsa04115 hsa04210 hsa04310 hsa05200]"
+			},
+			{
+				"name":"H01134  Rhabdoid predisposition syndrome (RPS)"
+			},
+			{
+				"name":"H01461  Crow-Fukase syndrome"
+			},
+			{
+				"name":"H01820  Carney complex"
+			},
+			{
+				"name":"H00804  Multiple cutaneous and uterine leiomyomata [PATH:hsa00020 hsa01100]"
+			}
+			]
+		}
+		]
+	}
+	]
+}
+
