@@ -1,0 +1,1317 @@
+{
+	"name":"br08907",
+	"children":[
+	{
+		"name":"06200 Cancer network",
+		"children":[
+		{
+			"name":"06201 Signaling network",
+			"children":[
+			{
+				"name":"06210 MAPK (ERK) signaling",
+				"children":[
+				{
+					"name":"N00001  EGF-EGFR-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00276  EGF-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00229  TGFA-EGFR-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00230  TGFA-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00277  EREG-EGFR-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00278  EREG-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00279  AREG-EGFR-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00280  AREG-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00014  Mutation-activated EGFR to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00006  Amplified EGFR to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00041  EGFR-overexpression to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00021  EGF-ERBB2-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00022  ERBB2-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00252  Amplified ERBB2 to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00015  PDGF-PDGFR-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00016  PDGF-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00018  Amplified PDGFR to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00215  KITLG-KIT-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00003  Mutation-activated KIT to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00019  FGF-FGFR-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00020  Amplified FGFR1 to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00011  Mutation-activated FGFR3 to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00217  FLT3LG-FLT3-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00004  Duplication-activated FLT3 to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00233  IGF2-IGF1R-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00235  IGF2-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00237  IGF1R-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00216  HGF-MET-RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00246  HGF-overexpression to RAS-ERK signaling pathway"
+				},
+				{
+					"name":"N00005  Mutation-activated MET to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00259  Amplified MET to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00248  MET-overexpression to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00002  BCR-ABL fusion kinase to RAS-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00009  TRK fusion kinase to RAS-ERK signaling pathway\t3"
+				},
+				{
+					"name":"N00007  EML4-ALK fusion kinase to RAS-ERK signaling pathway\t3"
+				},
+				{
+					"name":"N00008  RET-PTC fusion kinase to RAS-ERK signaling pathway\t3"
+				},
+				{
+					"name":"N00160  KSHV K1 to RAS-ERK signaling pathway\t3"
+				},
+				{
+					"name":"N00077  HRAS-overexpression to RAS-ERK signaling pathway\t4"
+				},
+				{
+					"name":"N00078  Mutation-activated HRAS to RAS-ERK signaling pathway\t4"
+				},
+				{
+					"name":"N00012  Mutation-activated KRAS\/NRAS to ERK signaling pathway\t4"
+				},
+				{
+					"name":"N00013  Mutation-activated BRAF to ERK signaling pathway\t5"
+				},
+				{
+					"name":"N00023  EGF-EGFR-PLCG-ERK signaling pathway"
+				},
+				{
+					"name":"N00024  Mutation-activated EGFR to PLCG-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00025  EML4-ALK fusion kinase to PLCG-ERK signaling pathway\t1"
+				}
+				]
+			},
+			{
+				"name":"06211 MAPK (JNK) signaling",
+				"children":[
+				{
+					"name":"N00188  IL1-IL1R-JNK signaling pathway"
+				},
+				{
+					"name":"N00189  KSHV K15 to JNK signaling pathway\t6"
+				}
+				]
+			},
+			{
+				"name":"06212 MAPK (p38) signaling",
+				"children":[
+				{
+					"name":"N00186  IL1-IL1R-p38 signaling pathway"
+				},
+				{
+					"name":"N00187  KSHV Kaposin B to p38 signaling pathway\t8"
+				}
+				]
+			},
+			{
+				"name":"06213 Other RAS signaling",
+				"children":[
+				{
+					"name":"N00096  EGF-EGFR-RAS-RASSF1 signaling pathway"
+				},
+				{
+					"name":"N00097  Loss of RASSF1 to EGF-EGFR-RAS-RASSF1 signaling pathway\t4"
+				},
+				{
+					"name":"N00103  EGF-EGFR-RAS-RalGDS signaling pathway"
+				},
+				{
+					"name":"N00104  Mutation-activated KRAS to RalGDS signaling pathway\t4"
+				}
+				]
+			},
+			{
+				"name":"06214 PI3K signaling",
+				"children":[
+				{
+					"name":"N00033  EGF-EGFR-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00281  EGF-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00231  TGFA-EGFR-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00232  TGFA-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00282  EREG-EGFR-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00283  EREG-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00284  AREG-EGFR-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00285  AREG-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00036  Mutation-activated EGFR to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00035  Amplified EGFR to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00042  EGFR-overexpression to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00034  ERBB2-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00253  Amplified ERBB2 to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00039  PDGF-PDGFR-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00040  Amplified PDGFR to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00045  KITLG-KIT-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00046  Mutation-activated KIT to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00037  FGF-FGFR-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00038  Amplified FGFR1 to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00182  IGF-IGFR-PI3K-NFKB signaling pathway\t3"
+				},
+				{
+					"name":"N00179  KSHV K1 to PI3K-NFKB signaling pathway\t4"
+				},
+				{
+					"name":"N00234  IGF2-IGF1R-PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00236  IGF2-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00238  IGF1R-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00047  EML4-ALK fusion kinase to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00043  HGF-MET-PI3K signaling pathway\t2"
+				},
+				{
+					"name":"N00247  HGF-overexpression to PI3K signaling pathway\t2"
+				},
+				{
+					"name":"N00044  Mutation-activated MET to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00260  Amplified MET to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00249  MET-overexpression to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00048  BCR-ABL fusion kinase to PI3K signaling pathway\t3"
+				},
+				{
+					"name":"N00049  Mutation-activated PI3K to PI3K signaling pathway\t5"
+				},
+				{
+					"name":"N00050  Amplified PI3K to PI3K signaling pathway\t5"
+				},
+				{
+					"name":"N00220  PTEN-PI3K-AKT signaling pathway\t5"
+				},
+				{
+					"name":"N00051  Deleted PTEN to PI3K signaling pathway\t5"
+				},
+				{
+					"name":"N00052  Mutation-inactivated PTEN to PI3K signaling pathway\t5"
+				},
+				{
+					"name":"N00082  Loss of NKX3-1 to PI3K signaling pathway\t6"
+				},
+				{
+					"name":"N00030  EGF-EGFR-RAS-PI3K signaling pathway"
+				},
+				{
+					"name":"N00159  KSHV K1 to PI3K signaling pathway\t4"
+				},
+				{
+					"name":"N00218  FLT3LG-FLT3-RAS-PI3K signaling pathway"
+				},
+				{
+					"name":"N00031  Duplication-activated FLT3 to RAS-PI3K signaling pathway\t1"
+				},
+				{
+					"name":"N00032  Mutation-activated KRAS\/NRAS to PI3K signaling pathway\t4"
+				}
+				]
+			},
+			{
+				"name":"06215 WNT signaling",
+				"children":[
+				{
+					"name":"N00056  Wnt signaling pathway"
+				},
+				{
+					"name":"N00059  FZD7-overexpression to Wnt signaling pathway"
+				},
+				{
+					"name":"N00060  LRP6-overexpression to Wnt signaling pathway"
+				},
+				{
+					"name":"N00175  KSHV LANA to Wnt signaling pathway\t2"
+				},
+				{
+					"name":"N00242  Mutation-inactivated AXIN to Wnt signaling pathway\t2"
+				},
+				{
+					"name":"N00057  Mutation-inactivated APC to Wnt signaling pathway\t2"
+				},
+				{
+					"name":"N00058  Mutation-activated CTNNB1 to Wnt signaling pathway\t3"
+				},
+				{
+					"name":"N00061  CDH1-reduced expression to Wnt signaling pathway\t3"
+				},
+				{
+					"name":"N00257  Loss of CDH1 to Wnt signaling pathway\t3"
+				},
+				{
+					"name":"N00258  Mutation-inactivated CDH1 to Wnt signaling pathway\t3"
+				}
+				]
+			},
+			{
+				"name":"06216 NOTCH signaling",
+				"children":[
+				{
+					"name":"N00086  Notch signaling pathway"
+				},
+				{
+					"name":"N00087  NOTCH-overexpression to Notch signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06217 HH signaling",
+				"children":[
+				{
+					"name":"N00062  Hedgehog signaling pathway"
+				},
+				{
+					"name":"N00010  Mutation-inactivated PTCH1 to Hedgehog signaling pathway\t1"
+				},
+				{
+					"name":"N00017  Mutation-activated SMO to Hedgehog signaling pathway\t2"
+				}
+				]
+			},
+			{
+				"name":"06218 TGFB signaling",
+				"children":[
+				{
+					"name":"N00063  TGF-beta signaling pathway"
+				},
+				{
+					"name":"N00241  TGFBR2-reduced expression to TGF-beta signaling pathway\t1"
+				},
+				{
+					"name":"N00064  Mutation-inactivated TGFBR2 to TGF-beta signaling pathway\t1"
+				},
+				{
+					"name":"N00256  TGFBR1-reduced expression to TGF-beta signaling pathway\t1"
+				},
+				{
+					"name":"N00106  AML1-EVI1 fusion to TGF-beta signaling pathway\t1"
+				},
+				{
+					"name":"N00107  EVI-1 overexpression to TGF-beta signaling pathway\t1"
+				},
+				{
+					"name":"N00065  Mutation-inactivated SMAD2 to TGF-beta signaling pathway\t1"
+				}
+				]
+			},
+			{
+				"name":"06219 JAK-STAT signaling",
+				"children":[
+				{
+					"name":"N00053  Cytokine-Jak-STAT signaling pathway"
+				},
+				{
+					"name":"N00181  KSHV vIL-6 to Jak-STAT signaling pathway"
+				},
+				{
+					"name":"N00105  EML4-ALK fusion kinase to Jak-STAT signaling pathway\t1"
+				},
+				{
+					"name":"N00055  BCR-ABL fusion kinase to Jak-STAT signaling pathway\t2"
+				},
+				{
+					"name":"N00219  FLT3LG-FLT3-STAT5 signaling pathway\t1"
+				},
+				{
+					"name":"N00054  Duplication-activated FLT3 to Jak-STAT signaling pathway\t2"
+				},
+				{
+					"name":"N00094  EGF-Jak-STAT signaling pathway"
+				},
+				{
+					"name":"N00095  ERBB2-overexpression to EGF-Jak-STAT signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06220 Calcium signaling",
+				"children":[
+				{
+					"name":"N00026  EGF-EGFR-PLCG-CAMK signaling pathway"
+				},
+				{
+					"name":"N00027  Amplified EGFR to PLCG-CAMK signaling pathway\t1"
+				},
+				{
+					"name":"N00028  PDGF-PDGFR-PLCG-CAMK signaling pathway"
+				},
+				{
+					"name":"N00029  Amplified PDGFR to PLCG-CAMK signaling pathway\t1"
+				},
+				{
+					"name":"N00147  EGF-EGFR-PLCG-calcineurin signaling pathway"
+				},
+				{
+					"name":"N00180  KSHV K1 to PLCG-calcineurin signaling pathway\t1"
+				},
+				{
+					"name":"N00172  KSHV K15 to PLCG-calcineurin signaling pathway\t1"
+				},
+				{
+					"name":"N00227  TGFA-EGFR-PLCG-PKC signaling pathway"
+				},
+				{
+					"name":"N00228  TGFA-overexpression to PLCG-PKC signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06221 TLR signaling",
+				"children":[
+				{
+					"name":"N00148  TLR3-IRF7 signaling pathway"
+				},
+				{
+					"name":"N00162  KSHV vIRF3 to TLR3-IRF7 signaling pathway\t3"
+				},
+				{
+					"name":"N00163  KSHV KIE1\/2 to TLR3-IRF7 signaling pathway\t3"
+				},
+				{
+					"name":"N00149  TLR3-IRF3 signaling pathway"
+				},
+				{
+					"name":"N00161  KSHV vIRF1\/2 to TLR3-IRF3 signaling pathway\t3"
+				}
+				]
+			},
+			{
+				"name":"06222 IFN signaling",
+				"children":[
+				{
+					"name":"N00150  Type I IFN signaling pathway"
+				},
+				{
+					"name":"N00261  KSHV vIRF2 to IFN signaling pathway\t2"
+				}
+				]
+			},
+			{
+				"name":"06223 TNF-NFKB signaling",
+				"children":[
+				{
+					"name":"N00151  TNF-NFKB signaling pathway  TNF-NFKB signaling pathway"
+				},
+				{
+					"name":"N00174  KSHV vFLIP to TNF-NFKB signaling pathway\t1"
+				},
+				{
+					"name":"N00173  KSHV K15 to NFKB signaling pathway\t1"
+				},
+				{
+					"name":"N00171  KSHV vFLIP to NFKB signaling pathway\t2"
+				}
+				]
+			},
+			{
+				"name":"06224 CXCR signaling",
+				"children":[
+				{
+					"name":"N00152  CXCR-GNB\/G-ERK signaling pathway"
+				},
+				{
+					"name":"N00157  KSHV vGPCR to GNB\/G-ERK signaling pathway\t1"
+				},
+				{
+					"name":"N00153  CXCR-GNB\/G-PI3K-JNK signaling pathway"
+				},
+				{
+					"name":"N00178  KSHV vGPCR to GNB\/G-PI3K-JNK signaling pathway\t1"
+				},
+				{
+					"name":"N00154  CXCR-GNB\/G-PI3K-AKT signaling pathway"
+				},
+				{
+					"name":"N00158  KSHV vGPCR to GNB\/G-PI3K-AKT signaling pathway\t1"
+				}
+				]
+			},
+			{
+				"name":"06225 HIF-1 signaling",
+				"children":[
+				{
+					"name":"N00079  HIF-1 signaling pathway\t1"
+				},
+				{
+					"name":"N00080  Loss of VHL to HIF-1 signaling pathway"
+				},
+				{
+					"name":"N00081  Mutation-inactivated VHL to HIF-1 signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06226 KEAP1-NRF2 signaling",
+				"children":[
+				{
+					"name":"N00243  KEAP1-NRF2 signaling pathway"
+				},
+				{
+					"name":"N00244  Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway\t1"
+				},
+				{
+					"name":"N00245  Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway\t1"
+				}
+				]
+			},
+			{
+				"name":"06227 NR signaling",
+				"children":[
+				{
+					"name":"N00083  Androgen receptor signaling pathway"
+				},
+				{
+					"name":"N00084  Amplified AR to androgen receptor signaling pathway"
+				},
+				{
+					"name":"N00085  Mutation-activated AR to androgen receptor signaling pathway"
+				},
+				{
+					"name":"N00286  Nuclear-initiated estrogen signaling pathway"
+				},
+				{
+					"name":"N00287  ESR1-positive to nuclear-initiated estrogen signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06229 MHC presentation",
+				"children":[
+				{
+					"name":"N00363  Antigen processing and presentation by MHC class I molecules"
+				},
+				{
+					"name":"N00184  KSHV MIR1\/2 to MHC1-endocytosis\t2"
+				},
+				{
+					"name":"N00185  KSHV MIR2 to cell surface molecule-endocytosis\t2"
+				}
+				]
+			},
+			{
+				"name":"06228 Autophagy",
+				"children":[
+				{
+					"name":"N00155  Autophagy-vesicle nucleation"
+				},
+				{
+					"name":"N00177  KSHV vBCL2 to autophagy-vesicle nucleation"
+				},
+				{
+					"name":"N00156  Autophagy-vesicle elongation\t1"
+				},
+				{
+					"name":"N00176  KSHV vFLIP to autophagy-vesicle elongation"
+				}
+				]
+			},
+			{
+				"name":"06230 Cell cycle G1\/S",
+				"children":[
+				{
+					"name":"N00066  p21-Cell cycle G1\/S"
+				},
+				{
+					"name":"N00067  Deleted p14(ARF) to p21-cell cycle G1\/S"
+				},
+				{
+					"name":"N00076  Mutation-inactivated p14(ARF) to p21-cell cycle G1\/S"
+				},
+				{
+					"name":"N00068  Amplified MDM2 to p21-cell cycle G1\/S\t1"
+				},
+				{
+					"name":"N00167  KSHV vIRF1\/3 to p21-cell cycle G1\/S\t1"
+				},
+				{
+					"name":"N00169  KSHV LANA to p21-cell cycle G1\/S\t1"
+				},
+				{
+					"name":"N00069  p16-Cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00070  Mutation-inactivated p16(INK4a) to p16-cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00071  Deleted p16(INK4a) to p16-cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00168  KSHV vCyclin to cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00072  Amplified CDK4 to cell cycle G1\/S\t4"
+				},
+				{
+					"name":"N00073  Mutation-activated CDK4 to cell cycle G1\/S\t4"
+				},
+				{
+					"name":"N00275  Amplified CCND1 to cell cycle G1\/S\t4"
+				},
+				{
+					"name":"N00170  KSHV LANA to cell cycle G1\/S\t4"
+				},
+				{
+					"name":"N00074  Loss of RB1 to cell cycle G1\/S\t5"
+				},
+				{
+					"name":"N00075  Mutation-inactivated RB1 to cell cycle G1\/S\t5"
+				},
+				{
+					"name":"N00090  p15-Cell cycle G1\/S\t1"
+				},
+				{
+					"name":"N00088  Amplified MYC to p15-cell cycle G1\/S\t1"
+				},
+				{
+					"name":"N00089  Amplified MYC to cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00091  p27-Cell cycle G1\/S\t2"
+				},
+				{
+					"name":"N00092  Amplified MYC to p27-cell cycle G1\/S"
+				},
+				{
+					"name":"N00093  Loss of CDKN1B to p27-cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00254  CDKN1B-reduced expression to p27-cell cycle G1\/S\t3"
+				},
+				{
+					"name":"N00255  Amplified CCNE to cell cycle G1\/S\t4"
+				}
+				]
+			},
+			{
+				"name":"06231 Apoptosis",
+				"children":[
+				{
+					"name":"N00145  Extrinsic apoptotic pathway"
+				},
+				{
+					"name":"N00146  Crosstalk between extrinsic and intrinsic apoptotic pathways\t1"
+				},
+				{
+					"name":"N00166  KSHV vFLIP to crosstalk between extrinsic and intrinsic apoptotic pathways\t3"
+				},
+				{
+					"name":"N00164  KSHV vBCL2 to crosstalk between extrinsic and intrinsic apoptotic pathways\t5"
+				},
+				{
+					"name":"N00165  KSHV vIAP to crosstalk between extrinsic and intrinsic apoptotic pathways\t9"
+				},
+				{
+					"name":"N00098  Intrinsic apoptotic pathway\t4"
+				},
+				{
+					"name":"N00100  BCL2-overexpression to intrinsic apoptotic pathway\t5"
+				},
+				{
+					"name":"N00099  Mutation-inactivated BAX to apoptotic pathway\t6"
+				},
+				{
+					"name":"N00101  DCC-apoptotic pathway\t7"
+				},
+				{
+					"name":"N00102  Loss of DCC to DCC-apoptotic pathway\t7"
+				}
+				]
+			},
+			{
+				"name":"06232 Telomerase activity",
+				"children":[
+				{
+					"name":"N00239  Telomerase activity"
+				},
+				{
+					"name":"N00240  TERT-overexpression to telomerase activity"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06202 Transcription",
+			"children":[
+			{
+				"name":"06240 All cancer types",
+				"children":[
+				{
+					"name":"N00115  Mutation-inactivated TP53 to transcription"
+				}
+				]
+			},
+			{
+				"name":"06241 Leukemia and lymphoma",
+				"children":[
+				{
+					"name":"N00116  Mutation-inactivated RUNX1 to transcription"
+				},
+				{
+					"name":"N00111  AML1-ETO fusion to CEBPA-mediated transcription"
+				},
+				{
+					"name":"N00112  AML1-ETO fusion to PU.1-mediated transcription"
+				},
+				{
+					"name":"N00108  AML1-ETO fusion to transcriptional activtion"
+				},
+				{
+					"name":"N00109  PML-RARA fusion to transcriptional activtion"
+				},
+				{
+					"name":"N00113  PML-RARA fusion to transcriptional repression"
+				},
+				{
+					"name":"N00110  PLZF-RARA fusion to transcriptional activtion"
+				},
+				{
+					"name":"N00114  PLZF-RARA fusion to transcriptional repression"
+				},
+				{
+					"name":"N00117  E2A-PBX1 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00118  TEL-AML1 fusion to transcriptional repression"
+				},
+				{
+					"name":"N00119  MLL-AF4 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00120  MLL-ENL fusion to transcriptional activation"
+				},
+				{
+					"name":"N00144  TLX1 rearrangement to transcriptional repression"
+				},
+				{
+					"name":"N00121  LMO2-rearrangement to transcriptional activation"
+				},
+				{
+					"name":"N00122  LMO2-rearrangement to transcriptional repression"
+				},
+				{
+					"name":"N00123  Amplified REL to transcription"
+				},
+				{
+					"name":"N00124  IGH-MAF fusion to transcriptional activation"
+				},
+				{
+					"name":"N00125  IGH-MMSET fusion to transcriptional activation"
+				}
+				]
+			},
+			{
+				"name":"06242 Carcinoma",
+				"children":[
+				{
+					"name":"N00250  CDX2-overexpression to transcriptional activation"
+				},
+				{
+					"name":"N00251  CDX2-overexpression to transcriptional repression"
+				},
+				{
+					"name":"N00126  PAX8-PPARG fusion to PPARG-mediated transcription"
+				},
+				{
+					"name":"N00127  PRCC-TFE3 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00128  TMPRSS2-ERG fusion to transcriptional activation"
+				},
+				{
+					"name":"N00129  TMPRSS2-ERG fusion to transcriptional repression"
+				},
+				{
+					"name":"N00130  TMPRSS2-ETV5 fusion to transcriptional activation"
+				}
+				]
+			},
+			{
+				"name":"06243 Sarcoma",
+				"children":[
+				{
+					"name":"N00133  EWSR1-FLI1 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00134  EWSR1-FLI1 fusion to transcriptional repression"
+				},
+				{
+					"name":"N00135  EWSR1-ERG fusion to transcriptional activation"
+				},
+				{
+					"name":"N00136  EWSR1-ATF1 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00137  EWSR1-WT1 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00138  EWSR1-NR4A3"
+				},
+				{
+					"name":"N00139  FUS-DDIT3 fusion to CEBPB-mediated transcription"
+				},
+				{
+					"name":"N00140  FUS-DDIT3 fusion to NFKB-mediated transcription"
+				},
+				{
+					"name":"N00141  PAX3-FOXO1 fusion to transcriptional activation"
+				},
+				{
+					"name":"N00142  SYT-SSX fusion to transcriptional repression"
+				},
+				{
+					"name":"N00143  ASPL-TFE3 fusion to transcriptional activation"
+				}
+				]
+			},
+			{
+				"name":"06244 Other",
+				"children":[
+				{
+					"name":"N00131  Amplified MYCN to transcriptional activation"
+				},
+				{
+					"name":"N00132  Amplified MYCN to transcriptional repression"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06203 Viral protein interaction",
+			"children":[
+			{
+				"name":"06250 Human T-cell leukemia virus (HTLV-I)",
+				"children":[
+				{
+					"name":"N00221  HTLV-I Tax to host-cell-protein activation"
+				},
+				{
+					"name":"N00222  HTLV-I Tax to host-cell-protein inhibition"
+				}
+				]
+			},
+			{
+				"name":"06251 Hepatitis B virus (HBV)",
+				"children":[
+				{
+					"name":"N00267  HBV HBx to host-cell-protein activation"
+				},
+				{
+					"name":"N00268  HBV HBx to host-cell-protein inhibition"
+				}
+				]
+			},
+			{
+				"name":"06252 Hepatitis C virus (HCV)",
+				"children":[
+				{
+					"name":"N00269  HCV Core to host-cell-protein activation"
+				},
+				{
+					"name":"N00270  HCV Core to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00271  HCV NS3 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00272  HCV NS5A to host-cell-protein activation"
+				},
+				{
+					"name":"N00273  HCV NS5A to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00274  HCV NS5A binding to host-cell-protein"
+				}
+				]
+			},
+			{
+				"name":"06253 Kaposi sarcoma-associated herpesvirus (KSHV)",
+				"children":[
+				{
+					"name":"N00196  KSHV vIRF1\/2\/3 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00197  KSHV K-bZIP to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00198  KSHV KIE1\/2 to host-cell protein inhibition"
+				},
+				{
+					"name":"N00199  KSHV vBCL2 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00200  KSHV vIAP to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00201  KSHV vFLIP to host-cell-protein activation"
+				},
+				{
+					"name":"N00202  KSHV vFLIP to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00203  KSHV vCyclin to host-cell-protein activation"
+				},
+				{
+					"name":"N00204  KSHV LANA to host-cell-protein activation"
+				},
+				{
+					"name":"N00205  KSHV LANA to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00206  KSHV vGPCR to host-cell-protein activation"
+				},
+				{
+					"name":"N00207  KSHV K15 to host-cell-protein activation"
+				},
+				{
+					"name":"N00208  KSHV K1 to host-cell-protein activation"
+				},
+				{
+					"name":"N00209  KSHV vIL-6 to host-cell-protein activation"
+				},
+				{
+					"name":"N00210  KSHV MIR1\/2 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00211  KSHV vCCL1\/2\/3 to host-cell-protein activation"
+				},
+				{
+					"name":"N00212  KSHV vCCL2 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00213  KSHV KCP to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00214  KSHV Kaposin B to host-cell-protein inhibition"
+				}
+				]
+			},
+			{
+				"name":"06254 Epstein-Barr virus (EBV)",
+				"children":[
+				{
+					"name":"N00223  EBV EBNA-1 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00224  EBV EBNA-LP binding to host-cell-protein"
+				},
+				{
+					"name":"N00225  EBV EBNA-2 binding to host-cell-protein"
+				},
+				{
+					"name":"N00226  EBV EBNA3A\/3B to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00263  EBV EBNA3C to host-cell-protein activation"
+				},
+				{
+					"name":"N00262  EBV EBNA3C to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00264  EBV EBNA3C binding to host-cell-protein"
+				},
+				{
+					"name":"N00265  EBV LMP1 to host-cell-protein activation"
+				},
+				{
+					"name":"N00266  EBV LMP2 to host-cell-protein inhibition"
+				}
+				]
+			},
+			{
+				"name":"06255 Human papillomavirus (HPV)",
+				"children":[
+				{
+					"name":"N00190  HPV E5 to host-cell-protein activation"
+				},
+				{
+					"name":"N00191  HPV E5 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00192  HPV E6 to host-cell-protein activation"
+				},
+				{
+					"name":"N00193  HPV E6 to host-cell-protein inhibition"
+				},
+				{
+					"name":"N00194  HPV E7 to host-cell-protein activation"
+				},
+				{
+					"name":"N00195  HPV E7 to host-cell-protein inhibition"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06204 Drug-target relationship",
+			"children":[
+			{
+				"name":"06260 Kinase inhibitors",
+				"children":[
+				{
+					"name":"N10001  First-generation TKI to BCR-ABL"
+				},
+				{
+					"name":"N10002  Second- and third-generation TKI to drug-resistant BCR-ABL"
+				},
+				{
+					"name":"N10003  First-generation TKI to EML4-ALK"
+				},
+				{
+					"name":"N10004  Second- and third-generation TKI to drug-resistant EML4-ALK"
+				},
+				{
+					"name":"N10005  First and second-generation TKI to EGFR"
+				},
+				{
+					"name":"N10006  Third-generation TKI to drug-resistant EGFR"
+				},
+				{
+					"name":"N10007  BRAF kinase inhibitor to mutated BRAF"
+				}
+				]
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"06300 Endocrine network",
+		"children":[
+		{
+			"name":"06301 CRH-ACTH-Cortisol network",
+			"children":[
+			{
+				"name":"06310 ACTH-cortisol signaling",
+				"children":[
+				{
+					"name":"N00297  ACTH-cortisol signaling pathway"
+				},
+				{
+					"name":"N00299  Mutation-inactivated MC2R to ACTH-cortisol signaling pathway"
+				},
+				{
+					"name":"N00300  Mutation-inactivated MRAP to ACTH-cortisol signaling pathway"
+				},
+				{
+					"name":"N00321  Mutation-activated GNAS to ACTH-cortisol signaling pathway\t2"
+				},
+				{
+					"name":"N00323  Mutation-inactivated PDE11A\/PDE8B to ACTH-cortisol signaling pathway\t3"
+				},
+				{
+					"name":"N00320  Mutation-activated PRKACA to ACTH-cortisol signaling pathway\t5"
+				},
+				{
+					"name":"N00322  Mutation-inactivated PRKAR1A to ACTH-cortisol signaling pathway\t5"
+				},
+				{
+					"name":"N00298  CYP11B1-CYP11B2 fusion to ACTH-cortisol signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06311 CRH-ACTH signaling",
+				"children":[
+				{
+					"name":"N00324  CRHR-PKA-ACTH signaling pathway"
+				},
+				{
+					"name":"N00325  Mutation-inactivated RASD1 to CRHR-PKA-ACTH signaling pathway\t1"
+				},
+				{
+					"name":"N00326  Mutation-activated GNAS to CRHR-PKA-ACTH signaling pathway\t2"
+				},
+				{
+					"name":"N00327  Mutation-inactivated PRKAR1A to CRHR-PKA-ACTH signaling pathway"
+				}
+				]
+			},
+			{
+				"name":"06312 EGFR-ERK-ACTH signaling",
+				"children":[
+				{
+					"name":"N00318  EGFR-ERK-ACTH signaling pathway\t5"
+				},
+				{
+					"name":"N00319  Mutation-activated USP8 to EGFR-ERK-ACTH signaling pathway\t4"
+				}
+				]
+			},
+			{
+				"name":"06313 NR-CYP regulation",
+				"children":[
+				{
+					"name":"N00306  SF-1-mediated transcription\t4"
+				},
+				{
+					"name":"N00307  Mutation-inactivated DAX1 to SF-1-mediated transcription\t4"
+				},
+				{
+					"name":"N00308  Mutation-inactivated SF-1 to transcription\t4"
+				}
+				]
+			},
+			{
+				"name":"06314 Cortisol biosynthesis",
+				"children":[
+				{
+					"name":"N00339  Aldosterone biosynthesis"
+				},
+				{
+					"name":"N00338  Cortisol biosynthesis"
+				},
+				{
+					"name":"N00309  Cortisone reduction\t4"
+				},
+				{
+					"name":"N00310  Mutation-inactivated HED11B1 to cortisone reduction\t4"
+				},
+				{
+					"name":"N00311  NADPH generation\t2"
+				},
+				{
+					"name":"N00312  Mutation-inactivated H6PD to NADPH production\t2"
+				}
+				]
+			},
+			{
+				"name":"06315 Cortisol transport",
+				"children":[
+				{
+					"name":"N00313  Transport of cortisol\t5"
+				},
+				{
+					"name":"N00314  Mutation-inactivated CBG to transport of cortisol\t5"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06302 Aldosterone network",
+			"children":[
+			{
+				"name":"06316 Angiotensin-aldosterone signaling",
+				"children":[
+				{
+					"name":"N00301  Angiotensin-aldosterone signaling pathway"
+				},
+				{
+					"name":"N00302  Mutation-activated CACNA1D\/H to angiotensin-aldosterone signaling pathway\t4"
+				},
+				{
+					"name":"N00303  Mutation-activated KCNJ5 to angiotensin-aldosterone signaling pathway\t2"
+				},
+				{
+					"name":"N00304  Mutation-inactivated ATP1A1 to angiotensin-aldosterone signaling pathway\t2"
+				},
+				{
+					"name":"N00305  Mutation-inactivated ATP2B3 to angiotensin-aldosterone signaling pathway\t4"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06303 Parathyroid hormone network",
+			"children":[
+			{
+				"name":"06317 PTH-cAMP-PKA signaling",
+				"children":[
+				{
+					"name":"N00288  PTH-PTH1R-PKA signaling pathway\t1"
+				},
+				{
+					"name":"N00289  Mutation-inactivated GNAS to PTH-PTH1R-PKA signaling pathway\t1"
+				},
+				{
+					"name":"N00293  GCM2-mediated transcription"
+				},
+				{
+					"name":"N00294  Mutation-activated GCM2 to transcription"
+				},
+				{
+					"name":"N00295  Mutation-inactivated GCM2 to transcription"
+				},
+				{
+					"name":"N00296  Mutation-inactivated PTH to degradation"
+				}
+				]
+			},
+			{
+				"name":"06318 CaSR-PTH signaling",
+				"children":[
+				{
+					"name":"N00291  CaSR-PTH signaling pathway"
+				},
+				{
+					"name":"N00292  Mutation-inactivated CASR to CasR-PTH signaling pathway"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06304 Aryl hydrocarbon receptor network",
+			"children":[
+			{
+				"name":"06319 AHR-cell cycle regulation",
+				"children":[
+				{
+					"name":"N00317  Aryl hydrocarbon receptor signaling pathway"
+				},
+				{
+					"name":"N00315  Mutation-inactivated AIP to AhR-mediated transcription"
+				},
+				{
+					"name":"N00290  Mutation-inactivated MEN1 to transcription\t2"
+				},
+				{
+					"name":"N00316  Mutation-inactivated CDKN1B to p27-cell cycle G1\/S\t3"
+				}
+				]
+			}
+			]
+		},
+		{
+			"name":"06305 Cholesterol network",
+			"children":[
+			{
+				"name":"06320 APOB-LDLR signaling",
+				"children":[
+				{
+					"name":"N00332  Vesicular uptake of lipoproteins"
+				},
+				{
+					"name":"N00333  Mutation-caused aberrant APOB to vesicular uptake of lipoproteins"
+				},
+				{
+					"name":"N00334  Mutation-inactivated LDLR to vesicular uptake of lipoproteins"
+				},
+				{
+					"name":"N00335  Mutation-inactivated LDLRAP1 to vesicular uptake of lipoproteins"
+				},
+				{
+					"name":"N00336  PCSK9-mediated LDLR degradation"
+				},
+				{
+					"name":"N00337  Mutation-activated PCSK9 to PCSK9-mediated LDLR degradation"
+				}
+				]
+			}
+			]
+		}
+		]
+	}
+	]
+}
+
