@@ -2,5 +2,26 @@ From the KEGG [site](https://www.genome.jp/kegg/): "KEGG is a database resource 
 
 Here, I will provide links and usage info from a pathway perspective. I have included two R tutorials that I have developed so far, based on existing tutorials of others (thanks to them!). Tutorial for KEGGREST package that provides client-side support for REST access to KEGG is [here](https://bioconductor.org/packages/devel/bioc/manuals/KEGGREST/man/KEGGREST.pdf). There was some effort involved in installing KEGGREST on my Linux system. KEGGREST installation is detailed in README.md [here](https://github.com/shankar4/Functional-Genomics/edit/master/README.md). 
 
+KEGG Overview: It is a computer representation of the genomic and molecular level information of a biological system. It consists of genomic information (genes and proteins) integrated with the 'molecular wiring diagram' of interaction, reaction and relation networks. It also contains disease and drug/health information as *'perturbations* to the biological system. KEGG consists of 18 databases of the following information types ('category'): systems (pathway, brite - hierarchies and tables , and module); genomic (genome, genes, ssdb - seq similarity, compound - small molecules, and glycan); chemical (reaction, rclass - reaction class, enzyme, network (disease related network), and variant (gene variant); health (disease, drug, dgroup - drug group, environ - health-related substances). The database entry of each database is called a KEGG object (object ID - prefix + 5 digit #). 
+
+*More on KEGG objects*: Reference [here](https://www.genome.jp/kegg/kegg1a.html) and [here](https://www.genome.jp/kegg/kegg3.html)
+
+| Database         |   Object       | Prefix              | Example                             |
+|:----------------:|:--------------:|:-------------------:|:-----------------------------------:|
+|pathway           |pathway map     |map,ko,ec,m, or <org>| map00010, hsa04930                  |
+|brite             |functl hierarchy|br, jp, ko, or <org> | br:08303, ko01002, br:01002         |
+|module            |module          |M, <org>_M           | M00010- pathway module (citrate cycl|
+|ko-KEGG orthology |functl ortholog |K                    | K04527 - INSR(insulin receptor)     |
 
 
+
+
+
+
+
+
+
+
+
+
+Discussion of KO4527: This example was taken from the 'menu' page. However, it was a bit of work to recreate the same from the KEGG Mapper page [here](https://www.genome.jp/kegg/tool/map_pathway1.html). I could put ko, hsa, or hsadd (did not try others) in the 'Search against' box, but in the 'Enter Objects:' box, I had to enter it as thus: K04527 or ko:KO4527, but not KO:K04527, or KO:KO04527, etc. This gave a list of 20 or 21 pathways. The corresponding objects had prefixes corresponding to the search object entry. They may have had different 5 digit ids, along with different descriptions. Click on any of those and you will get a map of the biological pathway. The red boxes are the ones where this Insulin receptor will be mentioned (if you download the xml document and open it in a web browser) or hover on that box in this map itself. 
