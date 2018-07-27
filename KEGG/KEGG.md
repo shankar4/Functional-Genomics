@@ -12,6 +12,7 @@ KEGG Overview: It is a computer representation of the genomic and molecular leve
 |brite             |functl hierarchy|br, jp, ko, or <org> | br:08303, ko01002, br:01002         |
 |module            |module          |M, <org>_M           | M00010- pathway module (citrate cycl|
 |ko-KEGG orthology |functl ortholog |K                    | K04527 - INSR(insulin receptor)     |
+|genome            |organism genome |T                    | T01001 (hsa)
 
 
 
@@ -23,5 +24,6 @@ KEGG Overview: It is a computer representation of the genomic and molecular leve
 
 
 
+Discussion of KO4527: This example was taken from the 'menu' page. However, it was a bit of work to recreate the same from the KEGG Mapper page [here](https://www.genome.jp/kegg/tool/map_pathway1.html). I could put ko, hsa, or hsadd (did not try others) in the 'Search against' box, but in the 'Enter Objects:' box, I had to enter it as thus: K04527 or ko:KO4527, but not KO:K04527, or KO:KO04527, etc. This gave a list of 20 or 21 pathways. The corresponding objects had prefixes corresponding to the search object entry. They may have had different 5 digit ids, along with different descriptions. Click on any of those and you will get a map of the biological pathway. The red boxes are the ones where this Insulin receptor will be mentioned (if you download the xml document - identified with 'Download KGML' -  and open it in a web browser) or hover on that box in this map itself. 
 
-Discussion of KO4527: This example was taken from the 'menu' page. However, it was a bit of work to recreate the same from the KEGG Mapper page [here](https://www.genome.jp/kegg/tool/map_pathway1.html). I could put ko, hsa, or hsadd (did not try others) in the 'Search against' box, but in the 'Enter Objects:' box, I had to enter it as thus: K04527 or ko:KO4527, but not KO:K04527, or KO:KO04527, etc. This gave a list of 20 or 21 pathways. The corresponding objects had prefixes corresponding to the search object entry. They may have had different 5 digit ids, along with different descriptions. Click on any of those and you will get a map of the biological pathway. The red boxes are the ones where this Insulin receptor will be mentioned (if you download the xml document and open it in a web browser) or hover on that box in this map itself. 
+KEGG Pathway Maps page is [here](https://www.genome.jp/kegg/kegg3a.html). Each map is manually drawn with an in-house tool (kegSketch), which generates the KGML file, which is an SVG file that lists the KEGG objects as graphic objects. Basic graphic objects are: boxes- orthologs id-ed by K#s for ortholog (KO) groups and by R#s for metabolic (reaction) maps; circles - other chemical molecules (C for non-glycan, and G for glycan); and lines (for reactions and ortholog groups). Also ir organism specific pathway maps that are computationally generated: boxes - genes or gene products. KGML is an exchange format of KEGG pathway maps, meant for outside users. They have info on relations (between boxes) and reactions (between circles). 
