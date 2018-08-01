@@ -2,12 +2,12 @@
 
 #### 1. Contact Information
 
-Director, Center for Systems Integration (CSI)
-Professor, Computer and Electrical Engineering and Computer Science
-College of Engineering and Computer Science
-Florida Atlantic University (FAU) , PO Box 3091, Boca Raton, FL 33431-0991
-Off: (561) 297-3470, Fax: (561) 297-2800, Cell: (561) 306-5625
-Email: shankar@fau.edu   
+<p>Director, Center for Systems Integration (CSI)</p>
+<p>Professor, Computer and Electrical Engineering and Computer Science</p>
+<p>College of Engineering and Computer Science</p>
+<p>Florida Atlantic University (FAU) , PO Box 3091, Boca Raton, FL 33431-0991</p>
+<p>Off: (561) 297-3470, Fax: (561) 297-2800, Cell: (561) 306-5625</p>
+<p>Email: shankar@fau.edu</P>   
 
 Web Links: 
 •	Faculty Profile: 		http://faculty.eng.fau.edu/shankar/
