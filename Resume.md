@@ -1,4 +1,4 @@
-### <center>Ravi Shankar</center>
+### Ravi Shankar {style=text-align:center}
 
 #### Contact Information
 Director, Center for Systems Integration (CSI)\
