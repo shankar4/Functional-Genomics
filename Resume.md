@@ -88,6 +88,11 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 
 #### Refereed Conference Proceedings (recent ones):
 
+* Shankar, R., Terrell, D., Mitsova, D., and Sapat, A., A Case-Study Approach to Interlink Humanities with Engineering Education, 2017 Annual ASEE Conference, Ohio, June 2017
+* Shankar, R., Mitsova, D., Scarlatelli, S., McAfee, F., A Pipeline of High Achievers to STEM Program, 2017 Annual ASEE Conference, Ohio, June 2017
+* Islam, S., Minor, I., Shankar, R., Schoorman, D., Lapp, S., Outreach Program to Introduce Computer Science to Middle School Students, 2017 Annual ASEE Conference, Ohio, June 2017
+* Shankar, R., Sakraida, T., and McAfee, F., Smart and Connected Health Apps: A Cross-Disciplinary Effort, 2017 Annual ASEE Conference, Ohio, June 2017
+* Ohriniuc, R., Shankar, R., Aguerreverd, S., Trivedi, O., Cranage, B., Dukes, D., and Bodnick, J., A Multidisciplinary Cross-College Effort to Develop A Smart Health System, FAURC poster presentation, April 2017
 * Mitsova, D., Shankar, R., and McAfee, F., Mobile GIS Applications for Coastal Planning, accepted, AESS 2015, (Assn for Environmental Studies and Sciences)   
 * Islam, S., Shankar, R., Freytag, G., and Serrano, M., Empowerment with Informal Learning: Applicatrin of Mobile Technoloty to Teach Computer Science in K-12, 2nd International Conference on Microelectronics, Circuits and Systems, Micro2015,  August 2015, India. 
 * Shankar, R., Smart Phone Apps to Empower Middle School Students: Building a STEM Pipeline, Twenty-Second International Conference on Learning, The Learner Knowledge Community, Madrid, Spain,  July 9, 2015
