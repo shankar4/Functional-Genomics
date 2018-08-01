@@ -60,7 +60,7 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 #### Theses and Dissertations Supervised: 
 32 MS theses ( 2 on-going) and 9 PhD dissertations (one on-going) in the following domains (current to earlier): Semantic Web, System Modeling, Productivity, Computer Architecture, Concurrency, Artificial Neural Networks,  Design Automation, VLSI Design, Instrumentation, and Biomedical Engineering. 
 
-#### Patents (in Computer and Biomedical Engineering): [link]()  
+#### Patents (in Computer and Biomedical Engineering): [link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Shankar&FIELD1=INNM&co1=AND&TERM2=Boca+Raton&FIELD2=INCI&d=PTXT)  
 * Two patents on highly scaleable multiplier architecture for low power mobile systems. US patents numbers: 7,873,823 (issued in January 2011 and 7080114 (issued in January 2005)
 * Five patents on early and/or noninvasive diagnostic methods for atherosclerosis and diabetes. US patent numbers: 8,197,416 (issued in June 2012), 8,185,182 (issued in June 2012), 5,343,867 (issued in September 1994), 5,297,556 (issued in March 1994), and 5,241,963 (issued in September 1993). 
 
