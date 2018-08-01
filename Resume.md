@@ -157,6 +157,7 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 * Technology Transfer (1991-2001): My biomed patents resulting from pilot studies on human and monkey subjects were licensed to Vasocor Inc. I led a 30+ technical group (5/92-5/93) in developing Vasogram I. Vasogram II was used in a multi-center clinical validation study. (Herrington et al., Circulation, 2004).  My noninvasive measure for atherosclerosis was successfully correlated with abdominal aortic measurements with MRI. 
 
 #### Professional Recognition:
+* Reviewer for NSF Proposals, Feb  and May 2017: Panels on AISL and NRT. 
 * Panel Member, Education Alternatives for Combining Engineering and Management, IEMC, Newfoundland, CA, September 2005
 * Outstanding Faculty Award, Annual Award, College of Engineering, FAU, December 2003.
 * Plaque of Appreciation, for leadership in implementing ‘One Pass to Production’ and ‘Digital Six Sigma’ programs, Motorola’s iDEN Cell Phone Division, September 2003. 
