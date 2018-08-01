@@ -60,9 +60,10 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 #### Theses and Dissertations Supervised: 
 32 MS theses ( 2 on-going) and 9 PhD dissertations (one on-going) in the following domains (current to earlier): Semantic Web, System Modeling, Productivity, Computer Architecture, Concurrency, Artificial Neural Networks,  Design Automation, VLSI Design, Instrumentation, and Biomedical Engineering. 
 
-#### Patents (in Computer and Biomedical Engineering): [link](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Shankar&FIELD1=INNM&co1=AND&TERM2=Boca+Raton&FIELD2=INCI&d=PTXT)  
-* Two patents on highly scaleable multiplier architecture for low power mobile systems. US patents numbers: 7,873,823 (issued in January 2011 and 7080114 (issued in January 2005)
-* Five patents on early and/or noninvasive diagnostic methods for atherosclerosis and diabetes. US patent numbers: 8,197,416 (issued in June 2012), 8,185,182 (issued in June 2012), 5,343,867 (issued in September 1994), 5,297,556 (issued in March 1994), and 5,241,963 (issued in September 1993). 
+#### Patents (in Computer and Biomedical Engineering):  
+* Zevallos, J., Shankar, R., and Aguereverre, S.,  NFC Tag Reader for Patient Medication Monitoring, US patent filed by FIU, Application Number: 15644449, Filed: July 7, 2017, [link](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20180011987.PGNR.&OS=DN/20180011987&RS=DN/20180011987) 
+* Shankar, R., Two patents on highly scaleable multiplier architecture for low power mobile systems. US patents numbers: 7,873,823 (issued in January 2011 and 7080114 (issued in January 2005)
+* Shankar, R., Five patents on early and/or noninvasive diagnostic methods for atherosclerosis and diabetes. US patent numbers: 8,197,416 (issued in June 2012), 8,185,182 (issued in June 2012), 5,343,867 (issued in September 1994), 5,297,556 (issued in March 1994), and 5,241,963 (issued in September 1993). [Links for issued patents](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Shankar&FIELD1=INNM&co1=AND&TERM2=Boca+Raton&FIELD2=INCI&d=PTXT)
 
 #### Journal Publications (in Technology and Education):     
 * Mitsova, D., Wissinger, F., Esnard, A-M, Shankar, R., and Giles, P., A Collaborative Geospatial Shoreline Inventory Tool to Guide Coastal Development and Habitat Conservation,  ISPRS Int. J. Geo-Inf., 2013, 2(2), 385-404; doi:10.3390/ijgi2020385
