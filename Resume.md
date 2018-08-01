@@ -1,6 +1,6 @@
-<p align="center">
-### Ravi Shankar
-</p>
+
+### Resume of Ravi Shankar
+
 #### Contact Information
 Director, Center for Systems Integration (CSI)\
 Professor, Computer and Electrical Engineering and Computer Science\
