@@ -26,7 +26,7 @@ Systems Engineering as pertinent to Precision Medicine (IOT, Biosensors, Genomic
 Data Science Certificate, 9 courses + Capstone project, Coursera (non-degree), Johns Hopkins U, Oct 2015 \
 MBA, College of Business, Florida Atlantic University, Boca Raton, FL, May 2000 \
 PhD,   Electrical and Computer Engineering, University of Wisconsin, Madison, 1982 \
-M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 1977 \
+M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 1977 
 
 #### Employment and Professional Experience:
 • August 2017 – Dec 2018, Leave of Absence, Goal: Build the infrastructure for Precision Medicine systems research and teaching
@@ -43,10 +43,10 @@ M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 19
 •	1977-1982, Teaching & Research Assistant, Elec. and Comp. Eng., U of Wisconsin, Madison, WI
 
 #### Teaching Experience: 
-•	2008- 2017, Mobile Applications, based on open source tools for Google's Android, Arduino for robotics, Jena and Protégé for the semantic web, and EMF for auto code generation. 
-•	2000-2007,  System on a chip (SoC), with courses on Network on Chip,  Concurrency,  SystemC for mixed-signal systems, Design and Verification, and Biologically Inspired Architectures.
-•	1999-2000,  Innovation, with course on new product development, College of Business
-•	1986-1999, VLSI, with courses on  Microelectromechanical Systems (MEMS), Neural VLSI, Low Power Design, Silicon-on-Insulator (SOI),  Structured VLSI Design;  Introduction to VLSI
-•	1982-1992,  Computer Architecture, with courses on  Embedded System Design, Concurrent Processing, Neural Networks, Microcomputers,   Digital Computer Architecture 
-•	1985-2000,  Engineering Design Automation, with courses on CAD-Based Computer Design , Structured Digital Design; Computer Hardware Design, Semi-custom VLSI Design in DSP   
+•	2008- 2017, Mobile Applications, based on open source tools for JavaScript, Google's Android, Arduino for robotics, Jena and Protégé for the semantic web, and EMF for auto code generation. \
+•	2000-2007,  System on a chip (SoC), with courses on Network on Chip,  Concurrency,  SystemC for mixed-signal systems, Design and Verification, and Biologically Inspired Architectures. \
+•	1999-2000,  Innovation, with course on new product development, College of Business \
+•	1986-1999, VLSI, with courses on  Microelectromechanical Systems (MEMS), Neural VLSI, Low Power Design, Silicon-on-Insulator (SOI),  Structured VLSI Design,  Introduction to VLSI \
+•	1982-1992,  Computer Architecture, with courses on  Embedded System Design, Concurrent Processing, Neural Networks, Microcomputers,   Digital Computer Architecture \
+•	1985-2000,  Engineering Design Automation, with courses on CAD-Based Computer Design , Structured Digital Design; Computer Hardware Design, Semi-custom VLSI Design in DSP   \
 •	1982-1985, Data Acquisition,  Data Acquisition and Measurement Systems and  Biomedical Instrumentation Lab ( at the Univ. of Wisconsin-Madison)
