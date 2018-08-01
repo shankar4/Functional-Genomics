@@ -1,6 +1,6 @@
-###<center>Ravi Shankar</center>
+### <center>Ravi Shankar</center>
 
-####1. Contact Information
+#### 1. Contact Information
 
 Director, Center for Systems Integration (CSI)
 Professor, Computer and Electrical Engineering and Computer Science
