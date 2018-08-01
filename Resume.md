@@ -30,16 +30,16 @@ M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 19
 
 #### Employment and Professional Experience:
 • August 2017 – Dec 2018, Leave of Absence, Goal: Build the infrastructure for Precision Medicine systems research and teaching\
-•	2012-2013, Sabbatical, On building a consortium for smart phone and mobile Apps \
+•	2012-2013, Sabbatical, On building a consortium for smart phone and mobile Apps\
 •	1993-Present, Director, CSI, a center for multi-college university-industry collaboration\
 •	1982-Present, Promoted and Tenured,  Assistant to Full Professor, CEECS disciplines, FAU\
 •	2009-2017, On multi-college teaching coordination to help student teams develop Apps\
 •	2003-2008, Research Director, Motorola Grant ($1 M). Increased design productivity six fold\
 •	2001-2002, Senior Consultant,  Cadence Design Systems, leading maker of chip design software\
 •	1998-1999, Sabbatical, On rapid and low cost prototyping for STEM hands-on experience\ 
-•	1991-2002, Consultant, Vasocor,  on clinical studies for early prediction of  atherosclerosis \  
-•	1992-1993, Research Director, Vasocor Grant ($750K), on medical imaging for atherosclerosis \
-•	1986-2008, Consultant, IBM, APTEK, Harris, and Motorola, on engineering design automation \
+•	1991-2002, Consultant, Vasocor,  on clinical studies for early prediction of  atherosclerosis\  
+•	1992-1993, Research Director, Vasocor Grant ($750K), on medical imaging for atherosclerosis\
+•	1986-2008, Consultant, IBM, APTEK, Harris, and Motorola, on engineering design automation\
 •	1977-1982, Teaching & Research Assistant, Elec. and Comp. Eng., U of Wisconsin, Madison, WI
 
 #### Teaching Experience: 
