@@ -116,35 +116,32 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 * Shankar, R., and Islam, S., A Reference Model Based Patient Management System: Opportunities and Challenges, 25th Southern Biomedical Engineering Conference, May 2009
 * Mozelny, C., and Shankar, R., The Health Advisor: Application for Parkinson’s Disease, 25th Southern Biomedical Engineering Conference, May 2009 
 
-#### Sponsored Research Cash Grants : $ 4.5 M (Systems: $ 2.4 M, Biomed: $ 1.1M.  Royalties: $1M)
-* Shankar, R., Integration of medical device measurements with patient’s EMR, 	$100K
-ARC Devices, August 2015- December 2015
-* Citizen Science Apps, Grant from the Museum of Science	$18K
-and Discovery, Ft. Lauderdale, FL, August 2015
-* Integrating Mobile Apps and Robotics into STEM Education,  				   $21K 
-FAU Tech Fee Grant, October 2013  	       
-* A Shore  Characterization Tool to extend ARCGIS (PI: Mitsova),  FAU, 2012	  	   $10 K
-* Android App Development, FAU, 2010	$8 K 
-* Accelerated Mobile Product Development Co-PI: Agarwal), SBA, 2009-2010	$123 K	
-* Highly Scaleable Multiplier,  GAP Funding from Tech Transfer/FAU, 2007	$15 K  
-* One Pass to Production (Co-PI: Furht et al), Motorola/iDEN, 2003-2008	$1000 K
-* EDA Undergrad Curriculum, Cadence Design Systems, Inc, 2001-2002	$20 K
-* Low Power Optimization, SABA Grant, Motorola, 2000 –2001	$22 K
-* Advanced System Control (Co-PI: Pajunen), Motorola, 1999	$72 K
-* Integration of  RF and Digital Design Flow, Harris SemiConductors, 1997   	$25 K     	
-* Modularly Expandable Mixed Signal IC Tester, NSF and Motorola 1994 - 1997 	$260 K
-* A Seamless  Env. for Productivity, PI/Co-PI, NSF and Motorola, 1994-1995	$85 K
-* Early and Noninvasive Detection of Atherosclerosis, Vasocor, 1991-1993	$750 K
-* Character Recognition with Neural Networks (PI: Pandya), IBM, 1990-92	$86 K
-* Layout Topology Optimization for   DCVS Logic (Co-PI: Barrett), IBM, 1990-91	$77 K
-* Wafer Scale Integration for Image Perception, DARPA/SUS, 1989-1990	$78 K
-* VLSI Implementation issues for  neural networks,  FHTIC, 1989-1992	$109 K
-* Early Detection of Atherosclerosis,  FAU, 1989-1990	$27 K
-* Patterned Functional Electrical Stimulation for Hemiplegics, FHTIC, 1989-1990	$35 K
-* Design of Analog VLSI Cell Library, USF, Tampa,   1986-1988 	$40 K
-* VLSI Design of Communication Systems (Co-PI: Szabo), APTEK,  1986-1987	$75 K 
-* Early Noninvasive Detection of Atherosclerosis, FHTIC, 1985-1987	$133 K
-* Distributed Computing and VLSI Design (Co-PI: Raskin), IBM   1984-1986	$125 K
+#### Sponsored Research Cash Grants : $ 4.5 M (Systems: $ 2.4 M, Biomed: $ 1.1 M.  Royalties: $1 M)
+* Shankar, R., Integration of medical device measurements with patient’s EMR, ARC Devices,  2015- 2016, $100 K
+* Citizen Science Apps, Grant from the Museum of Science and Discovery, Ft. Lauderdale, FL,  2015-2017, $54 K 
+* Integrating Mobile Apps and Robotics into STEM Education, FAU Tech Fee Grant, October 2013, $21 K   	       
+* A Shore  Characterization Tool to extend ARCGIS (PI: Mitsova), FAU, 2012,  $10 K
+* Android App Development, FAU, 2010,	$8 K 
+* Accelerated Mobile Product Development Co-PI: Agarwal), SBA, 2009-2010,	$123 K	
+* Highly Scaleable Multiplier,  GAP Funding from Tech Transfer/FAU, 2007,	$15 K  
+* One Pass to Production (Co-PI: Furht et al), Motorola/iDEN, 2003-2008,	$1000 K
+* EDA Undergrad Curriculum, Cadence Design Systems, Inc, 2001-2002,	$20 K
+* Low Power Optimization, SABA Grant, Motorola, 2000 –2001,	$22 K
+* Advanced System Control (Co-PI: Pajunen), Motorola, 1999,	$72 K
+* Integration of  RF and Digital Design Flow, Harris SemiConductors, 1997,   	$25 K     	
+* Modularly Expandable Mixed Signal IC Tester, NSF and Motorola 1994 - 1997, 	$260 K
+* A Seamless  Env. for Productivity, PI/Co-PI, NSF and Motorola, 1994-1995,	$85 K
+* Early and Noninvasive Detection of Atherosclerosis, Vasocor, 1991-1993,	$750 K
+* Character Recognition with Neural Networks (PI: Pandya), IBM, 1990-92,	$86 K
+* Layout Topology Optimization for   DCVS Logic (Co-PI: Barrett), IBM, 1990-91,	$77 K
+* Wafer Scale Integration for Image Perception, DARPA/SUS, 1989-1990,	$78 K
+* VLSI Implementation issues for  neural networks,  FHTIC, 1989-1992,	$109 K
+* Early Detection of Atherosclerosis,  FAU, 1989-1990,	$27 K
+* Patterned Functional Electrical Stimulation for Hemiplegics, FHTIC, 1989-1990,	$35 K
+* Design of Analog VLSI Cell Library, USF, Tampa,   1986-1988, 	$40 K
+* VLSI Design of Communication Systems (Co-PI: Szabo), APTEK,  1986-1987,	$75 K 
+* Early Noninvasive Detection of Atherosclerosis, FHTIC, 1985-1987,	$133 K
+* Distributed Computing and VLSI Design (Co-PI: Raskin), IBM   1984-1986,	$125 K
  
 #### Synergistic (and Large Team) Activities:
 * Consortium for Smart Phone, Mobile and Web Applications  (2011 to 2017): Multi-disciplinary efforts that combines my various backgrounds in biomedical, electrical, computer engineering, computer science, innovation, and management. Multi-college joint courses have evolved   on smart phones, robotics and the semantic web. These span high school to graduate school, across a number of colleges. This has facilitated communication across colleges which can be leveraged to evolve a university infrastructure of research enhancement, social entrepreneurism and STEM.
