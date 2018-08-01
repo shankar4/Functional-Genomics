@@ -1,5 +1,5 @@
 
-## Resume of Ravi Shankar
+## Resume of Ravi Shankar, PhD, MBA, PE, Fellow (AHA)
 
 ### General Information
 #### Contact Information
@@ -32,13 +32,13 @@ M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 19
 #### Employment and Professional Experience:
 * August 2017 – Dec 2018, Leave of Absence, Goal: Build the infrastructure for Precision Medicine systems research and teaching
 * 2012-2013, Sabbatical, Built a consortium for smart phone and mobile Apps
-* 1993-Present, Director, CSI, a center for multi-college university-industry collaboration. 
+* 1993-Present, Director, [CSI](http://csi.fau.edu/), a center for multi-college university-industry collaboration. 
 * 1982-Present, Promoted and Tenured,  Assistant to Full Professor, CEECS disciplines, FAU
-* 2009-2017, Multi-college teaching coordination to help student teams develop Apps
-* 2003-2008, Research Director, Motorola Grant ($1 M). Increased design productivity six fold
+* 2009-2017, Multi-college teaching coordination to help [student teams](http://faculty.eng.fau.edu/shankar/research/smart-phone-apps/) develop Apps
+* 2003-2008, Research Director, Motorola Grant ($1 M). Increased [design productivity](http://faculty.eng.fau.edu/shankar/approach/) six fold
 * 2001-2002, Senior Consultant,  Cadence Design Systems, leading maker of chip design software
 * 1998-1999, Sabbatical, Rapid and low cost prototyping for STEM hands-on experience  
-* 1991-2002, Consultant, Vasocor,  Clinical studies for early prediction of  atherosclerosis   
+* 1991-2002, Consultant, Vasocor,  Clinical studies for [early prediction](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Shankar&FIELD1=INNM&co1=AND&TERM2=Boca+Raton&FIELD2=INCI&d=PTXT) of  atherosclerosis   
 * 1992-1993, Research Director, Vasocor Grant ($750K), Medical imaging for atherosclerosis
 * 1986-2008, Consultant, IBM, APTEK, Harris, and Motorola, Engineering design automation
 * 1977-1982, Teaching & Research Assistant, Elec. and Comp. Eng., U of Wisconsin, Madison, WI
@@ -157,7 +157,9 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 * Technology Transfer (1991-2001): My biomed patents resulting from pilot studies on human and monkey subjects were licensed to Vasocor Inc. I led a 30+ technical group (5/92-5/93) in developing Vasogram I. Vasogram II was used in a multi-center clinical validation study. (Herrington et al., Circulation, 2004).  My noninvasive measure for atherosclerosis was successfully correlated with abdominal aortic measurements with MRI. 
 
 #### Professional Recognition:
+* Member, National Academy of Inventors, August 2018
 * Reviewer for NSF Proposals, Feb  and May 2017: Panels on AISL and NRT. 
+* Workshop Presenter,  IEEE Syscon conferences, 2014 and 2015 on Semantic Web Technologies and Eclipse Modeling Framework
 * Panel Member, Education Alternatives for Combining Engineering and Management, IEMC, Newfoundland, CA, September 2005
 * Outstanding Faculty Award, Annual Award, College of Engineering, FAU, December 2003.
 * Plaque of Appreciation, for leadership in implementing ‘One Pass to Production’ and ‘Digital Six Sigma’ programs, Motorola’s iDEN Cell Phone Division, September 2003. 
@@ -171,7 +173,7 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 #### Continuing Education: 
 * Certification of Achievement. Web 2.20 Tools You can Use to Improve Learning, The Sloan Consortium, December 2012. 
 * eLearning Designer/Facilitator Certification at FAU, passed with honors, May 2012
-* CITI (Collaborative Institutional Training Initiative) Certification obtained for both Biomedical Research Investigators and Social & Behavioral Research investigators, September   2011 
+* CITI (Collaborative Institutional Training Initiative) Certification obtained for both Biomedical Research Investigators and Social & Behavioral Research investigators, 2011 - 2020
 * NIH, UMLS (Unified Medical Language System) One-day Training, Fall 2007
 * Rhapsody, UML Tool for Real-Time, Motorola Funding, FAU, April 2004
 * NSF Sponsored Workshop on Biocomplexity, at Dartmouth College, Hanover, NH, July 2002.
