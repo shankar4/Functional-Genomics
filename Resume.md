@@ -185,6 +185,6 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 
 #### Collaborators and Other Affiliations:
 * Industrial Applications: Jaime Borras, ex-VP and CTO, iDEN, Motorola, Plantation, FL, now President, MTC (mobile Technology Consortium), FL; Jerry Merckel, ex-Senior Manager, IBM, Boca Raton, FL. 
-* Academic Teaching & Research: Diana Misova Boneva (Urban Planning), Michael Harris (Anthropology), Susanne Lapp (Education), Fran McAfee (Arts), Alka Sapat (Urban Planning), Dilys Schoorman (Education), and Don Ploger (Education), Faculty  members at FAU and FIU. 
-* Biomedical Research: John G Webster, Professor Emeritus, University of Wisconsin, Madison, WI,  M. G. Bond, Professor Emeritus, Bowman Gray School of Medicine, Winston-Salem, NC, Juan Zevallos, Associate Professor, Cardiology FIU,  Teresa Sakraida, Associate Professor,  Nursing. 
+* Academic Teaching & Research: Diana Misova Boneva (Urban Planning), Michael Harris (Anthropology), Susanne Lapp (Education), Fran McAfee (Arts), Alka Sapat (Urban Planning), Dilys Schoorman (Education), and Don Ploger (Education), Faculty  members at FAU. 
+* Biomedical Research: John G Webster, Professor Emeritus, University of Wisconsin, Madison, WI;  M. G. Bond, Professor Emeritus, Bowman Gray School of Medicine, Winston-Salem, NC; Juan Zevallos, Associate Professor, Cardiology FIU; and   Teresa Sakraida, Associate Professor,  Nursing. 
 
