@@ -44,7 +44,7 @@ M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 19
 * 1977-1982, Teaching & Research Assistant, Elec. and Comp. Eng., U of Wisconsin, Madison, WI
 
 #### Teaching Experience: 
-* 2008- 2017, Mobile Applications, based on open source tools for JavaScript, Google's Android, Arduino for robotics, Jena and Protégé for the semantic web, and EMF for auto code generation. 
+* 2008- 2017, [Mobile Applications](http://csi.fau.edu/research/team-projects/), based on open source tools for JavaScript, Google's [Android](http://android.fau.edu/), Arduino for [robotics](http://robotics.fau.edu/), Jena and Protégé for the [semantic web](http://semanticweb.fau.edu/), and EMF for [auto code](http://csi.fau.edu/research/educational-apps/) generation. 
 * 2000-2007,  System on a chip (SoC), with courses on Network on Chip,  Concurrency,  SystemC for mixed-signal systems, Design and Verification, and Biologically Inspired Architectures. 
 * 1999-2000,  Innovation, with course on new product development, College of Business 
 * 1986-1999, VLSI, with courses on  Microelectromechanical Systems (MEMS), Neural VLSI, Low Power Design, Silicon-on-Insulator (SOI),  Structured VLSI Design,  Introduction to VLSI 
@@ -68,9 +68,9 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 #### Journal Publications (in Technology and Education):     
 * Mitsova, D., Wissinger, F., Esnard, A-M, Shankar, R., and Giles, P., A Collaborative Geospatial Shoreline Inventory Tool to Guide Coastal Development and Habitat Conservation,  ISPRS Int. J. Geo-Inf., 2013, 2(2), 385-404; doi:10.3390/ijgi2020385
 * Fonoage, M., Cardei, I., and Shankar, R., Mechanisms for Requirements Driven Component Selection and Design Automation,  IEEE Systems Journal, Vol. 4, No. 3, Sept 2010, pp. 396-403
-* Shankar, R., Gopinathan, M., and Webster, J.G., Digital Signal Processing in clinical validation studies with impedance plethysmography, Paper draft, CSI Technical Report, csi.fau.edu.
-* Shankar, R., Shao, S.Y., and Webster, J.G., A Fully Automated Multi-Channel Digital Electrical Impedance Plethysmograph, Paper Draft, CSI Technical Report, csi.fau.edu.
-* Shankar, R., Webster, J.G., Object-Process Modeling of Glucose Metabolism in Health and Disease, Paper Draft, CSI Technical Report,  csi.fau.edu.
+* Shankar, R., Gopinathan, M., and Webster, J.G., Digital Signal Processing in clinical validation studies with impedance plethysmography, Paper draft, [CSI Technical Report](http://csi.fau.edu/wp-content/uploads/2013/01/Digital_Signal_Processing_Impedance_Plethysmography1.pdf), csi.fau.edu.
+* Shankar, R., Shao, S.Y., and Webster, J.G., A Fully Automated Multi-Channel Digital Electrical Impedance Plethysmograph, Paper Draft, [CSI Technical Report](http://csi.fau.edu/wp-content/uploads/2013/01/Fully_Automated_Multi_Channel_Plethysmograph1.pdf), csi.fau.edu.
+* Shankar, R., Webster, J.G., Object-Process Modeling of Glucose Metabolism in Health and Disease, Paper Draft, [CSI Technical Report](http://csi.fau.edu/wp-content/uploads/2013/01/OPD_Glucose_Jan01212009a1.pdf),  csi.fau.edu.
 * Agarwal, A., Shankar, R.,  and Iskander, C.,Survey of NoC Architectures and Contributions, Scientific International Journal of Engineering Computing and Architectures, Vol. 3, Issue 1, 2009  
 * Agarwal, A., Shankar, R., A Concurrency Model for Network on Chip Design Methodology, Journal of Modeling and Simulation, Vol. 29, Issue 3, pp. 238-247, 2009 
 * Agarwal, A., Mustafa, M., Shankar, R., Pandya, A.S., and Lho, Y., A Deadlock Free Router Design for Network on Chip Architecture,   Journal of Korea Institute of Maritime Information and Communication Sciences, Vol. 11, No. 4, pp. 696 - 706, April 2007
