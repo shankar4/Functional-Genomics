@@ -128,7 +128,7 @@ Mobile Systems, System Complexity, Semantic and Intelligent web, Engineering Des
 
 #### Sponsored Research Cash Grants : $ 4.5 M (Systems: $ 2.4 M, Biomed: $ 1.1 M.  Royalties: $1 M)
 * Shankar, R., Integration of medical device measurements with patient’s EMR, ARC Devices,  2015- 2016, $100 K
-* Citizen Science Apps, Grant from the Museum of Science and Discovery, Ft. Lauderdale, FL,  2015-2017, $54 K 
+* Citizen Science Apps, Grant from the Museum of Science and Discovery and the United Way, Ft. Lauderdale, FL,  2015-2017, $54 K 
 * Integrating Mobile Apps and Robotics into STEM Education, FAU Tech Fee Grant, October 2013, $21 K   	       
 * A Shore  Characterization Tool to extend ARCGIS (PI: Mitsova), FAU, 2012,  $10 K
 * Android App Development, FAU, 2010,	$8 K 
