@@ -17,7 +17,7 @@ Email: shankar@fau.edu
 •	Github Open Source App site (2017 and earlier): https://github.com/RShankar?tab=repositories \
 •	Github Research site (on ‘Precision Medicine’):  https://github.com/shankar4?tab=repositories \
 •	Google Scholar (yet to update): http://scholar.google.com/citations?user=4nMakAEAAAAJ&hl=en \
-•	Other: https://www.linkedin.com/in/shankar14, & http://www.researchgate.net/profile/Ravi_Shankar55\
+•	Other (may need login): https://www.linkedin.com/in/shankar14, & http://www.researchgate.net/profile/Ravi_Shankar55\
 
 #### Objective:
 Contribute to progress on issues of national importance by leveraging my various strengths in 
