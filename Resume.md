@@ -34,7 +34,7 @@ PhD,   Electrical and Computer Engineering, University of Wisconsin, Madison, 19
 M.S,   Electrical and Computer Engineering, University of Wisconsin, Madison, 1977 
 
 #### Employment and Professional Experience:
-* August 2017 – Dec 2018, Leave of Absence, Goal: Build the infrastructure for Precision Medicine (AHA Definition) systems research and training
+* August 2017 – Dec 2018, Leave of Absence, Goal: Build the infrastructure for research and training in Precision Medicine systems (AHA Definition)
 * 2012-2013, Sabbatical, Built a consortium for smart phone and mobile Apps
 * 1993-Present, Director, [CSI](http://csi.fau.edu/), a center for multi-college university-industry collaboration. 
 * 1982-Present, Promoted and Tenured,  Assistant to Full Professor, CEECS disciplines, FAU
