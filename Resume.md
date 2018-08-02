@@ -21,7 +21,7 @@ Email: shankar@fau.edu
 
 #### Objective:
 Contribute to progress on issues of national importance by leveraging my various strengths in 
-* Technology (systems, engineering, medicine,  algorithms, genomics, semantic web, and automation), 
+* Technology (systems, engineering, medicine,  algorithms, genomics, semantic web, analytics, and automation), 
 * Education (STEM education, eLearning  and interdisciplinary collaboration), and  
 * Management (innovation, management, leadership, industry experience, and grantsmanship)
 
