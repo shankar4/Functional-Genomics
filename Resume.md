@@ -1,4 +1,4 @@
-
+Note: Subsections can be collapsed for easy navigation. This is an user extension (not native to md at present). To view in that format, please install [Tampermonkey](https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-beginners-HOWTO) manager on Chrome (or Mozilla Firefox) and then install [Github Collapse Markdown](https://openuserjs.org/scripts/Mottie/GitHub_Collapse_Markdown). Both are user-verified and safe, and have open-source MIT-license. 
 ## Resume of Ravi Shankar, PhD, MBA, PE, Fellow (AHA)
 
 ### General Information
