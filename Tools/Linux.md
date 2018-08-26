@@ -39,7 +39,7 @@ If the command name is not known, use 'info' in bash. *It is tedious to use*. It
 
 End of first chapter. 
 
-How to adjust brightness in Ubuntu: my Dell does not have brightness control capability suggested in the Ubuntu documentation. I used the info [here](https://askubuntu.com/questions/762764/cant-change-brightness-in-ubuntu-16-04-lts). Had to download a brightness controller software. 
+How to adjust brightness in Ubuntu: my Dell does not have brightness control capability suggested in the Ubuntu documentation. I used the info [here](https://askubuntu.com/questions/762764/cant-change-brightness-in-ubuntu-16-04-lts). Had to download a brightness controller software. Use Fn key and F11 and F12 to control brightness. 
 
 
 
