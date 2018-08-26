@@ -35,7 +35,9 @@ Contents of a Linux pseudo (or virtual) file, like those with /sys and /proc dir
 
 Linux documentation is available through the man command. 
 
-If the command name is not known, use info in bash. *It is tedious to use*. It gives an interactive environment to explore. The content is arranged alphabetically. Scroll and enter to find. For eg., go to Basics and scroll down to File Permissions and Enter. First, note that this GUI within the shell windown (a bit cumbersome) has some useful commands: q for quit, ? for listing of all Info commands, h to start a tutorial, mTextInfo RET takes one to the Texinfo manual. Hitting on any * item in the hirerarchy takes one to the lower level. Reverse logic of using 'Ctrl *' takes one up the hierarchy (sometimes!) - it also can open the actual leaf level file. *c or *s cancels/stops. *x has no effect. 
+If the command name is not known, use 'info' in bash. *It is tedious to use*. It gives an interactive environment to explore. The content is arranged alphabetically. Scroll and enter to find. For eg., go to Basics and scroll down to File Permissions and Enter. First, note that this GUI within the shell windown (a bit cumbersome) has some useful commands: q for quit, ? for listing of all Info commands, h to start a tutorial, mTextInfo RET takes one to the Texinfo manual. Hitting on any * item in the hirerarchy takes one to the lower level. Reverse logic of using 'Ctrl *' takes one up the hierarchy (sometimes!) - it also can open the actual leaf level file. *c or *s cancels/stops. *x has no effect. 
+
+End of first chapter. 
 
 
 
