@@ -15,5 +15,7 @@ Every object within a Linux file system is represented by *inode* metadata. use
 
 globbing (from 'global') is used to apply wild characters to the filenames addressed by the commands. 
 >mkdir mytemp
+
 >mv myf* mytemp # * is 0 to many characters; ? is for only one character.
+
 >rm -r mytemp
