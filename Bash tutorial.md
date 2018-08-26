@@ -55,7 +55,7 @@ $ grep [yf] /etc/group -- displays any line with either y or f
 
 grep '\<c...h\>' /usr/share/dict/words  -- displays 5 letter words in dictionary that start with c and end in h 
 
-grep '\<c.*h\>' /usr/share/dict/words  - * implies any number of letters in-between
+grep '\<c.*h\>'  /usr/share/dict/words  -  *implies any number of letters in-between
 
 <!--- Continue with Chapter 5 on sed and Chapter 6 on AWK --->
 
@@ -73,7 +73,7 @@ Adding hashtag later in the line negagtes the bolding of header lines with #. Se
 
 **Perl on Linux**  Ref: https://www.thoughtco.com/how-to-install-and-run-perl-2641103  (this ref seems outdated; see the Perl links below)     
 It is a good data mining and scripting tool    
-checked if installed with:   
+check if installed with:   
 perl -v
 >This is perl 5, version 22, subversion 1 (v5.22.1) built for x86_64-linux-gnu-thread-multi
 (with 60 registered patches, see perl -V for more detail).....  
@@ -102,7 +102,7 @@ Hello, Ravi
 How to read and write in Perl-- Ref: http://learn.perl.org/examples/read_write_file.html   
 Another good ref: https://perlmaven.com/use-path-tiny-to-read-and-write-file   
 There are 108K Perl modules that can be downloaded and installed from CPAN (Comprehensive Perl Archival network).
-Need do these two things to install Path::Tiny  
+Need to do these two things to install Path::Tiny  
 cpan App::cpanminus  --nI chose the option to load into my homedirectory. I had to redo with sudo this command
 to install the Path module with cpanm Module::Name ..specifically cpanm Path::Tiny. 
 
@@ -137,7 +137,7 @@ I also installed Entrez Direct (EDirect) perl scripts from NCBI's EDirect site (
 $ echo $PATH
 >/home/shankar/perl5/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/.nvm/versions/node/v4.2.6/bin:/home/shankar/perl5/bin:/home/shankar/src/edirect:/home/shankar/miniconda3/bin:/home/shankar/bin:/home/shankar/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/fis-gtm/V6.0-003_x86_64:/usr/lib/fis-gtm/V6.0-003_x86_64
 
-.bashrc in the home directory is hidden. Use this in your home directory to find and list (some files deleted in the list below):
+.bashrc in the home directory is hidden. Use this in your home directory to find and list (some files not shown in the list below):
 
 $ ls -la  | more
 
