@@ -5,7 +5,7 @@
 
 3. Databases: [Genbank at NCBI](https://www.ncbi.nlm.nih.gov/genbank/). **For more info, please see the folder entitled [Functl Gen Pevsnar](https://github.com/shankar4/Functional-Genomics/tree/master/FunctlGen%20Pevsner)**; 
 
-4. Glossary (consolidated): A 1996 version of the Human Genome map is found [here](http://geneticssuite.net/node/33). Their definition of 'extragenic' not seen in literature. They do not use 'intergenic' either; but still a good map. **Note**: Some of these are reproduced verbatim from other public sites; no authorship is claimed. They are summarized and thus may not contain nuances. 
+4. Glossary (consolidated): A 1996 version of the Human Genome map is found [here](http://geneticssuite.net/node/33). Their definition of 'extragenic' not seen in literature. They do not use 'intergenic' either; but still a good map. **Note**: Some of these are reproduced verbatim from other public sites; no authorship is claimed. They are summarized and thus may not contain nuances. Some book references are also given at the end of this section. 
    * [Aldehyde](https://www.britannica.com/science/aldehyde) - An organic compound with a C atom double bonded to an O atom ('carbonyl group') and single bonded to an H atom and separately, to another atom or a group of atoms (the generic 'R'). Many aldehydes have a pleasant odor, derived from alcohols. They polymerize with other molecules (eg. commercial - plastics such as Bakelite and Formica, and solvents). Physiological - retinal - vitamin A aldehyde, pyridoxal phosphate, a form of Vitamin B<sub>6</sub>. *Glucose* and other reducing sugars are aldehydes, as are many natural and synthetic hormones. 
     * Alu - They are SINES (short interspersed elements) present in multiple copies in human and other primate genomes; about 300 bp in length, found in introns, 3' UTR, and intergenic genomic regions; mobile elements and has most abundant copy number (0.5 M). It is used as a universal PCR primer as it binds in both directions.
     * bacteriophase or phage - any virus that infects bacteria
@@ -15,7 +15,7 @@
     * Enzymes Vs Proteins - Enzymes (proteases) break the peptide bonds between the amino acids that make up a protein. eg trypsin and chymotrypsin in the stomach break large proteins into smaller peptides. Carboxypeptidase break peptides into amino acids. Enzymes can speed up the reaction thousand to million fold. 
     * GeneID - unique ID in Entrez Gene; an integer which is species specific. Reported in RefSeq as a 'db_xref'.
     * Glycoproteins - most secreted and membrane proteins. has 1 to 80 sugars in oligosaccharide chain    
-    * GAG - Glycosaminoglycans, chains of repeating dissacharides; comprises of an amino sugar (eg GalNac or GlcNac) and a sugar acid (eg glucouronic acid). 10 to 1000 dissacharide units in a chain. OH and amino groups of sugards are frequently sulfated. eg. HA (Hyaluronan). 
+    * GAG - Glycosaminoglycans, chains of repeating dissacharides; comprises of an amino sugar (eg GalNac or GlcNac) and a sugar acid (eg glucouronic acid). 10 to 1000 dissacharide units in a chain. OH and amino groups of sugars are frequently sulfated. eg. HA (Hyaluronan). 
     * HapMap and Haploview -  A **haplotype** is a set of DNA polymorphisms that are likely to be inherited together (on the same chromosome - **alleles** (alternate forms of a gene) or a set of SNPs). Haplotype map (HapMap) identifies genetic variants affecting health, disease, drug sensitivity, and environmental impact. Two unrelated people share 99.5% of their DNA sequence. HapMap focuses on common SNPs where each allele occurs in >1% of the population (rare **Mendeilian** diseases: <0.1 % ( in in a thousand) to a few in a million). 
     * Hazard Ratio and Odds Ratio [Ref](https://stats.stackexchange.com/questions/91107/is-there-any-functional-difference-between-an-odds-ratio-and-hazard-ratio) - **Odds ratio** of 2 in logistic regression means that the event is 2 times more probable given a unit increase in the predictor. In Cox regression, a **hazard ratio** of 2 means that the event will occur twice as often at each time point given a one-unit increase in the predictor. The former is a static model, while the latter considers the time element. Probability (from odds ratio) is fixed, while hazard (from hazards ratio) can increase with time (here: doubles every unit of time).  
     * homologous - similarity attributable to descent from a common ancestor
@@ -54,7 +54,9 @@
     
     
 
-
+*Book references used*:
+* Biochemistry, Lippincott's Illustrated Reviews, by P.C. Champe and R.A. Harvey, 1987
+* Biology: Concepts and Connections, by N.A. Campbell et al., Fifth edition, 2006
     
    
     
